@@ -1190,7 +1190,7 @@ form label.error {
     /*#menu-button.menu-opened .bar-icon,*/
     .header .side-menu-btn ul li a.right-icon:hover, .header.sticky .side-menu-btn ul li a.right-icon:hover, .header .mobile-menu-icon:hover,
     .background--dark .header .navigation a:hover {
-        color: #DC3D8E;
+        color: #FFF;
     }
 
 .header li {
