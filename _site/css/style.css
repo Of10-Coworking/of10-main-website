@@ -2865,6 +2865,23 @@ height:100%;
         opacity: 0;
     }
 
+    .text-tile{
+        height:320px;
+        width:500px;
+        background-color: white;
+    }
+
+    .quote-tile{
+        padding-top: 20px;
+    }
+
+    .quote{
+        padding-top: 20px;
+        font-size: 25px;
+        font-weight: 200;
+        line-height: 170%;
+    }
+
 .project-detail-block p {
     font-size: 12px;
     letter-spacing: 2px;
