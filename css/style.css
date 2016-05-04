@@ -2783,6 +2783,10 @@ height:100%;
                 color: #e6ae49;
             }
 
+.grad_background {
+    background-image: linear-gradient(#EC008C, white, white)
+}         
+
 .item-box {
     position: relative;
     overflow: hidden;
@@ -2878,7 +2882,7 @@ height:100%;
     .quote{
         padding-top: 20px;
         font-size: 25px;
-        font-weight: 900;
+        font-weight: 700;
         line-height: 170%;
     }
 
