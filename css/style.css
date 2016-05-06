@@ -1299,9 +1299,9 @@ header.sticky .navigation a.current-ele {
     color:#fff;
 }
 
-.logo_main{
+.logo_footer{
     font-family: 'LOT';
-    font-size: 180px;
+    font-size: 40px;
     letter-spacing: 5px;
     color:white;
 }
@@ -2863,6 +2863,19 @@ height:100%;
         line-height: 170%;
         color: white;
     }
+
+@media(max-width: 767px){
+    .text-tile {
+        width: 320px;
+    }
+    .quote{
+        height:0%;
+        font-size: 20px;
+    }
+    .item-mask .item-caption {
+        opacity: 1;
+    }
+}
 
 .project-detail-block p {
     font-size: 12px;
