@@ -54,6 +54,16 @@
         }
     });
 
+    $("#imgAnimate").hover(
+        function()
+        {
+            $(this).attr("src", "img/brickwall/hustle.gif");
+        },
+        function()
+        {
+            $(this).attr("src", "img/brickwall/hustle.gif");
+        });
+
   document.querySelector( "#nav-toggle" ).addEventListener( "click", function() {
     this.classList.toggle( "active" );
     var el = document.getElementById("navigation");
