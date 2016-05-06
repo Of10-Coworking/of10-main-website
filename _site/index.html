@@ -39,24 +39,13 @@
     <!-- End Preloader -->
         <div class="wrapper">
         <!-- Sidemenu -->
-<section class="side-menu cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right">
-    <a class="menu-close toggle-menu menu-right push-body"><i class="ion ion-android-close"></i></a>
-    <!-- <h5 class="white">Sign In</h5>
-    <div class="sign-in">
-        <input class="input-sm form-full" type="email" aria-required="true" id="email" name="email" placeholder="Email" value="" />
-        <input class="input-sm form-full" type="password" aria-required="true" id="password" name="password" placeholder="Password" value="" />
-        <input type="submit" class="btn btn-md btn-color-b form-full" value="Sign In" />
-        <a>New Customer?</a>
-    </div> -->
-    <ul>
-        <li><a href="#home">Home</a></li>
-        <li><a href="#about">About</a></li>
-        <li><a href="#amenities">Amenities</a></li>
-        <li><a href="#gallery">Gallery</a></li>
-        <li><a href="#events">Events</a></li>
-        <li><a href="#apply">Apply</a></li>
-        <li><a href="#footer">Reach Us</a></li>
-    </ul>
+<section id="navigation" class="overlay">
+    <div class="overlay-content">
+        <a href="#home">Home.</a>
+        <a href="#gallery">Gallery.</a>
+        <a href="#apply">Book a Tour.</a>
+        <a href="#contact">Reach Us.</a>
+    </div>
 </section>
 <!--End Sidemenu -->
         <!-- HEADER -->
@@ -72,14 +61,17 @@
 
         <!-- Navigation Menu -->
          <div class="hamburger-btn">
-            <a id="nav-toggle"><span></span></a>    
+            <a id="nav-toggle">
+                <span>  
+                </span>
+            </a>    
         </div>
         <!--End Navigation Menu -->
     </div>
 </header>
 <!-- END HEADER -->
          <!-- Intro Section -->
-<section class="full-screen-intro pt" id="home">
+<section id="home" class="full-screen-intro pt" id="home">
     <div class="full-cap-wraper">
         <div class="content-caption light-color parallax parallax-opacity">
             <div class="container">
@@ -243,7 +235,7 @@
     </div>
 </section>
 <!-- End Service Section -->
-        <section  id="gallery" class="pt pt-sm-80" style="background-color:#F7F7F7">
+        <section id="gallery" class="pt pt-sm-80" style="background-color:#F7F7F7">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -553,6 +545,8 @@
 
   document.querySelector( "#nav-toggle" ).addEventListener( "click", function() {
     this.classList.toggle( "active" );
+    var el = document.getElementById("navigation");
+    el.style.height = (el.style.height != '100%' ? '100%' : '0%' );
   });
 
   </script>

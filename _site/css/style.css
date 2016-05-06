@@ -1306,6 +1306,61 @@ header.sticky .navigation a.current-ele {
     color:white;
 }
 
+@font-face {
+    font-family: 'LOT';
+    src: url('../fonts/LOT.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+#nav-toggle span, #nav-toggle span:before, #nav-toggle span:after {
+  cursor: pointer;
+  border-radius: 1px;
+  height: 5px;
+  width: 35px;
+  background: white;
+  position: absolute;
+  display: block;
+  content: '';
+}
+
+#nav-toggle span:before {
+  top: -10px;
+}
+#nav-toggle span:after {
+  bottom: -10px; 
+}
+
+#nav-toggle span, #nav-toggle span:before, #nav-toggle span:after {
+  transition: all 500ms ease-in-out;
+}
+#nav-toggle.active span {
+  background-color: transparent;
+}
+#nav-toggle.active span:before, #nav-toggle.active span:after {
+  top: 0;
+}
+#nav-toggle.active span:before {
+  transform: rotate(45deg);
+}
+#nav-toggle.active span:after {
+  transform: rotate(-45deg);
+}
+
+@media (max-width: 996px) {
+    .logo{
+        color: #000000;
+        margin-left: 40%;
+        margin-top: 2%;
+        opacity:1;
+    }
+
+    .hamburger-btn{
+        
+    }   
+}
+
+
 @media (max-width: 767px) {
     .logo{
         color: #000000;
@@ -1319,38 +1374,48 @@ header.sticky .navigation a.current-ele {
     }   
 }
 
-@media (max-width: 996px) {
-    .logo{
-        color: #000000;
-        margin-left: 40%;
-        margin-top: 2%;
-        opacity:1;
-    }
 
-    .hamburger-btn{
-        padding-right: 5% !important;
-    }   
-}
 
 .overlay{
-    position: fixed;
+    height: 0%;
     width: 100%;
-    height: 100%;
-    top: 0;
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
     left: 0;
-    background: rgba(255, 255, 255, 0.80);
+    top: 0;
+    background: rgba(227, 100, 165, 0.95);
+    overflow-x: hidden; /* Disable horizontal scroll */
+    transition: 0.5s; /* 0.5 second transition effect to slide in or slide down the overlay (height or width, depending on reveal) */
 }
 
-.overlay nav{
-    text-align: center;
+.overlay-content {
     position: relative;
-    top: 20%;
-    height: 60%;
-    font-size: 80px;
+    top: 10%; /* 25% from the top */
+    width: 100%; /* 100% width */
+    text-align: center; /* Centered text/links */
+    margin-top: 30px; /* 30px top margin to avoid conflict with the close button on smaller screens */
+}
+
+.overlay a {
+    padding: 40px;
+    text-decoration: none;
+    font-size: 60px;
+    font-weight: 600;
+    color: #fff;
+    display: block; /* Display block instead of inline */
+    transition: 0.3s; /* Transition effects on hover (color) */
+}
+
+.overlay a:hover {
+    background: #fff;
+    color: #ec008c;
 }
 
 
 @media (max-width: 760px) {
+
+    .overlay a {font-size: 30px}
+
     .header .side-menu-btn > ul > li, .header .mobile-menu-icon-wraper {
         margin-left: 16px;
     }
@@ -3743,45 +3808,6 @@ ul.project-detail-block, .project-detail-block ul {
     }
 }
 
-@font-face {
-    font-family: 'LOT';
-    src: url('../fonts/LOT.otf');
-    font-weight: normal;
-    font-style: normal;
-}
-
-#nav-toggle span, #nav-toggle span:before, #nav-toggle span:after {
-  cursor: pointer;
-  border-radius: 1px;
-  height: 5px;
-  width: 35px;
-  background: white;
-  position: absolute;
-  display: block;
-  content: '';
-}
-#nav-toggle span:before {
-  top: -10px;
-}
-#nav-toggle span:after {
-  bottom: -10px; 
-}
-
-#nav-toggle span, #nav-toggle span:before, #nav-toggle span:after {
-  transition: all 500ms ease-in-out;
-}
-#nav-toggle.active span {
-  background-color: transparent;
-}
-#nav-toggle.active span:before, #nav-toggle.active span:after {
-  top: 0;
-}
-#nav-toggle.active span:before {
-  transform: rotate(45deg);
-}
-#nav-toggle.active span:after {
-  transform: rotate(-45deg);
-}
 
 
 
