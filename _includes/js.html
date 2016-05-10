@@ -70,6 +70,13 @@
     el.style.height = (el.style.height != '100%' ? '100%' : '0%' );
   });
 
+  $('#datepicker').datepicker({
+    inline: true,
+    showOtherMonths: true,
+    dayNamesMin: ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'],
+    dateFormat: 'd MM, y'
+   });
+
   </script>
     <!-- End Full Page Section Script -->
   <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>

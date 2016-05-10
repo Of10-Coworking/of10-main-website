@@ -24,6 +24,7 @@
     <link href="/css/plugin/jPushMenu.css" rel="stylesheet" type="text/css" />
     <link href="/css/plugin/animate.css" rel="stylesheet" type="text/css" />
     <link href="/css/jquery-ui.css" rel="stylesheet" type="text/css" />
+    <link href="/css/datepicker.css" rel="stylesheet" type="text/css" />
 </head>
 
 
@@ -347,6 +348,10 @@
                     </div>
 
                     <div class="form-field-wrapper">
+                        <input class="input-sm form-full" id="form-company" type="text" name="form-company" placeholder="Company's Name">
+                    </div>
+
+                    <div class="form-field-wrapper">
                         <input class="input-sm form-full" id="form-contact-number" type="text" name="form-contact-number" placeholder="Your Contact Number" required>
                     </div>
 
@@ -357,10 +362,28 @@
                     <div class="form-field-wrapper">
                         <textarea class="form-full" id="form-message" rows="7" name="form-message" placeholder="A brief description of your background and requirements" required></textarea>
                     </div>
-                        <input type="text" name="_gotcha" style="display:none" />
+
+                    <label for="datepicker" class="form-label">
+                        Schedule Tour: 
+                    </label>
+                    <div class="form-field-wrapper">  
+                        <input id="datepicker" type="text" class="form-full" name="form-date" placeholder="Enter Date..">
+                    </div>
+
+                    <div class="form-field-wrapper">
+                        <input list="time" type="text" class="form-full" name="form-time" placeholder="Enter Time.." >
+                        <datalist id="time">
+                            <option>10:00 AM</option>
+                            <option>11:00 AM</option>
+                            <option>2:00 PM</option>
+                            <option>4:00 PM</option>
+                        </datalist>
+                    </div>
+
+                    <input type="text" name="_gotcha" style="display:none" />
 
 
-                        <button class="btn btn-md btn-black form-full" type="submit" id="form-submit" name="submit">Send</button>
+                    <button class="btn btn-md btn-black form-full" type="submit" id="form-submit" name="submit">Send</button>
                 </form>
                 <!-- END Contact FORM -->
             </div>
@@ -542,6 +565,13 @@
     var el = document.getElementById("navigation");
     el.style.height = (el.style.height != '100%' ? '100%' : '0%' );
   });
+
+  $('#datepicker').datepicker({
+    inline: true,
+    showOtherMonths: true,
+    dayNamesMin: ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'],
+    dateFormat: 'd MM, y'
+   });
 
   </script>
     <!-- End Full Page Section Script -->
