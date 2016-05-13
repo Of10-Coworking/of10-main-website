@@ -1380,7 +1380,7 @@ header.sticky .navigation a.current-ele {
     height: 0%;
     width: 100%;
     position: fixed; /* Stay in place */
-    z-index: 3; /* Sit on top */
+    z-index: 100; /* Sit on top */
     left: 0;
     top: 0;
     /*background: rgba(227, 100, 165, 0.95);*/
