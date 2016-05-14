@@ -331,10 +331,12 @@ button.ui-button::-moz-focus-inner {
 }
 .ui-datepicker .ui-datepicker-prev {
 	background-image: url("../img/arrow-left.png");
+
 	left: 2px;
 }
 .ui-datepicker .ui-datepicker-next {
 	background-image: url("../img/arrow-right.png");
+	background-color: white;
 	right: 2px;
 
 }
