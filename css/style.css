@@ -4,7 +4,7 @@
 @import url("./plugin/mediaelementplayer.css");
 @import url("./plugin/colorbox.css");
 @import url("./plugin/jquery.fs.tipper.css");
-@import url(http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900);
+/*@import url(http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900);*/
 
 /* 
 * BASIC STYLE
@@ -1309,6 +1309,13 @@ header.sticky .navigation a.current-ele {
 @font-face {
     font-family: 'LOT';
     src: url('../fonts/LOT.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('../fonts/Raleway-Regular.ttf');
     font-weight: normal;
     font-style: normal;
 }
