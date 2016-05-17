@@ -1,6 +1,6 @@
 s3_id: AKIAJZDWFKIXHSGX5KUA
 s3_secret: oUdZmjRhyexgwUROa6SXKfHL4BFv89KEniMTKIbg
-s3_bucket: of10
+s3_bucket: of10.in
 cloudfront_distribution_id: E4ONLD4OTIPEG
 
 # Below are examples of all the available configurations.
