@@ -9,11 +9,12 @@ google.maps.event.addDomListener(window, 'load', init);
 function init() {
     // Basic options for a simple Google Map
     var mapOptions = {
-        
         // How zoomed in you want the map to start at (always required)
         zoom: 19,
+
         // The latitude and longitude to center the map (always required)
         center: new google.maps.LatLng(19.116067, 72.909791), // Prudential
+
         scrollwheel: false,
         navigationControl: false,
         mapTypeControl: false,
@@ -34,5 +35,6 @@ function init() {
         position: new google.maps.LatLng(19.115825, 72.909912),
         map: map,
         icon: 'img/map-marker.png'
+
     });
 };
