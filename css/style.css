@@ -3835,6 +3835,11 @@ and (max-device-width : 568px) {
     .btn, button{
         font-size: 11px;
     }
+
+    .logo {
+        margin-left: 26%;
+        margin-top: 5%; 
+    }   
 }
 
 
