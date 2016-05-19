@@ -1,2 +1,3 @@
-# of10-staging
-# OF10 Staging Environment
+#OF10 Version 1.1
+
+A jekyll website for the OF10 Coworking Space using the Mazel Templating Engine

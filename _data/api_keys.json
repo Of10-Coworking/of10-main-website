@@ -1,0 +1,8 @@
+{
+	"firebase" : {
+					"apiKey" : "AIzaSyDWtqyKfHkeKW9mwaciq7-D4S30tJrKpwE",
+					"authDomain" : "of10.firebaseapp.com",
+					"databaseURL" : "https://of10.firebaseio.com",
+					"storageBucket" : "project-772735072818790774.appspot.com",
+	}
+}
