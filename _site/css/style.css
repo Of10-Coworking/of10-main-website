@@ -524,6 +524,18 @@ button {
     display: inline-block;
 }
 
+
+.home-gif{
+    content:url("/img/of10.gif");
+    margin: 0 auto;
+}
+
+@media (max-width: 767px) {
+    .home-gif{
+        content:url("/img/of10-small.gif");
+    }
+}
+
 /*Form Style   ||-----------*/
 
 button {
