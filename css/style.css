@@ -3018,13 +3018,13 @@ ul.project-detail-block, .project-detail-block ul {
     width: 100%;
 }
 
-    .blog-post .post-media {
+    .post-media {
         position: relative;
         overflow: hidden;
         margin-bottom: 25px;
     }
 
-        .blog-post .post-media iframe {
+        .post-media iframe {
             width: 100%;
         }
 
