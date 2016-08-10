@@ -530,9 +530,28 @@ button {
     margin: 0 auto;
 }
 
+.home-gif::before { 
+    display: inline-block;
+    width: 100%;
+    height: 350px;
+    content: "";
+    background: url("/img/of10.gif") no-repeat 0 0;
+    background-size: 100%;
+}
+
+
+
 @media (max-width: 767px) {
     .home-gif{
         content:url("/img/of10-small.gif");
+    }
+    .home-gif::before { 
+        display: inline-block;
+        width: 100%;
+        height: 350px;
+        content: "";
+        background: url("/img/of10.gif") no-repeat 0 0;
+        background-size: 100%;
     }
 }
 
