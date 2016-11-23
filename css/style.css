@@ -189,6 +189,12 @@ p {
         line-height: 24px;
     }
 
+    p.para-insider .para-insider{
+        font-size: 20px;
+        font-weight: 200;
+        line-height: 24px;
+    }
+
     p.dark, .dark, a.dark, h1.dark, h2.dark, h3.dark, h4.dark, h5.dark, h6.dark {
         color: #323232 !important;
     }
@@ -201,6 +207,11 @@ p {
         color: #DC3D8E !important;
     }
 
+.para-insider{
+    font-size: 20px;
+    font-weight: 200;
+    line-height: 24px;
+}
 .gray {
     color: #888;
 }
@@ -1336,6 +1347,11 @@ header.sticky .navigation a.current-ele {
     font-size: 24px;
     letter-spacing: 5px;
     color:#fff;
+}
+
+.home-insider-background{
+    background-image: url("../insider/img/home-background.jpeg");
+    background-size: cover;
 }
 
 .logo_footer{
