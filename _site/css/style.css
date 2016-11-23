@@ -193,6 +193,7 @@ p {
         font-size: 20px;
         font-weight: 200;
         line-height: 24px;
+        font-family: Avenir;
     }
 
     p.dark, .dark, a.dark, h1.dark, h2.dark, h3.dark, h4.dark, h5.dark, h6.dark {
@@ -291,6 +292,10 @@ h1 {
 
     h1.h1, h2.h2 {
         letter-spacing: 15px;
+    }
+
+    h1.h1-insider {
+        letter-spacing: 10px;
     }
 
 @media (max-width: 767px) {
@@ -1343,7 +1348,9 @@ header.sticky .navigation a.current-ele {
 }
 
 .insider{
-    font-family: Raleway;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-family: Avenir;
     font-size: 24px;
     letter-spacing: 5px;
     color:#fff;
