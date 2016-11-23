@@ -2829,7 +2829,9 @@ height:100%;
 
 .grad_background {
     background-color: #EC008C
-}         
+}
+
+
 
 .item-box {
     position: relative;
@@ -2858,6 +2860,47 @@ height:100%;
         transition: all 0.4s cubic-bezier(0.23, 1, 0.32, 1) 0s;
         width: 100%;
     }
+
+.item-box-location {
+    position: relative;
+    overflow: hidden;
+    display: block;
+    background-size: 50%;
+}
+
+.item-box-location a {
+    display: inline-block;
+}
+
+.item-box-location:hover .item-mask {
+    opacity: 1;
+    visibility: visible;
+}
+
+.item-box-location:hover .item-mask .item-caption {
+    display: table;
+    width:80%;
+    height:80%;
+    opacity: 1;
+}
+
+.item-box-location:hover .item-container {
+    transform: scale(1.1);
+    transition: all 0.4s cubic-bezier(0.23, 1, 0.32, 1) 0s;
+    width: 100%;
+}
+
+.item-container-location {
+    transform: scale(1);
+    -ms-transform: scale(1);
+    -webkit-transform: scale(1);
+    height: 50%;
+    width: 50%;
+    transition: all 2s cubic-bezier(0.23, 1, 0.32, 1) 0s;
+    -moz-transition: all 2s cubic-bezier(0.23, 1, 0.32, 1) 0s;
+    -webkit-transition: all 2s cubic-bezier(0.23, 1, 0.32, 1) 0s;
+    -o-transition: all 2s cubic-bezier(0.23, 1, 0.32, 1) 0s;
+}
 
 .item-container {
     transform: scale(1);
