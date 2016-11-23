@@ -1328,6 +1328,14 @@ header.sticky .navigation a.current-ele {
     font-size: 40px;
     letter-spacing: 5px;
     color:#fff;
+    padding-bottom: 10px;
+}
+
+.insider{
+    font-family: Raleway;
+    font-size: 24px;
+    letter-spacing: 5px;
+    color:#fff;
 }
 
 .logo_footer{
@@ -2319,6 +2327,10 @@ header.sticky .navigation a.current-ele {
 }
 .cont-h-100per {
 height:100%;
+}
+
+.insider-background {
+    background-color: #2b2b2b;
 }
 
 /*backround images*/
