@@ -1351,6 +1351,15 @@ header.sticky .navigation a.current-ele {
     padding-bottom: 10px;
 }
 
+.logo-insider{
+    font-family: 'LOT';
+    font-size: 40px;
+    letter-spacing: 5px;
+    color:#fff;
+    padding-bottom: 10px;
+    margin-top: 2%;
+}
+
 .insider{
     margin-top: 10px;
     margin-left: 10px;
@@ -1428,9 +1437,16 @@ header.sticky .navigation a.current-ele {
         opacity:1;
     }
 
-    .hamburger-btn{
-        
-    }   
+    .logo-insider{
+        color: #EC008C;
+        margin-left: 40%;
+        margin-top: 2%;
+        opacity:1;
+    }
+    .full-intro .header {
+        border-bottom: none;
+        position: absolute;
+    }
 }
 
 
@@ -1442,6 +1458,16 @@ header.sticky .navigation a.current-ele {
         opacity:1;
     }
 
+    .logo-insider{
+        color: #EC008C;
+        margin-left: 32%;
+        margin-top: 4%;
+        opacity:1;
+    }
+    .full-intro .header {
+        border-bottom: none;
+        position: absolute;
+    }
     .hamburger-btn{
         padding-right: 10% !important;
     }   
@@ -1512,13 +1538,13 @@ header.sticky .navigation a.current-ele {
         color: #323232;
     }
 
-    .full-intro .header {
-        background-color: rgba(255, 255, 255, 0.95);
-        /*box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
-        -moz-box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
-        -webkit-box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
-        -o-box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);*/
-    }
+    /*.full-intro .header {*/
+        /*background-color: rgba(255, 255, 255, 0.95);*/
+        /*!*box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);*/
+        /*-moz-box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);*/
+        /*-webkit-box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);*/
+        /*-o-box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);*!*/
+    /*}*/
 }
 
 @media (max-width: 991px) {
