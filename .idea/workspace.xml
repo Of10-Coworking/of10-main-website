@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8c2461a-3e3f-4469-9cbb-f7f43a6a3ff8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/insider/img/locations/madmime.jpg" afterPath="$PROJECT_DIR$/insider/img/locations/madmime.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/how_it_works_insider.html" afterPath="$PROJECT_DIR$/_includes/how_it_works_insider.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/locations_insider.html" afterPath="$PROJECT_DIR$/_includes/locations_insider.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/nav_insider_custom.html" afterPath="$PROJECT_DIR$/_includes/nav_insider_custom.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/perks_insider.html" afterPath="$PROJECT_DIR$/_includes/perks_insider.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/insider.html" afterPath="$PROJECT_DIR$/_layouts/insider.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/css/style.css" afterPath="$PROJECT_DIR$/_site/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
     </list>
     <ignored path="of10-staging.iws" />
@@ -73,10 +65,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="locations_insider.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="locations_insider.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/locations_insider.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="870">
+            <state relative-caret-position="885">
               <caret line="59" column="32" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
               <folding />
             </state>
@@ -93,11 +85,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="3689" column="41" selection-start-line="3689" selection-start-column="38" selection-end-line="3689" selection-end-column="41" />
+            <state relative-caret-position="90">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -157,12 +149,12 @@
         <option value="$PROJECT_DIR$/_includes/overlay_menu.html" />
         <option value="$PROJECT_DIR$/js/custom.js" />
         <option value="$PROJECT_DIR$/_includes/nav_custom.html" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/_includes/nav_insider_custom.html" />
         <option value="$PROJECT_DIR$/_layouts/insider.html" />
         <option value="$PROJECT_DIR$/_includes/perks_insider.html" />
         <option value="$PROJECT_DIR$/_includes/how_it_works_insider.html" />
         <option value="$PROJECT_DIR$/_includes/locations_insider.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
@@ -474,12 +466,12 @@
       <workItem from="1479977405452" duration="63000" />
       <workItem from="1479978161912" duration="3002000" />
       <workItem from="1479981315413" duration="1050000" />
-      <workItem from="1479982940703" duration="2419000" />
+      <workItem from="1479982940703" duration="2650000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29899000" />
+    <option name="totallyTimeSpent" value="30130000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -766,14 +758,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="3689" column="41" selection-start-line="3689" selection-start-column="38" selection-end-line="3689" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/perks_insider.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -800,8 +784,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/locations_insider.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
+        <state relative-caret-position="885">
           <caret line="59" column="32" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
           <folding />
         </state>
       </provider>
