@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8c2461a-3e3f-4469-9cbb-f7f43a6a3ff8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/raleway.bold.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/home_insider.html" afterPath="$PROJECT_DIR$/_includes/home_insider.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/css/style.css" afterPath="$PROJECT_DIR$/_site/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
     </list>
     <ignored path="of10-staging.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,11 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="home_insider.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="home_insider.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/home_insider.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+            <state relative-caret-position="135">
+              <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -65,16 +69,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nav_custom.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/nav_custom.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="35" selection-start-line="11" selection-start-column="8" selection-end-line="18" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="how_it_works_insider.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/how_it_works_insider.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -87,11 +81,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="508">
-              <caret line="1485" column="21" selection-start-line="1485" selection-start-column="21" selection-end-line="1485" selection-end-column="21" />
+            <state relative-caret-position="268">
+              <caret line="305" column="18" selection-start-line="305" selection-start-column="18" selection-end-line="305" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -162,8 +156,8 @@
         <option value="$PROJECT_DIR$/_includes/nav_insider_custom.html" />
         <option value="$PROJECT_DIR$/_includes/head_insider.html" />
         <option value="$PROJECT_DIR$/_includes/how_it_works_insider.html" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/_includes/home_insider.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
@@ -263,6 +257,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="fonts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="of10-production" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="of10-production" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -317,14 +325,15 @@
     <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_site/insider/img/locations" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/insider/img/locations" />
       <recent name="$PROJECT_DIR$/_includes" />
       <recent name="$PROJECT_DIR$/_site/insider/img/gallery" />
       <recent name="$PROJECT_DIR$/insider/img/gallery" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fonts" />
+      <recent name="$PROJECT_DIR$/_site/insider/img/locations" />
     </key>
   </component>
   <component name="RunManager">
@@ -422,12 +431,12 @@
       <workItem from="1479963847547" duration="131000" />
       <workItem from="1479964865489" duration="504000" />
       <workItem from="1479965536995" duration="4292000" />
-      <workItem from="1479971088992" duration="497000" />
+      <workItem from="1479971088992" duration="853000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20981000" />
+    <option name="totallyTimeSpent" value="21337000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -468,7 +477,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html" />
     <entry file="file://$PROJECT_DIR$/_layouts/insider.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -690,14 +698,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="1485" column="21" selection-start-line="1485" selection-start-column="21" selection-end-line="1485" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/nav_insider_custom.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -724,8 +724,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/home_insider.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        <state relative-caret-position="135">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="305" column="18" selection-start-line="305" selection-start-column="18" selection-end-line="305" selection-end-column="18" />
           <folding />
         </state>
       </provider>
