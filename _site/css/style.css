@@ -295,9 +295,12 @@ h1 {
         letter-spacing: 15px;
     }
 
-    h1.h1-insider {
-        letter-spacing: 10px;
-    }
+.h1-insider{
+    letter-spacing: 1px;
+    font-size: 60px;
+    font-family: Raleway;
+    font-weight: 900;
+}
 
 @media (max-width: 767px) {
     h1.h1, h2.h2 {
