@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8c2461a-3e3f-4469-9cbb-f7f43a6a3ff8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/contact_insider.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/contact_insider.html" afterPath="$PROJECT_DIR$/_includes/contact_insider.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/home_insider.html" afterPath="$PROJECT_DIR$/_includes/home_insider.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/how_it_works_insider.html" afterPath="$PROJECT_DIR$/_includes/how_it_works_insider.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/locations_insider.html" afterPath="$PROJECT_DIR$/_includes/locations_insider.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/insider.html" afterPath="$PROJECT_DIR$/_layouts/insider.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/overlay_menu_insider.html" afterPath="$PROJECT_DIR$/_includes/overlay_menu_insider.html" />
     </list>
     <ignored path="of10-staging.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,16 +40,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="locations_insider.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_includes/locations_insider.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/about.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -61,58 +53,18 @@
       <file leaf-file-name="onepage-static.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../themes/mazel-multipurpose-html-template-v1.0/Mazel-html-template/onepage-static.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="1095" column="18" selection-start-line="1059" selection-start-column="8" selection-end-line="1095" selection-end-column="18" />
+            <state relative-caret-position="73">
+              <caret line="1060" column="35" selection-start-line="1060" selection-start-column="35" selection-end-line="1060" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact_insider.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="contact_insider.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/contact_insider.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="31" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="insider.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/insider.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="how_it_works_insider.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/how_it_works_insider.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-410">
-              <caret line="23" column="86" selection-start-line="23" selection-start-column="86" selection-end-line="23" selection-end-column="86" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="head_insider.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/head_insider.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
+            <state relative-caret-position="45">
+              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -121,8 +73,18 @@
       <file leaf-file-name="home_insider.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/home_insider.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="300">
+              <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="locations_insider.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/locations_insider.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="37" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -153,12 +115,10 @@
         <option value="$PROJECT_DIR$/_includes/amenities_insider.html" />
         <option value="$PROJECT_DIR$/_includes/about_insider.html" />
         <option value="$PROJECT_DIR$/_includes/head_insider.html" />
-        <option value="$PROJECT_DIR$/_includes/home_insider.html" />
         <option value="$PROJECT_DIR$/_includes/amenities.html" />
         <option value="$PROJECT_DIR$/css/navigation.css" />
         <option value="$PROJECT_DIR$/_includes/js_insider.html" />
         <option value="$PROJECT_DIR$/js/custom_insider.js" />
-        <option value="$PROJECT_DIR$/_includes/overlay_menu_insider.html" />
         <option value="$PROJECT_DIR$/_includes/overlay_menu.html" />
         <option value="$PROJECT_DIR$/js/custom.js" />
         <option value="$PROJECT_DIR$/_includes/nav_custom.html" />
@@ -166,10 +126,12 @@
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/_includes/nav_insider_custom.html" />
         <option value="$PROJECT_DIR$/_site/css/style.css" />
-        <option value="$PROJECT_DIR$/_includes/how_it_works_insider.html" />
-        <option value="$PROJECT_DIR$/_includes/contact_insider.html" />
         <option value="$PROJECT_DIR$/_layouts/insider.html" />
+        <option value="$PROJECT_DIR$/_includes/how_it_works_insider.html" />
+        <option value="$PROJECT_DIR$/_includes/overlay_menu_insider.html" />
         <option value="$PROJECT_DIR$/_includes/locations_insider.html" />
+        <option value="$PROJECT_DIR$/_includes/home_insider.html" />
+        <option value="$PROJECT_DIR$/_includes/contact_insider.html" />
       </list>
     </option>
   </component>
@@ -225,6 +187,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="of10-production" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="of10-production" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="of10-production" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -437,12 +413,12 @@
       <workItem from="1479977405452" duration="63000" />
       <workItem from="1479978161912" duration="3002000" />
       <workItem from="1479981315413" duration="1050000" />
-      <workItem from="1479982940703" duration="4514000" />
+      <workItem from="1479982940703" duration="5222000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31994000" />
+    <option name="totallyTimeSpent" value="32702000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -483,13 +459,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_layouts/insider.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html" />
     <entry file="file://$PROJECT_DIR$/firebase.json" />
     <entry file="file://$PROJECT_DIR$/database.rules.json" />
@@ -643,14 +612,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/overlay_menu_insider.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/overlay_menu.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -715,14 +676,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/how_it_works_insider.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-410">
-          <caret line="23" column="86" selection-start-line="23" selection-start-column="86" selection-end-line="23" selection-end-column="86" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/head_insider.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -739,34 +692,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/home_insider.html">
+    <entry file="file://$PROJECT_DIR$/../../themes/mazel-multipurpose-html-template-v1.0/Mazel-html-template/onepage-static.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="73">
+          <caret line="1060" column="35" selection-start-line="1060" selection-start-column="35" selection-end-line="1060" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/nav_custom.html">
+    <entry file="file://$PROJECT_DIR$/js/contact-form.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="61" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/contact_insider.html">
+    <entry file="file://$PROJECT_DIR$/_includes/how_it_works_insider.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="31" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="20" selection-start-line="7" selection-start-column="16" selection-end-line="10" selection-end-column="20" />
+        <state relative-caret-position="750">
+          <caret line="50" column="56" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="56" />
           <folding />
         </state>
       </provider>
@@ -779,18 +724,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../themes/mazel-multipurpose-html-template-v1.0/Mazel-html-template/onepage-static.html">
+    <entry file="file://$PROJECT_DIR$/_includes/overlay_menu_insider.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="1095" column="18" selection-start-line="1059" selection-start-column="8" selection-end-line="1095" selection-end-column="18" />
+        <state relative-caret-position="45">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/nav_custom.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="61" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="20" selection-start-line="7" selection-start-column="16" selection-end-line="10" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/locations_insider.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+        <state relative-caret-position="45">
+          <caret line="3" column="37" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/home_insider.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/contact_insider.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
           <folding />
         </state>
       </provider>
