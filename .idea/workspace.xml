@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8c2461a-3e3f-4469-9cbb-f7f43a6a3ff8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/css/style.css" afterPath="$PROJECT_DIR$/_site/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/home_insider.html" afterPath="$PROJECT_DIR$/_includes/home_insider.html" />
     </list>
     <ignored path="of10-staging.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="home_insider.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="home_insider.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/home_insider.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="37" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="37" />
+            <state relative-caret-position="150">
+              <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -60,8 +58,8 @@
       <file leaf-file-name="onepage-static.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../themes/mazel-multipurpose-html-template-v1.0/Mazel-html-template/onepage-static.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1245">
-              <caret line="83" column="43" selection-start-line="73" selection-start-column="16" selection-end-line="83" selection-end-column="43" />
+            <state relative-caret-position="208">
+              <caret line="162" column="53" selection-start-line="162" selection-start-column="24" selection-end-line="162" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -89,7 +87,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="508">
@@ -160,12 +158,12 @@
         <option value="$PROJECT_DIR$/_layouts/insider.html" />
         <option value="$PROJECT_DIR$/_includes/perks_insider.html" />
         <option value="$PROJECT_DIR$/_includes/locations_insider.html" />
-        <option value="$PROJECT_DIR$/_includes/home_insider.html" />
         <option value="$PROJECT_DIR$/css/navigation.css" />
         <option value="$PROJECT_DIR$/_includes/nav_insider_custom.html" />
         <option value="$PROJECT_DIR$/_includes/head_insider.html" />
         <option value="$PROJECT_DIR$/_includes/how_it_works_insider.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/_includes/home_insider.html" />
       </list>
     </option>
   </component>
@@ -424,12 +422,12 @@
       <workItem from="1479963847547" duration="131000" />
       <workItem from="1479964865489" duration="504000" />
       <workItem from="1479965536995" duration="4292000" />
-      <workItem from="1479971088992" duration="392000" />
+      <workItem from="1479971088992" duration="497000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20876000" />
+    <option name="totallyTimeSpent" value="20981000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -656,14 +654,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../themes/mazel-multipurpose-html-template-v1.0/Mazel-html-template/onepage-static.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1245">
-          <caret line="83" column="43" selection-start-line="73" selection-start-column="16" selection-end-line="83" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/how_it_works_insider.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -700,10 +690,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="1485" column="21" selection-start-line="1485" selection-start-column="21" selection-end-line="1485" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/nav_insider_custom.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../themes/mazel-multipurpose-html-template-v1.0/Mazel-html-template/onepage-static.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="162" column="53" selection-start-line="162" selection-start-column="24" selection-end-line="162" selection-end-column="53" />
           <folding />
         </state>
       </provider>
@@ -718,16 +724,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/home_insider.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="1485" column="21" selection-start-line="1485" selection-start-column="21" selection-end-line="1485" selection-end-column="21" />
+        <state relative-caret-position="150">
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
           <folding />
         </state>
       </provider>
