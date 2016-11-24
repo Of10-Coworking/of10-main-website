@@ -20,11 +20,13 @@ $("#imgAnimate").hover(
         $(this).attr("src", "img/brickwall/hustle.gif");
     });
 
-  document.querySelector( "#nav-toggle" ).addEventListener( "click", function() {
-    this.classList.toggle( "active" );
+function toggleOverlay() {
+    var toggle = document.getElementById("nav-toggle")
+    toggle.classList.toggle( "active" );
     var el = document.getElementById("navigation");
     el.style.height = (el.style.height != '100%' ? '100%' : '0%' );
-  });
+}
+
 
 $('#datepicker').datepicker({
   inline: true,

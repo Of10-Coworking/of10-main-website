@@ -49,10 +49,10 @@
         <!-- Sidemenu -->
 <section id="navigation" class="overlay">
     <div class="overlay-content">
-        <a href="/">Home.</a>
-        <a href="http://www.facebook.com/workof10/events">Events.</a>
-        <a href="http://of10.in/#apply">Book a Tour.</a>
-        <a href="http://of10.in/#contact">Reach Us.</a>
+        <a href="#home" onclick="toggleOverlay()">Home.</a>
+        <a href="http://www.facebook.com/workof10/events" onclick="toggleOverlay()">Events.</a>
+        <a href="#apply" onclick="toggleOverlay()">Book a Tour.</a>
+        <a href="#contact" onclick="toggleOverlay()">Reach Us.</a>
     </div>
 </section>
 <!--End Sidemenu -->
@@ -68,7 +68,7 @@
         <!--End logo-->
 
         <!-- Navigation Menu -->
-         <div class="hamburger-btn">
+         <div class="hamburger-btn" onclick="toggleOverlay()">
             <a id="nav-toggle">
                 <span>  
                 </span>
