@@ -215,6 +215,15 @@ p {
     font-family: Avenir;
 }
 
+.gallery_insider_1{
+    height: 50%;
+    width: 50%;
+}
+
+.gallery_insider_all{
+
+}
+
 .singlepage-nav{
     color: white !important;
 }
