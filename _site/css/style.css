@@ -303,7 +303,7 @@ h1 {
     letter-spacing: 1px;
     font-size: 60px;
     font-family: Raleway;
-    font-weight: 900;
+    font-weight: bolder;
 }
 
 @media (max-width: 767px) {
@@ -1385,7 +1385,7 @@ header.sticky .navigation a.current-ele {
 .insider{
     margin-top: 10px;
     margin-left: 10px;
-    font-family: Avenir;
+    font-family: Raleway;
     font-size: 24px;
     letter-spacing: 5px;
     color:#fff;
@@ -1461,8 +1461,9 @@ header.sticky .navigation a.current-ele {
 
     .logo-insider{
         color: #EC008C;
-        margin-left: 40%;
-        margin-top: 2%;
+        float: right;
+        left: -50%; /* or right 50% */
+        text-align: left;
         opacity:1;
     }
     .full-intro .header {
@@ -1482,8 +1483,9 @@ header.sticky .navigation a.current-ele {
 
     .logo-insider{
         color: #EC008C;
-        margin-left: 32%;
-        margin-top: 4%;
+        float: right;
+        left: -50%; /* or right 50% */
+        text-align: left;
         opacity:1;
     }
     .full-intro .header {
