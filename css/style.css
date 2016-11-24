@@ -1365,6 +1365,12 @@ header.sticky .navigation a.current-ele {
     padding: 35px 10px 34px;
 }
 
+.header .hamburger-btn-insider {
+    float: right;
+    position: relative;
+    padding: 48px 10px 34px;
+}
+
 .logo{
     font-family: 'LOT';
     font-size: 40px;
@@ -1494,7 +1500,10 @@ header.sticky .navigation a.current-ele {
     }
     .hamburger-btn{
         padding-right: 10% !important;
-    }   
+    }
+    .hamburger-btn-insider{
+        padding-right: 10% !important;
+    }
 }
 
 
