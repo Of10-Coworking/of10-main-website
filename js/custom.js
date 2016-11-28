@@ -21,6 +21,7 @@ $("#imgAnimate").hover(
     });
 
 function toggleOverlay() {
+    console.log("Clicked");
     var toggle = document.getElementById("nav-toggle")
     toggle.classList.toggle( "active" );
     var el = document.getElementById("navigation");
