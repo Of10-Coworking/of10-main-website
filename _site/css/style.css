@@ -6,15 +6,15 @@
 @import url("./plugin/jquery.fs.tipper.css");
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900);
 
-/* 
+/*
 * BASIC STYLE
-  - General Style    
-  - Headings Style    
-  - Button Style    
-  - Form Style    
+  - General Style
+  - Headings Style
+  - Button Style
+  - Form Style
   - Spacer Style
-      
-* HEADER 
+
+* HEADER
   - Header Style
   - Navigation Menu
   - Right Side Menu Button (Search, Cart, Bar, etc)
@@ -32,7 +32,7 @@
   - Client Logo
   - Icon
   - Table
-  
+
 * GLOBAL STYLES
   - Push Menu Style (Top, Bottom, Left, right)
   - Contents (Body, Container, Section, etc)
@@ -303,6 +303,9 @@ h1 {
     h1.h1, h2.h2 {
         letter-spacing: 15px;
     }
+    h1.h4 {
+      font-size: 33px;
+    }
 
 .h1-insider{
     letter-spacing: 1px;
@@ -559,7 +562,7 @@ button {
     margin: 0 auto;
 }
 
-.home-gif::before { 
+.home-gif::before {
     display: inline-block;
     width: 100%;
     height: 350px;
@@ -574,7 +577,7 @@ button {
     .home-gif{
         content:url("/img/of10-small.gif");
     }
-    .home-gif::before { 
+    .home-gif::before {
         display: inline-block;
         width: 100%;
         height: 350px;
@@ -1443,7 +1446,7 @@ header.sticky .navigation a.current-ele {
   top: -10px;
 }
 #nav-toggle span:after {
-  bottom: -10px; 
+  bottom: -10px;
 }
 
 #nav-toggle span, #nav-toggle span:before, #nav-toggle span:after {
@@ -2223,7 +2226,7 @@ header.sticky .navigation a.current-ele {
 
     .side-menu .social {
         list-style:none;
-       
+
     }
         .side-menu .social li {
             display:inline-block;
@@ -3525,7 +3528,7 @@ ul.project-detail-block, .project-detail-block ul {
                 vertical-align: middle;
                 padding-left: 25px;
                 padding-right: 25px;
-                
+
             }
 
 .caption-hero h1 {
@@ -4000,17 +4003,14 @@ ul.project-detail-block, .project-detail-block ul {
     }
 }
 
-@media(max-device-width : 320px) 
-{ 
+@media(max-device-width : 320px)
+{
     .btn, button{
         font-size: 11px;
     }
 
     .logo {
         margin-left: 26%;
-        margin-top: 5%; 
-    }   
+        margin-top: 5%;
+    }
 }
-
-
-
