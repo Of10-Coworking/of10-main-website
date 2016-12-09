@@ -3475,6 +3475,16 @@ ul.project-detail-block, .project-detail-block ul {
     position: relative;
 }
 
+.parallax-header {
+  background-image: url("/img/gallery/reception.jpg");
+  background-size: cover;
+}
+
+.parallax-header-events {
+  background-image: url("/img/gallery/events3.jpg");
+  background-size: cover;
+}
+
 
 /* ============================================================================================================================*/
 /* Slider ---------------------*/
