@@ -1,14 +1,3 @@
-function init() {
-
-    var imgDefer = document.getElementsByTagName('img');
-    for (var i=0; i<imgDefer.length; i++) {
-        if(imgDefer[i].getAttribute('data-src')) {
-            imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
-        }
-    }
-
-}
-
 $(document).ready(function() {
     $('#calendar').fullCalendar({
         googleCalendarApiKey: 'AIzaSyBqm8nK6SR7DYVWWICWv7Enpua0H_0pw88',
@@ -19,8 +8,6 @@ $(document).ready(function() {
         }
     });
 });
-
-window.onload = init;
 
 function toggleOverlay() {
     var toggle = document.getElementById("nav-toggle")
