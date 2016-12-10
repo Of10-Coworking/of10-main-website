@@ -4,7 +4,14 @@ function init() {
   for (var i=0; i<imgDefer.length; i++) {
     if(imgDefer[i].getAttribute('data-src')) {
     imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
-    } 
+    }
+  }
+
+  var imgAmp = document.getElementById('of10-gif');
+  for (var i=0; i<imgDefer.length; i++) {
+    if(imgDefer[i].getAttribute('data-src')) {
+    imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+    }
   }
 
 }
@@ -34,7 +41,7 @@ $('#datepicker').datepicker({
   showOtherMonths: true,
   dayNamesMin: ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'],
   dateFormat: 'd MM, y'
- }); 
+ });
 
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -42,5 +49,3 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 ga('create', 'UA-64567607-1', 'auto');
 ga('send', 'pageview');
-
- 
