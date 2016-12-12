@@ -3,8 +3,9 @@ layout: post
 title: Think Solutions
 author: umang
 tags: [Of10, Members, Ideas, Innovation]
-header_image: 4thwheel.jpg
-
+header_image: 4thwheel1.jpeg
+post_image: 4thwheel2.jpeg
+image_caption: The 4th Wheel Team
 ---
 
 Sharon Weir is the founding partner at “The 4th Wheel” a Social Impact Assessment company based out of Mumbai and Ahmedabad. She handles the operational and strategic functions of the 4th Wheel as it takes on the CSR strategies of behemoths such as TATA Power, Ford etc.
@@ -58,3 +59,10 @@ Of10 also puts us in touch with a variety of like minded individuals and leaders
 
 #### What advice would you have for young people entering the CSR field?
 The best advice I can give anyone entering the CSR field is to “know your stuff”. I know it sounds cliche but it is essential that you are well read and well educated in your areas of expertise. Since you are working daily with large corporates, room for error is minimal and knowledge is the key to reduce errors.
+
+Understanding the global CSR landscape, strategies and methods is imperative to becoming a valuable resource in the industry.
+
+#### Tell us about the SDG workshop you will be hosting at Of10
+The idea behind the workshop is to ensure that we do not only stop at acknowledging problems in the field but we also brainstorm concrete solutions. We are getting the best minds in the field together for a day to talk about actionable steps we can take to solve pressing developmental issues.
+
+We believe by using Data, Technology and Partnerships we can make a massive dent in the archaic way social programs are implemented in India.
