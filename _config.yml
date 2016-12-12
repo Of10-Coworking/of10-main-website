@@ -1,10 +1,34 @@
 # Site settings
-title: Of10 | Coworking & Event Space in Hiranandani, Powai, Mumbai 
+title: Of10 | Coworking & Event Space in Hiranandani, Powai, Mumbai
 url: https://of10.in
 description: "6000 sq/ft shared office space in Hiranandani Gardens, Powai open to all entrepreneurs and startups. "
 
 # Footer settings
 footer: Of10
+
+authors:
+  umang:
+    display_name: Umang Sood
+    email: umangsood@of10.in
+    pic: umang.jpg
+    web: http://www.umangsood.com/
+    facebook: umangsood
+    twitter: umangsood
+  kaveri:
+    display_name: Kaveri Tikmani
+    email: kaveri@writesideup.com
+    pic: kaveri.jpg
+    web: http://www.writesideup.com/
+    facebook: kaveri
+    twitter: kaveritikmani
+  upahar:
+    display_name: Upahar Sood
+    email: upaharsood@of10.in
+    pic: upahar.jpg
+    web: http://www.upaharsood.com/
+    twitter: upaharsood
+    facebook: upahar.sood
+    github: usood
 
 # Build settings
 markdown: kramdown

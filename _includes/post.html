@@ -1,0 +1,73 @@
+<section class="inner-intro bg-img8 light-color overlay-dark parallax parallax-half">
+    <div class="container">
+        <div class="row title">
+            <h2 class="h2">{{page.title}}</h2>
+            <div class="page-breadcrumb">
+                <a class="dark-color" href="https://of10.in">Home</a>/<a class="dark-color" href="https://of10.in/mag">Mag</a>/<span>{{ page.title }}</span>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="ptb ptb-sm-80">
+    <div class="container">
+        <div class="row">
+            <!-- Post Bar -->
+            {% assign author = site.authors[page.author] %}
+            <div class="col-lg-9 col-md-9 col-md-offset-2 blog-post-hr">
+                <div class="blog-post mb-30">
+                    <div class="post-meta"></span> <span>{{page.date | date: '%B %d, %Y'}}</span></div>
+
+                    <div class="post-media">
+
+                    </div>
+
+                    <div class="post-entry">
+                      {{ content }}
+                    </div>
+
+                    <div class="post-tag pull-left"><span><a>{{page.tags}}</a>
+                </div>
+
+                <hr />
+
+                <div class="post-author">
+                    <div class="post-author-img pull-left">
+                        <img alt="author" src="/img/authors/{{author.pic}}">
+                    </div>
+                    <div class="post-author-details pull-left">
+                        <h6>{{author.display_name}}</h6>
+                        <ul class="social dark-color">
+                            <li><a class="dark-color" href="https://www.facebook.com/{{author.facebook}}" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                            <li><a class="dark-color" href="https://www.twitter.com/{{author.twitter}}" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+          </div>
+        </div>
+      </div>
+</section>
+<!-- Post Next Prev Bar -->
+<section class="mb-60">
+    <div class="container">
+        <div class="item-nav">
+            <a href="" class="item-prev">
+                <div class="prev-btn"><i class="fa fa-angle-left"></i></div>
+                <div class="item-prev-text xs-hidden">
+                    <h6>Prev Post</h6>
+                </div>
+            </a>
+
+            <a href="https://of10.in/mag" class="item-all-view">
+                <h6>Main Page</h6>
+            </a>
+
+            <a href="" class="item-next">
+                <div class="next-btn"><i class="fa fa-angle-right"></i></div>
+                <div class="item-next-text xs-hidden">
+                    <h6>Next Post</h6>
+                </div>
+            </a>
+        </div>
+    </div>
+</section>
+<!-- End Post Next Prev Bar -->
