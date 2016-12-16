@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-    {% include head_blog.html %}
+    {% include blog/head_blog.html %}
     <body class="full-intro">
       <!-- Preloader -->
       <section id="preloader">
@@ -11,10 +11,10 @@
       <!-- End Preloader -->
         <div class="wrapper">
             {% include overlay_menu.html %}
-            {% include nav_blog.html %}
-            {% include blog-intro.html %}
-            {% include posts.html %}
-            {% include footer-blog.html %}
+            {% include blog/nav_blog.html %}
+            {% include blog/blog-intro.html %}
+            {% include blog/posts.html %}
+            {% include blog/footer-blog.html %}
             {% include js.html %}
         </div>
     </body>

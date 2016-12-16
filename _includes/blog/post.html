@@ -4,7 +4,7 @@ style="background-image: url('/img/posts/{{page.header_image}}'); background-siz
         <div class="row title">
             <h2 class="h2">{{page.title}}</h2>
             <div class="page-breadcrumb">
-                <a class="dark-color" href="https://of10.in">Home</a>/<a class="dark-color" href="https://of10.in/mag">Mag</a>/<span>{{ page.title }}</span>
+                <a class="dark-color" href="https://oftn.co">Mag</a>/<span>{{ page.title }}</span>
             </div>
         </div>
     </div>
@@ -52,23 +52,25 @@ style="background-image: url('/img/posts/{{page.header_image}}'); background-siz
 <section class="mb-60">
     <div class="container">
         <div class="item-nav">
-            <a href="" class="item-prev">
+            {% if page.previous.url %}
+            <a href="{{page.previous.url}}" class="item-prev">
                 <div class="prev-btn"><i class="fa fa-angle-left"></i></div>
                 <div class="item-prev-text xs-hidden">
                     <h6>Prev Post</h6>
                 </div>
             </a>
-
-            <a href="https://of10.in/mag" class="item-all-view">
+            {% endif %}
+            <a href="https://oftn.co" class="item-all-view">
                 <h6>Main Page</h6>
             </a>
-
-            <a href="" class="item-next">
+            {% if page.next.url %}
+            <a href="{{page.next.url}}" class="item-next">
                 <div class="next-btn"><i class="fa fa-angle-right"></i></div>
                 <div class="item-next-text xs-hidden">
                     <h6>Next Post</h6>
                 </div>
             </a>
+            {% endif %}
         </div>
     </div>
 </section>

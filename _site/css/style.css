@@ -3485,8 +3485,13 @@ ul.project-detail-block, .project-detail-block ul {
   background-size: cover;
 }
 
-.parallax-header-events {
+.parallax-header-education {
   background-image: url("/img/gallery/events3.jpg");
+  background-size: cover;
+}
+
+.parallax-header-events {
+  background-image: url("/img/gallery/events1.jpg");
   background-size: cover;
 }
 /* -------------------------------------*/

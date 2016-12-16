@@ -5,7 +5,7 @@
             <!-- Post Item -->
             <div class="col-md-8 col-md-offset-2 blog-post-hr">
 
-                {% for post in site.posts %}
+                {% for post in paginator.posts %}
                 {% assign author = site.authors[post.author] %}
                 <div class="blog-post mb-30">
                     <div class="post-meta dark-color">
@@ -27,13 +27,29 @@
                 <hr/>
                 {% endfor %}
                 <!-- Pagination Nav -->
+                {% if paginator.total_pages > 1 %}
                 <div class="pagination-nav mt-60 mtb-xs-30">
                     <ul>
-                        <li><a class="dark-color" href="#"><i class="fa fa-angle-left"></i></a></li>
-                        <li class="active"><a href="#">1</a></li>
-                        <li><a class="dark-color" href="#"><i class="fa fa-angle-right"></i></a></li>
+                        {% if paginator.previous_page %}
+                        <li><a class="dark-color" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="fa fa-angle-left"></i></a></li>
+                        {% endif %}
+
+                        {% for page in (1..paginator.total_pages) %}
+                        {% if page == paginator.page %}
+                          <li class="active"><a class="dark-color" href="#">{{ page }}</a></li>
+                        {% elsif page == 1 %}
+                          <li><a class="dark-color" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
+                        {% else %}
+                          <li><a class="dark-color" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+                        {% endif %}
+
+                        {% endfor %}
+                        {% if paginator.next_page %}
+                        <li><a class="dark-color" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="fa fa-angle-right"></i></a></li>
+                        {% endif %}
                     </ul>
                 </div>
+                {% endif%}
                 <!-- End Pagination Nav -->
 
             </div>
