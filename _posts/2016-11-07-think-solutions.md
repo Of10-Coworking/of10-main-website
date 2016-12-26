@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Think Solutions
-author: umang
+author: team
 tags: [Of10, Members, Ideas, Innovation]
 header_image: 4thwheel1.jpeg
 post_image: 4thwheel2.jpeg

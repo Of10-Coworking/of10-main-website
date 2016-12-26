@@ -3494,6 +3494,11 @@ ul.project-detail-block, .project-detail-block ul {
   background-image: url("/img/gallery/events1.jpg");
   background-size: cover;
 }
+
+.parallax-header-blog {
+  background-image: url("/img/feet_on_table.jpg");
+  background-size: cover;
+}
 /* -------------------------------------*/
 /* Full Screen slider---------*/
 /* -------------------------------------*/

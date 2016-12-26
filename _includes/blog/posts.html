@@ -4,8 +4,7 @@
         <div class="row">
             <!-- Post Item -->
             <div class="col-md-8 col-md-offset-2 blog-post-hr">
-
-                {% for post in paginator.posts %}
+                {% for post in site.posts %}
                 {% assign author = site.authors[post.author] %}
                 <div class="blog-post mb-30">
                     <div class="post-meta dark-color">
