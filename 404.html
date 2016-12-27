@@ -1,0 +1,23 @@
+---
+permalink: /404.html
+---
+<!DOCTYPE html>
+<html>
+    {% include not_found/head_404.html %}
+    <body class="full-intro">
+      <!-- Preloader -->
+      <section id="preloader">
+          <div class="loader" id="loader">
+              <div class="loader-img"></div>
+          </div>
+      </section>
+      <!-- End Preloader -->
+        <div class="wrapper">
+            {% include overlay_menu.html %}
+            {% include nav_custom.html %}
+            {% include not_found/not_found.html %}
+            {% include footer.html %}
+            {% include js.html %}
+        </div>
+    </body>
+</html>

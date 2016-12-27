@@ -3499,6 +3499,11 @@ ul.project-detail-block, .project-detail-block ul {
   background-image: url("/img/feet_on_table.jpg");
   background-size: cover;
 }
+
+.parallax-header-notfound {
+  background-image: url("/img/feet_on_table.jpg");
+  background-size: cover;
+}
 /* -------------------------------------*/
 /* Full Screen slider---------*/
 /* -------------------------------------*/
