@@ -1,8 +1,8 @@
 user-agent: *
-
+Disallow: /ed
 User-agent: Scrapy
 Disallow: /
- 	
+
 User-agent: Teleport
 Disallow: /
 
