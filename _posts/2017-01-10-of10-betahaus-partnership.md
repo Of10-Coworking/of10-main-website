@@ -13,3 +13,5 @@ Of10 members now have exclusive access to all Betahaus coworking locations throu
 You could revel in the Raval in Barcelona, hunt down bargains in Mauer Park of Berlin, take a boat tour to get a taste of the maritime culture in Hamburg or indulge in a food tour in Sofia in your free time. All this packed with a one-two punch of the a fantastic coworking community.
 
 With this collaboration, we wish to redefine the future of work and celebrate the working nomad.
+
+Check out betahaus at https://www.betahaus.com/berlin/
