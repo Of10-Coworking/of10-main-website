@@ -2915,13 +2915,13 @@ height:100%;
   45deg,
   #aaaaaa,
   #aaaaaa 0.5px,
-  transparent 0.5px,
-  transparent 20px
+  #f7f7f7 0.5px,
+  #f7f7f7 20px
 );
 }
 
 .square-white {
-   height: 375px;
+   height: 383px;
    width: 500px;
    background-color: white
 }
@@ -2932,12 +2932,15 @@ height:100%;
 
 .center-box{
   padding-top: 150px;
-  padding-left: 80px;
-}
-
-.center-box{
+  padding-left: 50px;
+  padding-right: 30px;
   color: #ffffff;
 }
+
+.center-box h2{
+  font-size: xx-large;
+}
+
 
 .item-box {
     position: relative;
@@ -3048,10 +3051,14 @@ height:100%;
         position: absolute;
         padding-top: 150px;
         left: 0px;
-        padding-left: 80px;
+        padding-left: 30px;
         padding-right: 30px;
         text-align: left;
         opacity: 0;
+    }
+
+    .item-mask .item-caption h2{
+      font-size: xx-large;
     }
 
     .text-tile{
