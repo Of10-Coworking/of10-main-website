@@ -2926,6 +2926,10 @@ height:100%;
    background-color: white
 }
 
+.img-circle {
+  border-radius: 50%;
+}
+
 /*.square-white:hover {
   background-color: #ec0089;
 }*/
@@ -2958,7 +2962,19 @@ height:100%;
         visibility: visible;
     }
 
+    .item-box:hover .item-mask-t {
+        opacity: 0.8;
+        visibility: visible;
+    }
+
         .item-box:hover .item-mask .item-caption {
+             display: table;
+              width:100%;
+              height:100%;
+            opacity: 1;
+        }
+
+        .item-box:hover .item-mask-t .item-caption {
              display: table;
               width:100%;
               height:100%;
@@ -3035,6 +3051,18 @@ height:100%;
     overflow: hidden;
 }
 
+.item-mask-t {
+  height: 100%;
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  opacity: 0.8;
+  visibility: hidden;
+  overflow: hidden;
+}
+
+
     .item-mask h5, .item-mask h6, .item-mask p {
         margin-bottom: 0px;
     }
@@ -3049,6 +3077,16 @@ height:100%;
     }
 
     .item-mask .item-caption {
+        position: absolute;
+        padding-top: 150px;
+        left: 0px;
+        padding-left: 30px;
+        padding-right: 30px;
+        text-align: left;
+        opacity: 0;
+    }
+
+    .item-mask-t .item-caption {
         position: absolute;
         padding-top: 150px;
         left: 0px;
@@ -3512,7 +3550,7 @@ ul.project-detail-block, .project-detail-block ul {
 }
 
 .parallax-header {
-  background-image: url("/img/gallery/reception.jpg");
+  background-image: url("/img/gallery/brightview-wide.jpg");
   background-size: cover;
 }
 
