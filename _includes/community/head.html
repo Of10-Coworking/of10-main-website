@@ -1,9 +1,9 @@
 <head>
     <meta charset="utf-8" />
-    <title>Community at Of10</title>
-    <meta name="description" content="Looking for coworking, community, events, startups, entrepreneurship, shared office space, freelancers, workspace, virtual office space in Hiranandani Gardens, Powai, Mumbai, India." />
-    <meta name="keywords" content="coworking,co-working,desk space,office space,office on rent,business centre,powai,hiranandani,training,freelancer,independent artist,entrepreneur,entrepreneurship,coder,programmer,hackathon,startup,start-up,journalist,consultant,bombay,social media,social service,venture,angel,investor,play,place,fun,study,learn,hangout,central,central mumbai,suburb,sme,techpreneur,tech,shared office,edupreneur,studentpreneur,student,work from home,work from ccd,cabins,meeting room,venue,event,Mumbai,coworking space">
-    <meta name="author" content="Of10 Coworking">
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
+    <meta name="keywords" content="{{site.keywords }}">
+    <meta name="author" content="{{site.author}}">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
     <meta name="language" content="english">
     <meta name="google-site-verification" content="qYSubOa419fnzUV4XBph2JZhl-Rv5sxPd7RewT8kmts" />

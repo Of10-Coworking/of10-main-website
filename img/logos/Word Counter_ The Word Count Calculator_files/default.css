@@ -1,0 +1,81 @@
+body{
+    background: #fff;
+}
+#top_counter {
+    background-color: #d9edf7;
+}
+.navbar-default {
+    background-color: #428bca;
+    border-color: #2a6496;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #ceefff;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #ceefff;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+    color: #ceefff;
+    background-color: #2a6496;
+}
+
+.panel-heading .accordion-toggle:after {
+    /* symbol for "opening" panels */
+    font-family: 'Glyphicons Halflings'; /* essential for enabling glyphicon */
+    content: "\e114"; /* adjust as needed, taken from bootstrap.css */
+    float: right; /* adjust as needed */
+    color: grey; /* adjust as needed */
+}
+.goal_button .progress .progress-bar {
+    background-color: #559cd9;
+    overflow: hidden;
+    position: absolute;
+}
+.share_this_link:hover, .share_this_link:focus {
+    text-decoration: none;
+    color: #23527c;
+    outline: none;
+}
+.keywordsBox #box.table-data::-webkit-scrollbar-thumb,
+.keywordsBox .tab-content.table-data::-webkit-scrollbar-thumb,
+#auto_save.keywordsBox .table-data::-webkit-scrollbar-thumb,
+#share-modal.keywordsBox .table-data::-webkit-scrollbar-thumb,
+#share-details-modal.keywordsBox .table-data::-webkit-scrollbar-thumb,
+#share-keyword-density-modal.keywordsBox .table-data::-webkit-scrollbar-thumb{
+    background: #428bca;
+}
+
+.keywordsBox #box.table-data::-webkit-scrollbar-thumb:window-inactive,
+.keywordsBox .tab-content.table-data::-webkit-scrollbar-thumb:window-inactive,
+#auto_save.keywordsBox .table-data::-webkit-scrollbar-thumb:window-inactive,
+#share-modal.keywordsBox .table-data::-webkit-scrollbar-thumb:window-inactive,
+#share-details-modal.keywordsBox .table-data::-webkit-scrollbar-thumb:window-inactive,
+#share-keyword-density-modal.keywordsBox .table-data::-webkit-scrollbar-thumb:window-inactive{
+    background: #428bca;
+}
+.keywordsBox .table-data::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    background: #428bca;
+}
+.keywordsBox .table-data::-webkit-scrollbar-thumb:window-inactive {
+    background: #428bca;
+}
+.hide_button {
+    color: #317ab9;
+}
+.hide_button:hover {
+    color: #64adeb;
+}
+#wc_footer{
+    background: #202020;
+}
+
+.share_modal_header{
+    background-color: #559cd9;
+}
