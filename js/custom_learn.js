@@ -2,12 +2,12 @@ $(document).ready(function() {
     $('#calendar').fullCalendar({
         googleCalendarApiKey: 'AIzaSyBqm8nK6SR7DYVWWICWv7Enpua0H_0pw88',
         defaultView: 'listMonth',
-        timezone: 'India/Kolkata',
+        timezone: 'local',
         events: {
-            googleCalendarId: 'bhargav@of10.in'
+            googleCalendarId: 'of10.in_qe4qjtkpthmseqb8308i5nb9s8@group.calendar.google.com'
         },
         eventColor: '#ec0089',
-        noEventsMessage: 'No events coming up this month'
+        noEventsMessage: 'No courses coming up this month'
     });
 });
 
