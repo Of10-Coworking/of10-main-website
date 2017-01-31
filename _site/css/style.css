@@ -656,6 +656,10 @@ label {
     width: 100%;
 }
 
+.form-half {
+  width: 50%;
+}
+
 .form-field-wrapper {
     margin-bottom: 20px;
 }
