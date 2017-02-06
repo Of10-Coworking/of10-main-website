@@ -1,16 +1,6 @@
 user-agent: *
 Allow: /
-Disallow: /blog
-Disallow: /events
-Disallow: /ed
-Disallow: /ed/
-Disallow: /contact
-Disallow: /contact/
 Disallow: /cdn-cgi/l/email-protection
-Disallow: /events/
-Disallow: /insider
-Disallow: /blog/
-Disallow: /insider/
 Disallow: /2016/11/05/welcome-to-of10/
 Disallow: /2016/12/14/in-the-loving-memory-of/
 Disallow: /2016/11/07/think-solutions/
