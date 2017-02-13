@@ -189,11 +189,11 @@ p {
         line-height: 24px;
     }
 
-    p.para-insider .para-insider{
+    p.der .para-insider{
         font-size: 20px;
         font-weight: 200;
         line-height: 30px;
-        font-family: Avenir;
+        font-family: Raleway;
     }
 
     p.dark, .dark, a.dark, h1.dark, h2.dark, h3.dark, h4.dark, h5.dark, h6.dark {
@@ -212,7 +212,7 @@ p {
     font-size: 20px;
     font-weight: 200;
     line-height: 30px;
-    font-family: Avenir;
+    font-family: Raleway;
 }
 
 .gallery_insider_1{
