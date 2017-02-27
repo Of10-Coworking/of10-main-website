@@ -14,4 +14,4 @@ You could revel in the Raval in Barcelona, hunt down bargains in Mauer Park of B
 
 With this collaboration, we wish to redefine the future of work and celebrate the working nomad.
 
-Check out betahaus at https://www.betahaus.com/berlin/
+Check out betahaus at their [website](https://www.betahaus.com/berlin/)

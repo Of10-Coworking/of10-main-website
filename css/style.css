@@ -3300,10 +3300,20 @@ ul.project-detail-block, .project-detail-block ul {
 
     .blog-post .post-entry {
         margin-bottom: 30px;
+
     }
+
 
         .blog-post .post-entry p, .blog-post .post-entry blockquote, .post-entry ul {
             margin-bottom: 20px;
+        }
+
+        .blog-post .post-entry a{
+          color: #000000;
+          font-weight: bold;
+        }
+        .blog-post .post-entry a:hover{
+          color: #ec0089;
         }
 
         .blog-post .post-entry ul {
