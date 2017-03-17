@@ -3079,15 +3079,15 @@ height:100%;
     .item-mask p {
         text-transform: uppercase;
         font-size: 11px;
-        letter-spacing: 1.5px;
-        font-weight: 400;
+        letter-spacing: 1.8px;
+        font-weight: 600;
         margin-top: 0;
         text-align: left;
     }
 
     .item-mask .item-caption {
         position: absolute;
-        padding-top: 150px;
+        padding-top: 162px;
         left: 0px;
         padding-left: 30px;
         padding-right: 30px;
@@ -3105,8 +3105,9 @@ height:100%;
         opacity: 0;
     }
 
-    .item-mask .item-caption h2{
+    .item-mask .item-caption p{
       font-size: xx-large;
+      line-height: 1.2
     }
 
     .text-tile{

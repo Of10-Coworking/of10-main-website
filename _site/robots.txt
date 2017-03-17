@@ -1,10 +1,7 @@
 user-agent: *
 Allow: /
 Disallow: /cdn-cgi/l/email-protection
-Disallow: /2016/11/05/welcome-to-of10/
-Disallow: /2016/12/14/in-the-loving-memory-of/
-Disallow: /2016/11/07/think-solutions/
-Disallow: /url/to/amp/index.html
+
 User-agent: Scrapy
 Disallow: /
 
