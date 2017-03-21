@@ -298,9 +298,15 @@ h1 {
     font-size: 43px;
     letter-spacing: 2px;
     line-height: 40px;
+    padding-top:10px;
+}
+.h2{
+    font-size: 27px;
+    margin-bottom: 20px;
+    line-height: 37px;
 }
 
-    h1.h1, h2.h2 {
+    h1.h1, h1.h2 {
         letter-spacing: 15px;
     }
     h1.h4 {
@@ -315,7 +321,7 @@ h1 {
 }
 
 @media (max-width: 767px) {
-    h1.h1, h2.h2 {
+    h1.h1, h1.h2 {
         letter-spacing: 0px;
     }
 }
@@ -2324,7 +2330,7 @@ header.sticky .navigation a.current-ele {
             text-align: center;
         }
 
-.full-intro .inner-intro .container .title h2 {
+.full-intro .inner-intro .container .title h1 {
     margin-top: 65px;
 }
 
