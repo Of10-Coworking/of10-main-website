@@ -1885,11 +1885,11 @@ header.sticky .navigation a.current-ele {
 .accordion-content {
     padding: 0 20px 10px;
 }
-.accordion-content p a{
+.accordion-content p a , p.para-insider a{
     color:black;
 }
-.accordion-content p a:hover{
-    color:#DC3D8E;
+.accordion-content p a:hover , p.para-insider a:hover{
+    color:#DC3D8E; 
 }
 /*-------------------------------------------------------------------------------------------*/
 /*  Counter          ||---------------------------- */
