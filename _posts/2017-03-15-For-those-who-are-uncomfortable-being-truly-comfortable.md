@@ -5,7 +5,7 @@ description: "A UI design expert, the youngest MD of a UI design firm and now, t
 author: team
 tags: [Workspaces, Offices, Of10 Insider ]
 header_image: zeux.jpg
-post_image: Saurabh.jpg
+post_image: saurabh.jpg
 image_caption: "The ability to do what you say you’ll do is the only quality that people are looking
 for."
 ---
