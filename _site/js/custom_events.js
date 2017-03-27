@@ -7,7 +7,12 @@ $(document).ready(function() {
             googleCalendarId: 'bhargav@of10.in'
         },
         eventColor: '#ec0089',
-        noEventsMessage: 'No events coming up this month'
+        noEventsMessage: 'No events coming up this month',
+        eventClick: function(calEvent, jsEvent, view) {
+            console.log('Event: ' + calEvent.title);
+            console.log('JsEvent: ' + jsEvent);
+            console.log('View: ' + view.name);
+        }
     });
 });
 
