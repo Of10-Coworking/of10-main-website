@@ -1888,7 +1888,7 @@ header.sticky .navigation a.current-ele {
 .accordion-content p a , p.para-insider a{
     color:black;
 }
-.accordion-content p a:hover , p.para-insider a:hover{
+.accordion-content p a:hover , p.para-insider a:hover,p.lead a{
     color:#DC3D8E; 
 }
 /*-------------------------------------------------------------------------------------------*/
