@@ -1376,12 +1376,16 @@ header.sticky .navigation a.current-ele {
     background-repeat: no-repeat;
     font-size: 27px;
 }
-
+#nav-toggle{
+    cursor: unset;
+}
 .header .hamburger-btn {
-    float: right;
+    left:97% !important;
     position: relative;
     padding: 35px 10px 34px;
+    cursor:pointer;
 }
+
 
 .header .hamburger-btn-insider {
     float: right;
@@ -1516,8 +1520,8 @@ header.sticky .navigation a.current-ele {
         border-bottom: none;
         position: absolute;
     }
-    .hamburger-btn{
-        padding-right: 10% !important;
+    .header .hamburger-btn{
+        left:85% !important;
     }
     .hamburger-btn-insider{
         padding-right: 10% !important;
