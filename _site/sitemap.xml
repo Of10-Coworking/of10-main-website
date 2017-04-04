@@ -4,28 +4,102 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
 <url>
   <loc>https://of10.in/</loc>
-  <lastmod>2017-02-03T07:15:37+00:00</lastmod>
+  <lastmod>2017-04-01T12:36:12+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://of10.in/community</loc>
-  <lastmod>2017-02-03T07:15:37+00:00</lastmod>
+  <loc>https://of10.in/press/</loc>
+  <lastmod>2017-04-01T12:36:12+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://of10.in/contact</loc>
-  <lastmod>2017-02-03T07:15:37+00:00</lastmod>
+  <loc>https://of10.in/events/</loc>
+  <lastmod>2017-04-01T12:36:12+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://of10.in/partnerships</loc>
-  <lastmod>2017-02-03T07:15:37+00:00</lastmod>
+  <loc>https://of10.in/learn/</loc>
+  <lastmod>2017-04-01T12:36:12+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://of10.in/learn</loc>
-  <lastmod>2017-02-03T07:15:37+00:00</lastmod>
+  <loc>https://of10.in/blog/</loc>
+  <lastmod>2017-04-01T12:36:12+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://of10.in/events</loc>
-  <lastmod>2017-02-03T07:15:37+00:00</lastmod>
+  <loc>https://of10.in/partnerships/</loc>
+  <lastmod>2017-04-01T12:36:12+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://of10.in/contact/</loc>
+  <lastmod>2017-04-01T12:36:12+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://of10.in/community/</loc>
+  <lastmod>2017-04-01T12:36:12+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://of10.in/2017/03/15/for-those-who-are-uncomfortable-being-truly-comfortable/</loc>
+  <lastmod>2017-04-01T12:36:12+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://of10.in/2017/02/27/of10-work-from-singapore/</loc>
+  <lastmod>2017-04-01T12:36:12+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://of10.in/blog/page2/</loc>
+  <lastmod>2017-04-01T12:36:12+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://of10.in/blog/page3/</loc>
+  <lastmod>2017-04-01T12:36:12+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://of10.in/2016/12/14/in-the-loving-memory-of/</loc>
+  <lastmod>2017-04-01T12:36:12+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://of10.in/2017/01/10/of10-betahaus-partnership/</loc>
+  <lastmod>2017-04-01T12:36:12+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://of10.in/2016/11/07/think-solutions/</loc>
+  <lastmod>2017-04-01T12:36:12+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://of10.in/2016/11/05/welcome-to-of10/</loc>
+  <lastmod>2017-04-01T12:36:12+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
 </url>
 </urlset>
