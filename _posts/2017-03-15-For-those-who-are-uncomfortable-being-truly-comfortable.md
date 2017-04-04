@@ -1,6 +1,6 @@
 ---
 layout: post
-title: for those who are uncomfortable being truly comfortable
+title: For those who are uncomfortable being truly comfortable
 description: "A UI design expert, the youngest MD of a UI design firm and now, the co-founder of Zeux Innovation sitting out of Of10"
 author: team
 tags: [Workspaces, Offices, Of10 Insider ]
