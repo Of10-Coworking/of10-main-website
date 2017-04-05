@@ -16,11 +16,11 @@ window.onload = init;
 $("#imgAnimate").hover(
     function()
     {
-        $(this).attr("src", "img/brickwall/hustle.gif");
+        $(this).attr("src", "img/brickwall/of10-shared-space-hustle.gif");
     },
     function()
     {
-        $(this).attr("src", "img/brickwall/hustle.gif");
+        $(this).attr("src", "img/brickwall/of10-shared-space-hustle.gif");
     });
 function toggleOverlay() {
     console.log("Clicked");
