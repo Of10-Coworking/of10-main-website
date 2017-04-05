@@ -700,7 +700,16 @@ form label.error {
 .successContent {
     color: #fff;
 }
-
+.successContent i.left{
+    color: #5cb45d;
+}
+.errorContent i.left{
+    color: #e1534f;
+}
+#event-booking,#partner,#amenities,#gallery{
+    
+    background-color: #f7f7f7;
+}
 
 /* Spacer Style   ||-----------*/
 
@@ -779,6 +788,7 @@ form label.error {
 
 .pt {
     padding-top: 110px;
+   
 }
 
 .pb {
@@ -2967,7 +2977,9 @@ height:100%;
   color: #ec0089;
 }
 
-
+#item-box{
+    background-color:#EC008C;
+}
 .item-box {
     position: relative;
     overflow: hidden;
@@ -4176,3 +4188,5 @@ ul.project-detail-block, .project-detail-block ul {
         margin-top: 5%;
     }
 }
+
+
