@@ -28,6 +28,6 @@ The concept of conversations by the water cooler is never too old. If you are a 
 
 This is where your small talk begins. How you take it forward and turn it into your advantage is completely in your hands.
 
-**Exchange of Services:**
+# Exchange of Services:
 
 Taking up co-working space Mumbai will also give you the chance to make “b2b” connections. It is not uncommon for a design agency to partner with a marketing company in the same shared office. Once two companies do business under the same roof, chances of recommendations increase. Often clients recommend outside the space, giving you opportunities to expand your business. In a start up culture, everyone is looking for cost effective and "jugaadu" ways of getting the job done. Working with like-minded people in the same office is the essence of co-working. It is perfect for growth and expansion opportunities.
