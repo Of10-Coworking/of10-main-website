@@ -4,7 +4,7 @@ title: Think Solutions
 author: team
 tags: [Of10, Members, Ideas, Innovation]
 header_image: 4thwheel1.jpeg
-post_image: 4thwheel2.jpeg
+post_image: of10-shared-space-blog-think-solutions.jpg
 image_caption: The 4th Wheel Team
 ---
 

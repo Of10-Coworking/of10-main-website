@@ -4,7 +4,7 @@ title: Of10xBetahaus - Explore a New World
 author: team
 tags: [Workspaces, Offices, Of10 Insider ]
 header_image: betahaus2.jpg
-post_image: betahaus1.jpg
+post_image: of10-shared-space-blog-xbetahaus-explore-a-new-world.jpg
 image_caption: Betahaus in Berlin
 ---
 

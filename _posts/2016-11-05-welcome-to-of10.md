@@ -4,7 +4,7 @@ title: Welcome to Of10
 author: team
 tags: [Of10, Ideas, Innovation]
 header_image: fullview.jpg
-post_image: conference_room.jpg
+post_image: of10-shared-space-blog-welcome-to-of10.jpg
 image_caption: Hustle always!
 
 ---

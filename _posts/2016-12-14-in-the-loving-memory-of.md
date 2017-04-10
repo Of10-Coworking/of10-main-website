@@ -4,7 +4,7 @@ title: In the loving memory of...
 author: team
 tags: [Workspaces, Offices, Of10 Insider ]
 header_image: oldoffice.jpg
-post_image: madeira-and-mime.jpg
+post_image: of10-shared-space-blog-in-the-loving-memory-of.jpg
 image_caption: Madeira and Mime
 ---
 

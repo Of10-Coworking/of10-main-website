@@ -577,8 +577,6 @@ button {
     background-size: 100%;
 }
 
-
-
 @media (max-width: 767px) {
     .home-gif{
         content:url("/img/of10-small.gif");
@@ -710,7 +708,16 @@ form label.error {
     
     background-color: #f7f7f7;
 }
-
+.apply-heading,.amenities-heading,.about-heading,.clients-heading,.gallery-heading{
+    font-size: 27px;
+    letter-spacing: 2px;
+    line-height: 37px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #323232;font-family: 'Raleway',sans-serif;
+}
 /* Spacer Style   ||-----------*/
 
 .spacer-15 {
@@ -2972,9 +2979,14 @@ height:100%;
   color: #ffffff;
 }
 
-.center-box h2{
+.center-box p.h2{
   font-size: xx-large;
   color: #ec0089;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 600;
+    
+
 }
 
 #item-box{
@@ -3136,6 +3148,30 @@ height:100%;
       font-size: xx-large;
       line-height: 1.2
     }
+
+    @media (max-width: 767px){
+    .homebutton{
+        display: inline-block;
+        
+        letter-spacing: 0.5px;
+    }
+    #center-box{
+        padding-left:17px;
+        padding-right: 0px;
+    }
+    #center-box p.h2{
+        font-size: 18px;
+        line-height: 0.9;
+    }
+    #item-caption{
+        
+        padding-top:130px;
+    }
+    #item-caption p.white{
+        font-size:18px;
+        line-height: 0.9;
+    }
+}
 
     .text-tile{
         height:380px;
@@ -3302,6 +3338,7 @@ ul.project-detail-block, .project-detail-block ul {
         overflow: hidden;
         margin-bottom: 25px;
     }
+    
 
         .post-media iframe {
             width: 100%;
@@ -3330,6 +3367,21 @@ ul.project-detail-block, .project-detail-block ul {
         margin-bottom: 30px;
 
     }
+    .shared-idea{
+        margin-left:75px;
+    }
+    @media (max-width: 768px) {
+       .shared-idea{
+            margin-left:50px;
+        } 
+    }
+    @media (max-width: 767px) {
+       .shared-idea{
+            margin-left:2px;
+        } 
+    } 
+
+    
 
 
         .blog-post .post-entry p, .blog-post .post-entry blockquote, .post-entry ul {
@@ -3993,6 +4045,13 @@ ul.project-detail-block, .project-detail-block ul {
         #preloader .loader .loader-caption{
             font-weight: normal;
             display: block;
+            font-size: 27px;
+            letter-spacing: 2px;
+            line-height: 37px;
+            margin-bottom: 20px;
+            padding-top: 10px;
+            text-transform: uppercase;
+            font-family: 'Raleway',sans-serif;
         }
 
         @media (max-width: 768px) {
@@ -4188,5 +4247,4 @@ ul.project-detail-block, .project-detail-block ul {
         margin-top: 5%;
     }
 }
-
 
