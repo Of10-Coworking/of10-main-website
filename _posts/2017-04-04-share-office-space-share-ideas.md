@@ -4,11 +4,7 @@ title: Share Office Space, Share Ideas
 description: Share Office Space, Share Ideas - Networking Opportunities That Come With Coworking in Mumbai
 author: team
 header_image: events1.jpg
-<<<<<<< HEAD
-post_image: of10-shared-space-blog-share-office-space-share-ideas.jpg 
-=======
-post_image: events4.jpg
->>>>>>> 594cfa9819fe314cd997518d2deaadc98708626d
+post_image: of10-shared-space-blog-share-office-space-share-ideas.jpg
 image_caption: Networking happens in different ways in an office.
 ---
 
