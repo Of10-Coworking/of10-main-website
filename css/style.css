@@ -1397,9 +1397,8 @@ header.sticky .navigation a.current-ele {
     cursor: unset;
 }
 .header .hamburger-btn {
-    left:97% !important;
-    position: relative;
-    padding: 35px 10px 34px;
+    
+    padding: 35px 35px 34px 0px;
     cursor:pointer;
 }
 
@@ -1537,9 +1536,7 @@ header.sticky .navigation a.current-ele {
         border-bottom: none;
         position: absolute;
     }
-    .header .hamburger-btn{
-        left:85% !important;
-    }
+    
     .hamburger-btn-insider{
         padding-right: 10% !important;
     }
@@ -4068,7 +4065,7 @@ ul.project-detail-block, .project-detail-block ul {
           #preloader .loader .loader-caption{
               font-weight: normal;
               display: block;
-              font-size: large;
+              font-size: 27px;
 
           }
         }
@@ -4077,6 +4074,14 @@ ul.project-detail-block, .project-detail-block ul {
               font-weight: normal;
               display: block;
               font-size: medium;
+
+        }
+        @media (max-width: 350px) {
+          #preloader .loader .loader-caption{
+              font-weight: 600;
+              display: block;
+              font-size: 13px;
+
 
         }
 
