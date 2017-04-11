@@ -705,7 +705,7 @@ form label.error {
     color: #e1534f;
 }
 #event-booking,#partner,#amenities,#gallery{
-    
+
     background-color: #f7f7f7;
 }
 .apply-heading,.amenities-heading,.about-heading,.clients-heading,.gallery-heading{
@@ -795,7 +795,7 @@ form label.error {
 
 .pt {
     padding-top: 110px;
-   
+
 }
 
 .pb {
@@ -1910,7 +1910,7 @@ header.sticky .navigation a.current-ele {
     color:black;
 }
 .accordion-content p a:hover , p.para-insider a:hover,p.lead a{
-    color:#DC3D8E; 
+    color:#DC3D8E;
 }
 /*-------------------------------------------------------------------------------------------*/
 /*  Counter          ||---------------------------- */
@@ -2985,7 +2985,7 @@ height:100%;
   text-transform: uppercase;
   letter-spacing: 2px;
   font-weight: 600;
-    
+
 
 }
 
@@ -3152,7 +3152,7 @@ height:100%;
     @media (max-width: 767px){
     .homebutton{
         display: inline-block;
-        
+
         letter-spacing: 0.5px;
     }
     #center-box{
@@ -3164,7 +3164,7 @@ height:100%;
         line-height: 0.9;
     }
     #item-caption{
-        
+
         padding-top:130px;
     }
     #item-caption p.white{
@@ -3338,7 +3338,7 @@ ul.project-detail-block, .project-detail-block ul {
         overflow: hidden;
         margin-bottom: 25px;
     }
-    
+
 
         .post-media iframe {
             width: 100%;
@@ -3373,15 +3373,15 @@ ul.project-detail-block, .project-detail-block ul {
     @media (max-width: 768px) {
        .shared-idea{
             margin-left:50px;
-        } 
+        }
     }
     @media (max-width: 767px) {
        .shared-idea{
             margin-left:2px;
-        } 
-    } 
+        }
+    }
 
-    
+
 
 
         .blog-post .post-entry p, .blog-post .post-entry blockquote, .post-entry ul {
@@ -4247,4 +4247,3 @@ ul.project-detail-block, .project-detail-block ul {
         margin-top: 5%;
     }
 }
-
