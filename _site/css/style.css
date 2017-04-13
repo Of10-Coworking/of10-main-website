@@ -373,7 +373,12 @@ h6 {
 h1.large {
     font-size: 50px;
 }
-
+h4.h5{
+    font-size: 15px;
+    letter-spacing: 2px;
+    line-height: 23px;
+    font-weight: 600;
+}
 /*Button Style   ||-----------*/
 .btn:focus {
     outline: none;

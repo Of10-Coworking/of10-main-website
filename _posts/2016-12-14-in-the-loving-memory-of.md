@@ -5,6 +5,7 @@ author: team
 tags: [Workspaces, Offices, Of10 Insider ]
 header_image: oldoffice.jpg
 post_image: of10-shared-space-blog-in-the-loving-memory-of.jpg
+post_image_alt: Madeira-and-Mime
 image_caption: Madeira and Mime
 ---
 

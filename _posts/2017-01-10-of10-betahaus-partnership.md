@@ -5,6 +5,7 @@ author: team
 tags: [Workspaces, Offices, Of10 Insider ]
 header_image: betahaus2.jpg
 post_image: of10-shared-space-blog-xbetahaus-explore-a-new-world.jpg
+post_image_alt: xbetahaus
 image_caption: Betahaus in Berlin
 ---
 

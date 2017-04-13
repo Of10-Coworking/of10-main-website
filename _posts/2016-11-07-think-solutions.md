@@ -5,6 +5,7 @@ author: team
 tags: [Of10, Members, Ideas, Innovation]
 header_image: 4thwheel1.jpeg
 post_image: of10-shared-space-blog-think-solutions.jpg
+post_image_alt: team-members
 image_caption: The 4th Wheel Team
 ---
 

@@ -5,6 +5,7 @@ author: team
 tags: [Workspaces, Offices, Of10 Insider ]
 header_image: collision8.jpg
 post_image: of10-shared-space-blog-xcollision8-we-are-in-singapore.jpg
+post_image_alt: xcollision8
 image_caption: Collision8 in Singapore
 ---
 
