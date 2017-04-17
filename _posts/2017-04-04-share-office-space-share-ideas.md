@@ -5,6 +5,7 @@ description: Share Office Space, Share Ideas - Networking Opportunities That Com
 author: team
 header_image: events1.jpg
 post_image: of10-shared-space-blog-share-office-space-share-ideas.jpg
+post_image_alt: exhange-of-services
 image_caption: Networking happens in different ways in an office.
 ---
 

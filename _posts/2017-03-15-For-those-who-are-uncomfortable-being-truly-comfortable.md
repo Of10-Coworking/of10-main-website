@@ -1,13 +1,13 @@
 ---
 layout: post
-title: For those who are uncomfortable being truly comfortable
+title: for those who are uncomfortable being truly comfortable
 description: "A UI design expert, the youngest MD of a UI design firm and now, the co-founder of Zeux Innovation sitting out of Of10"
 author: team
 tags: [Workspaces, Offices, Of10 Insider ]
 header_image: zeux.jpg
-post_image: of10-shared-space-blog-For-those-who-are-uncomfortable-being-truly-comfortable.jpg
-image_caption: "The ability to do what you say you’ll do is the only quality that people are looking
-for."
+post_image: of10-shared-space-blog-for-those-who-are-uncomfortable-being-truly-comfortable.jpg
+post_image_alt: saurabh
+image_caption: "The ability to do what you say you’ll do is the only quality that people are looking for."
 ---
 
 *“If you truly want to design great things, you must first look at the problems, the
@@ -45,7 +45,7 @@ feelings allowed him to better deal with people.
 Some of us work because we must and some of us do so to accomplish something.
 Paying attention to detail is the need of the hour and no one has understood it better
 than Saurabh. An entrepreneur by choice, he talks about the biggest achievement his
-company, [Zeux Innovation](http://www.zeuxinnovation.com) has had till date. They have partnered with India’s largest
+company, [Zeux Innovation](http://www.zeuxinnovation.com/) has had till date. They have partnered with India’s largest
 securities firm and are responsible for their complete UX ecosystem.
 
 His interest in design is deep rooted and this flashes intensely in his idea of ‘Bakwaas
