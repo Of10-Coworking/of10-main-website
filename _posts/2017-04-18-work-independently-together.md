@@ -1,6 +1,6 @@
 ---
 layout: post
-title: work independently,together
+title: Work independently, together
 author: apurba
 header_image: of10-shared-space-blog-of10-author.jpg
 post_image: of10-shared-space-blog-of10-coworking.jpg
@@ -8,13 +8,11 @@ post_image_alt: coworking
 image_caption: "The spirit of co-working allows you to find co-workers who are worth working with."
 ---
 
-## What is Co-working? ##
-
 *“The use of a work environment by people who work for different organisations or are self-employed, so as to share space, equipment, ideas and knowledge is co-working. The whole idea of co-working is to bring bright, creative people together and let the ideas collide.”*
 
 ## Why Co-working? ##
 
-Imagine this: A work space where you saunter in and out at an hour of your choice, work on building your brand, spot like-minded individuals and get downto business! A place that lives by the quote “work hard, play hard” and where you spot [NO boring cubicles](https://of10.in/2016/12/14/in-the-loving-memory-of/). This will sound appealing to any professional who finds it difficult to be productive in isolation, sitting in their PJs at home or hurting their pockets by spending long hours in the café. 
+Imagine this: A work space where you saunter in and out at an hour of your choice, work on building your brand, spot like-minded individuals and get downto business! A place that lives by the quote “work hard, play hard” and where you spot [NO boring cubicles](https://of10.in/2016/12/14/in-the-loving-memory-of/). This will sound appealing to any professional who finds it difficult to be productive in isolation, sitting in their PJs at home or hurting their pockets by spending long hours in the café.
 
 Co-working spaces are designed to **build a comm-YOU-nity** of creative individuals. These spaces are buzzing centres of energy and a melting pot of ideas and strategies which ensure, you have enough fuel to fire your imagination which in turn will reflect in your product/service.
 
