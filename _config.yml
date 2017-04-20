@@ -37,6 +37,14 @@ authors:
     web: http://www.of10.in/
     twitter: workof10
     facebook: workof10
+  apurba:
+    display_name: Apurba Mandal
+    email: apurba@of10.in
+    pic: apurba.jpg
+    twitter: workof10
+    facebook: appy.aps
+    linkedin: apurba-mandal-07
+
 
 # Build settings
 paginate: 2
