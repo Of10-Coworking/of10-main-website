@@ -47,7 +47,7 @@ authors:
 
 
 # Build settings
-paginate: 2
+paginate: 3
 paginate_path: "/blog/page:num/"
 markdown: kramdown
 permalink: pretty
