@@ -3572,6 +3572,7 @@ ul.project-detail-block, .project-detail-block ul {
 }
 #here-are-six-ways-co-working-spaces-are-changing-the-work-space-game:after{
     content: "";
+    color:transparent;
 }
 /* ----------------------------------------------------------------------*/
 /* Shop   --------------------------------------------------------- */
