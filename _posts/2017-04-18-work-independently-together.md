@@ -14,11 +14,11 @@ image_caption: "The spirit of co-working allows you to find co-workers who are w
 
 ## Why Co-working? ##
 
-Imagine this: A work space where you saunter in and out at an hour of your choice, work on building your brand, spot like-minded individuals and get downto business! A place that lives by the quote “work hard, play hard” and where you spot  [NO boring cubicles](https://of10.in/2016/12/14/in-the-loving-memory-of/). This will sound appealing to any professional who finds it difficult to be productive in isolation, sitting in their PJs at home or hurting their pockets by spending long hours in the café. 
+Imagine this: A work space where you saunter in and out at an hour of your choice, work on building your brand, spot like-minded individuals and get downto business! A place that lives by the quote “work hard, play hard” and where you spot [NO boring cubicles](https://of10.in/2016/12/14/in-the-loving-memory-of/). This will sound appealing to any professional who finds it difficult to be productive in isolation, sitting in their PJs at home or hurting their pockets by spending long hours in the café. 
 
 Co-working spaces are designed to **build a comm-YOU-nity** of creative individuals. These spaces are buzzing centres of energy and a melting pot of ideas and strategies which ensure, you have enough fuel to fire your imagination which in turn will reflect in your product/service.
 
-##### Here are SIX ways co-working spaces are changing the work space game: #####
+### Here are SIX ways co-working spaces are changing the work space game: ###
 
 * **Flexible working:**  People working in shared spaces can work freely at any time of the day and are not restricted to single cubicles like we’ve come to expect from a traditional office. The lack of rigid work hours, the freedom to talk and mingle with others on work, makes way for creative co-working spaces. *
 
