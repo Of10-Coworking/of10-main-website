@@ -3557,6 +3557,19 @@ ul.project-detail-block, .project-detail-block ul {
 .post-comment-star label {
     margin-right: 6px;
 }
+
+#what-is-co-working,#why-co-working{
+    font-size: 17px;
+    letter-spacing: 2px;
+    line-height: 28px;
+    font-weight: 600;
+}
+#here-are-six-ways-co-working-spaces-are-changing-the-work-space-game{
+    font-size: 15px;
+    letter-spacing: 2px;
+    line-height: 23px;
+    font-weight: 600;
+}
 /* ----------------------------------------------------------------------*/
 /* Shop   --------------------------------------------------------- */
 /* ----------------------------------------------------------------------*/
