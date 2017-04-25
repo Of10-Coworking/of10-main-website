@@ -1402,7 +1402,7 @@ header.sticky .navigation a.current-ele {
     cursor: unset;
 }
 .header .hamburger-btn {
-    
+
     padding: 35px 35px 34px 0px;
     cursor:pointer;
 }
@@ -1541,7 +1541,7 @@ header.sticky .navigation a.current-ele {
         border-bottom: none;
         position: absolute;
     }
-    
+
     .hamburger-btn-insider{
         padding-right: 10% !important;
     }
@@ -3157,19 +3157,19 @@ height:100%;
 
         letter-spacing: 0.5px;
     }
-    #center-box{
+    .center-box{
         padding-left:17px;
         padding-right: 0px;
     }
-    #center-box p.h2{
+    .center-box p.h2{
         font-size: 18px;
         line-height: 0.9;
     }
-    #item-caption{
+    .item-caption{
 
         padding-top:130px;
     }
-    #item-caption p.white{
+    .item-caption p.white{
         font-size:18px;
         line-height: 0.9;
     }
