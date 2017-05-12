@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Empire state of mind
+metatitle: Spark Labs New York Office Partnership with OF10
+description: Spark Labs New York Office has partnered with India based coworking space OF10. Expanding or doing business in New York has become easier for the OF10 community.
 author: team
 header_image: of10-shared-space-empire-state-of-minds.jpg
 post_image: of10-shared-space-blog-of10-sparklab.jpg
@@ -36,5 +38,3 @@ Just like the multicultural city of NYC, Spark Labs boasts a global community of
 So what are you waiting for! Get in the **“Empire State of Mind”**.
 
 Check out the [Spark Labs](https://www.spark-labs.co/en) website.
-
-
