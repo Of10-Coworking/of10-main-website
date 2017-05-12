@@ -20,7 +20,7 @@ Located in Bryant Park and Union Square, Spark Labs is arguably one of the [best
 
 This partnership offers  **Of10**  members  an immediate **FREE** workplace in NYC when they travel.
 
-## That’s not all; here are other benefits that the members of Of10 can expect out of this collaboration:##
+#### That’s not all; here are other benefits that the members of Of10 can expect out of this collaboration:####
 
 * Get an opportunity to create and expand your business out of Spark Lab’s NYC lab. *
 
