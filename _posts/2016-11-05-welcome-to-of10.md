@@ -2,6 +2,8 @@
 layout: post
 title: Welcome to Of10
 author: team
+metatitle: Welcome to Of10 - Best Office Space in Powai
+description: Welcome to an amazing co-working space OF10. OF10 is a coworking space focused towards community building. Startups have grown through our networking events in the past.
 tags: [Of10, Ideas, Innovation]
 header_image: fullview.jpg
 post_image: of10-shared-space-blog-welcome-to-of10.jpg

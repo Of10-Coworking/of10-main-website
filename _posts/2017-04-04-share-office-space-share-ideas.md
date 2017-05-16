@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Share Office Space, Share Ideas
+metatitle: Share Ideas in Shared Office Space - OF10
 description: Share Office Space, Share Ideas - Networking Opportunities That Come With Coworking in Mumbai
 author: team
 header_image: events1.jpg
@@ -16,7 +17,7 @@ It is commonplace for a social media start-up to often find a design company in 
 This is the way work culture has changed. People are now working in a community oriented manner. They share resources and there are opportunities for the growth for all. Networking happens in the following ways in an office.
 
 ## Hosted Events: ##
- 
+
 
 Assuming you have cracked a deal recently or if you have come up with a new product or a new service. Then, you can do an event in the cafe or a conference room and invite other members of your **shared office**. Introduce yourself to them and find out what they do. Talk about business trends, insights or anything else. The least that could happen is you make new friends.
 
@@ -42,5 +43,3 @@ This is where your small talk begins. How you take it forward and turn it into y
 ## Exchange of Services: ##
 
 Taking up **co-working space Mumbai** will also give you the chance to make “b2b” connections. It is not uncommon for a design agency to partner with a marketing company in the same shared office. Once two companies do business under the same roof, chances of recommendations increase. Often clients recommend outside the space, giving you opportunities to expand your business. In a start up culture, everyone is looking for cost effective and "jugaadu" ways of getting the job done. Working with like-minded people in the same office is the essence of co-working. It is perfect for growth and expansion opportunities.
-
- 

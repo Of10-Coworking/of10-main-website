@@ -2,6 +2,9 @@
 layout: post
 title: In the loving memory of...
 author: team
+metatitle: In Loving Memory of the Dying Office Space
+description: The death of the office cubicle is near. You can now work in beautifully furnished spaces and sit in the extremely comfortable chairs, instead of your boring grey office walls.
+Concept: OF10 Insider
 tags: [Workspaces, Offices, Of10 Insider ]
 header_image: oldoffice.jpg
 post_image: of10-shared-space-blog-in-the-loving-memory-of.jpg

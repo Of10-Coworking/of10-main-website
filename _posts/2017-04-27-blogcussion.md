@@ -2,6 +2,8 @@
 layout: post
 title: Blogcussion
 author: team
+metatitle: Learn About Blogging From Experts in Industry
+description: Get a chance to upgrade your knowledge on blogging through the best bloggers in Mumbai.
 header_image: of10-shared-space-blog-blogging-blog-barticle.jpg
 post_image: of10-shared-space-blogging-blog-barticle.jpg
 post_image_alt: blogging-blog-barticle
@@ -18,7 +20,7 @@ In today’s era, online success = real life success. No matter how blah that so
 
 Blogging is not about writing an essay; it's about weaving words to communicate from your heart, while creating an (even if small) impact.
 
-You might be a style babe, an artist, or an entrepreneur, grabbing the attention of your tribe is a prerequisite. 
+You might be a style babe, an artist, or an entrepreneur, grabbing the attention of your tribe is a prerequisite.
 
 Learn about the nitty-gritty of **blogging** from the #sassiest influencers of the town, this [Saturday](https://www.eventshigh.com/detail/Mumbai/d19de66e754f77d994fefeff94caa20d), where they will take your hand and give you a backstage pass to the blogosphere.
 

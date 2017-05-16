@@ -2,6 +2,8 @@
 layout: post
 title:  Trendy Trends of Coworking Spaces
 author: team
+metatitle: Time To Shift in a Trendy Coworking Space Just For Your Business
+description: Businesses are coming up day by day. It's a time for you to move your office from boring square to a very trendy coworking space and get visibility in the market.
 header_image: of10-shared-space-blog-trendy-trends.jpg
 post_image: of10-shared-space-blog-trendy-shared-space-blog.jpg
 post_image_alt: trendy-shared-space

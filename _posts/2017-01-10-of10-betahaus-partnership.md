@@ -2,6 +2,8 @@
 layout: post
 title: Of10xBetahaus - Explore a New World
 author: team
+metatitle: Of10xBetahaus - Explore a New World in Europe
+description: Of10 members now have exclusive access to all Betahaus coworking locations through Europe.
 tags: [Workspaces, Offices, Of10 Insider ]
 header_image: betahaus2.jpg
 post_image: of10-shared-space-blog-xbetahaus-explore-a-new-world.jpg
