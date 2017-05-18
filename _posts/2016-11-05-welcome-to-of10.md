@@ -9,6 +9,7 @@ header_image: fullview.jpg
 post_image: of10-shared-space-blog-welcome-to-of10.jpg
 post_image_alt: hustle
 image_caption: Hustle always!
+comments: true
 
 ---
 

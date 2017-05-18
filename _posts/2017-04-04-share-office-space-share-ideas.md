@@ -8,6 +8,7 @@ header_image: events1.jpg
 post_image: of10-shared-space-blog-share-office-space-share-ideas.jpg
 post_image_alt: exhange-of-services
 image_caption: Networking happens in different ways in an office.
+comments: true
 ---
 
 Business fairs are good opportunities for individuals to build a network for themselves. Now, [co-working spaces in Mumbai](https://of10.in/) now provide similar networking opportunities. Except that this can happen on a regular basis.

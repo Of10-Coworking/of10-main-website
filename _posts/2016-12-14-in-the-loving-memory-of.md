@@ -10,6 +10,7 @@ header_image: oldoffice.jpg
 post_image: of10-shared-space-blog-in-the-loving-memory-of.jpg
 post_image_alt: Madeira-and-Mime
 image_caption: Madeira and Mime
+comments: true
 ---
 
 Office spaces. A dying breed, at death’s doorstep, taking its last breath, one foot in the grave and whatever other fancy term that describes the rapid death of office spaces. Remember that young chap that once chained you to your desks in a staring contest with your computer screen, between frequent bouts of smiling painfully through another terrible joke made by your boss? Well, he’s old news now. Soon, he’ll be nothing but a dug-up grave and a pile of ashes.

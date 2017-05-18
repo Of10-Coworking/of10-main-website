@@ -9,6 +9,7 @@ header_image: zeux.jpg
 post_image: of10-shared-space-blog-for-those-who-are-uncomfortable-being-truly-comfortable.jpg
 post_image_alt: saurabh
 image_caption: "The ability to do what you say you’ll do is the only quality that people are looking for."
+comments: true
 ---
 
 *“If you truly want to design great things, you must first look at the problems, the

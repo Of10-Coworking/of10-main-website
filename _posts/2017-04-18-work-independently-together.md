@@ -8,6 +8,7 @@ header_image: of10-shared-space-blog-of10-author.jpg
 post_image: of10-shared-space-blog-of10-coworking.jpg
 post_image_alt: coworking
 image_caption: "The spirit of co-working allows you to find co-workers who are worth working with."
+comments: true
 ---
 
 *“The use of a work environment by people who work for different organisations or are self-employed, so as to share space, equipment, ideas and knowledge is co-working. The whole idea of co-working is to bring bright, creative people together and let the ideas collide.”*

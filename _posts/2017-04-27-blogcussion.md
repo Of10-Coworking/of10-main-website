@@ -8,6 +8,7 @@ header_image: of10-shared-space-blog-blogging-blog-barticle.jpg
 post_image: of10-shared-space-blogging-blog-barticle.jpg
 post_image_alt: blogging-blog-barticle
 image_caption: "The key is, no matter what story you tell, make your buyer the hero."
+comments: true
 ---
 
 **Kylie Jenner is a sensation. She’s made millions for herself and the brands she endorses.**

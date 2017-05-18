@@ -8,6 +8,7 @@ header_image: of10-shared-space-blog-trendy-trends.jpg
 post_image: of10-shared-space-blog-trendy-shared-space-blog.jpg
 post_image_alt: trendy-shared-space
 image_caption: "Where there is an obstacle, an entrepreneur sees opportunity."
+comments: true
 ---
 
 *Seeing a rise in the number of SMEs and solopreneurs who need flexible office spaces on demand, co working has become talk of the town. Companies want to use their resources and capital wisely and coworking spaces in Mumbai offers that by providing a cost-effective work ecosystem.*

@@ -8,6 +8,7 @@ header_image: of10-shared-space-empire-state-of-minds.jpg
 post_image: of10-shared-space-blog-of10-sparklab.jpg
 post_image_alt: sparklab
 image_caption: "Innovative place for tech entrepreneurs, founders, and innovators."
+comments: true
 ---
 
 *Allow us to **“Spark”** your interest.*
