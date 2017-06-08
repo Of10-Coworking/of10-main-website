@@ -8,7 +8,16 @@ function init() {
   var mobile = (/iphone|ipod|android|blackberry|mini|windows\sce|palm/i.test(navigator.userAgent.toLowerCase()));
   if (mobile) {
     console.log("mobile");
-    document.getElementsByClassName
+    var video = document.getElementById("of10-video");
+    var gif = document.getElementById("of10-gif");
+    video.style.display="none";
+    gif.style.display = 'block';
+  }else{
+    console.log("desktop");
+    var video = document.getElementById("of10-video");
+    var gif = document.getElementById("of10-gif");
+    gif.style.display="none";
+    video.style.display = 'block';
   }
 }
 window.onload = init;
