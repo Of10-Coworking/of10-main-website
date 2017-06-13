@@ -6,9 +6,9 @@ metatitle: Why Solopreneurs Need To Work From Collaborative Spaces
 description: Collaborative spaces offer the community and the networking which solopreneurs need.
 header_image: of10-shared-space-solopreneur.png
 post_image: of10-shared-space-blog-collaborative-spaces.jpg
-post_image_alt: trendy-shared-space
+post_image_alt: collaborative-shared-space
 image_caption: Shared spaces are perfect networking hubs for solopreneurs
-comments: false
+comments: true
 ---
 
 Entrepreneurship is for brave hearts, and the journey to being an “Entrepreneur” is a long and bumpy one.
