@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Why I decided to work out of a coworking space
-author: team
+author: apurba
 metatitle: Why I decided to work out of a coworking space
 description: Collaborative spaces offer the community and the networking which solopreneurs need.
 header_image: of10-shared-space-blog-trendy-trend-s.jpg
