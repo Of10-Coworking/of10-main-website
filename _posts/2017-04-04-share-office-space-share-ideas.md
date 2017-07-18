@@ -19,7 +19,6 @@ This is the way work culture has changed. People are now working in a community 
 
 ## Hosted Events: ##
 
-
 Assuming you have cracked a deal recently or if you have come up with a new product or a new service. Then, you can do an event in the cafe or a conference room and invite other members of your **shared office**. Introduce yourself to them and find out what they do. Talk about business trends, insights or anything else. The least that could happen is you make new friends.
 
 ![Hosted-Event](/img/posts/2017-04-04-share-office-space-share-ideas/of10-shared-space-blog-share-office-space-share-ideas2.jpg){:class="img-responsive shared-idea"}
