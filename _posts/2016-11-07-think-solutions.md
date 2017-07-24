@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Think Solutions
+alt-title: think-solutions
 author: team
 metatitle: Think Solutions - The 4th Wheel A Corporate Social Responsibility Company
 description: Sharon Weir founding partner at the 4th wheel a CSR company in Mumbai & Ahmedabad. The 4th Wheel is focused on design, content, strategy & business development.

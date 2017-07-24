@@ -3,6 +3,7 @@ layout: post
 title: Of10 Weekly Email 1
 author: team
 metatitle: Of10 Weekly Email - May 1st week
+alt-title: of10-weekly-email-1
 description: Events, workshops and fun happening at Of10 this week.
 header_image: ninja.jpg
 post_image: rishi.jpg
