@@ -2948,13 +2948,7 @@ height:100%;
             }
 
 .grad_background {
-  background: repeating-linear-gradient(
-  45deg,
-  #f7f7f7,
-  #f7f7f7 0.5px,
-  #f7f7f7 0.5px,
-  #f7f7f7 20px
-);
+  background: #000000
 }
 
 .square-white {
