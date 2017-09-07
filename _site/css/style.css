@@ -215,6 +215,10 @@ p {
     font-family: Raleway;
 }
 
+.full-width{
+  width: 100%;
+}
+
 .gallery_insider_1{
     height: 50%;
     width: 50%;
@@ -2948,13 +2952,24 @@ height:100%;
             }
 
 .grad_background {
-  background: #000000
+  background: #efefef
+}
+
+.no-padding {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.equal {
+  display: flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;
 }
 
 .square-white {
    height: 383px;
    width: 500px;
-   background-color: white
+   background-color: black
 }
 
 .img-circle {
