@@ -713,7 +713,7 @@ form label.error {
 .errorContent i.left{
     color: #e1534f;
 }
-#event-booking,#partner,#amenities,#gallery{
+#event-booking,#partner,#amenities,#gallery,#explore{
 
     background-color: #f7f7f7;
 }
