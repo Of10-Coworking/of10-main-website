@@ -216,9 +216,9 @@ p {
 }
 
 .para-whyof10{
-    font-size: 20px;
-    font-weight: 200;
-    color: white !important
+    font-size: 16px;
+    font-weight: 300;
+    color: white;
     line-height: 30px;
     font-family: Raleway;
 }
@@ -2128,6 +2128,16 @@ header.sticky .navigation a.current-ele {
     padding-bottom: 20px;
     width: 100%;
     color: #323232;
+}
+
+.whyof10-icon {
+    font-size: 50px;
+    line-height: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    width: 100%;
+    color: #ec0089;
 }
 
 .white .page-icon-top, .white .page-icon-left, .white .features-icon-left, .white .features-icon-right {
