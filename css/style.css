@@ -215,6 +215,14 @@ p {
     font-family: Raleway;
 }
 
+.para-whyof10{
+    font-size: 20px;
+    font-weight: 200;
+    color: white !important
+    line-height: 30px;
+    font-family: Raleway;
+}
+
 .full-width{
   width: 100%;
 }
