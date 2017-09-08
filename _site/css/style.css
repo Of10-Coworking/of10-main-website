@@ -714,8 +714,7 @@ form label.error {
     color: #e1534f;
 }
 #event-booking,#partner,#amenities,#gallery,#explore{
-
-    background-color: #f7f7f7;
+    background-color: #f0f0f0;
 }
 .apply-heading,.amenities-heading,.about-heading,.clients-heading,.gallery-heading{
     font-size: 27px;
@@ -2969,7 +2968,7 @@ height:100%;
 .square-white {
    height: 383px;
    width: 500px;
-   background-color: black
+   background-color: #ffffff
 }
 
 .img-circle {
