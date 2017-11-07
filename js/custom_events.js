@@ -1,7 +1,7 @@
 $(document).ready(function() {
     $('#calendar').fullCalendar({
         googleCalendarApiKey: 'AIzaSyBqm8nK6SR7DYVWWICWv7Enpua0H_0pw88',
-        defaultView: 'listMonth',
+        defaultView: 'month',
         timezone: 'India/Kolkata',
         events: {
             googleCalendarId: 'bhargav@of10.in'
