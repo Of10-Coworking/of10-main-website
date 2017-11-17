@@ -306,6 +306,7 @@ Sure, we all enjoy the convenience of working from home; but it’s not all fun 
 
 </script>
 
+              <script>if ("serviceWorker" in navigator) {navigator.serviceWorker.register("/sw.js").then(function(registration) {console.log("ServiceWorker registration successful with scope: ",    registration.scope);}).catch(function(err) {console.log("ServiceWorker registration failed: ", err);});}</script>
         </div>
     </body>
 </html>
