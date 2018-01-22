@@ -102,7 +102,7 @@ a {
 }
 
     a:hover {
-        color: #DC3D8E;
+        color: #fff;
         text-decoration: none;
         transition: all 0.25s ease 0s;
         -moz-transition: all 0.25s ease 0s;
@@ -1513,8 +1513,8 @@ header.sticky .navigation a.current-ele {
 
 @media (max-width: 996px) {
     .logo{
-        color: #000000;
-        margin-left: 40%;
+        color: #fff;
+        margin-left: 10%;
         margin-top: 2%;
         opacity:1;
     }
@@ -1535,8 +1535,8 @@ header.sticky .navigation a.current-ele {
 
 @media (max-width: 767px) {
     .logo{
-        color: #000000;
-        margin-left: 32%;
+        color: #fff;
+        margin-left: 15%;
         margin-top: 4%;
         opacity:1;
     }
@@ -4296,7 +4296,7 @@ ul.project-detail-block, .project-detail-block ul {
     }
 
     .logo {
-        margin-left: 26%;
+        margin-left: 15%;
         margin-top: 5%;
     }
 }

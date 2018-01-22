@@ -13,7 +13,6 @@ function init() {
     video.style.display="none";
     gif.style.display = 'block';
   }else{
-    console.log("desktop");
     var video = document.getElementById("of10-video");
     var gif = document.getElementById("of10-gif");
     gif.style.display="none";
@@ -31,7 +30,6 @@ window.onload = init;
 //         $(this).attr("src", "img/brickwall/of10-shared-space-hustle.gif");
 //     });
 function toggleOverlay() {
-    console.log("Clicked");
     var toggle = document.getElementById("nav-toggle")
     toggle.classList.toggle( "active" );
     var el = document.getElementById("navigation");

@@ -9,7 +9,7 @@
          </div>
       </section>
       <!-- End Preloader -->
-      {% include nav.html %}
+      {% include navSticky.html %}
       <div id="wrapper" style="padding-top: 60px;">
          {% include sidebar.html %}
          <div id="page-content-wrapper">
@@ -31,6 +31,10 @@
             e.preventDefault();
             $("#wrapper").toggleClass("toggled");
          });
+         $(window).scroll(function() {
+            $(this).scrollTop() > 25 ? ($("nav").css('display', 'block')) : ($("nav").css('display', 'none'))
+         })
+            
       </script>
    </body>
 </html>
