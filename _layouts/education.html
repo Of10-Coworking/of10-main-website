@@ -1,21 +1,29 @@
 <!DOCTYPE html>
 <html>
-    {% include education/head_education.html %}
-    <body class="full-intro">
+   {% include education/head_education.html %}
+   <body class="full-intro">
       <!-- Preloader -->
       <section id="preloader">
-          <div class="loader" id="loader">
-              <p class="loader-caption color">#neverstoplearning</p>
-          </div>
+         <div class="loader" id="loader">
+            <p class="loader-caption color">#neverstoplearning</p>
+         </div>
       </section>
       <!-- End Preloader -->
-        <div class="wrapper">
-            {% include overlay_menu.html %}
-            {% include community/community_nav.html %}
+      {% include nav.html %}
+      <div id="wrapper" style="padding-top: 60px;">
+         {% include sidebar.html %}
+         <div id="page-content-wrapper">
             {% include education/courses.html %}
             {% include education/footer_education.html %}
-            {% include education/js_education.html %}
-              {% register_service_worker %}
-        </div>
+         </div>
+      </div>
+      {% include education/js_education.html %}
+      {% register_service_worker %}
+      <script type="text/javascript">
+         $("#menu-toggle").click(function(e) {
+            e.preventDefault();
+            $("#wrapper").toggleClass("toggled");
+         });
+      </script>
     </body>
 </html>

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-    <head>
+   <head>
     <meta charset="utf-8" />
     <title>OF10 Blog | Explore a new lifestyle @OF10</title>
     <meta name="description" content="Get update on Coworking spaces, Events, Networking on OF10 Blog. Explore a new world of shared office space at OF10." />
@@ -18,6 +18,7 @@
 
     <!-- CSS -->
     <link href="/css/style.css" rel="stylesheet" type="text/css" />
+    <link href="/css/sidebar.css" rel="stylesheet" type="text/css" />
     <link href="/css/bootstrap.css" rel="stylesheet" type="text/css" />
     <link href="/css/font-awesome.css" rel="stylesheet" type="text/css" />
     <link href="/css/ionicons.css" rel="stylesheet" type="text/css" />
@@ -46,56 +47,60 @@
 
 <!-- meta tags -->
 
-    <body class="full-intro">
+   <body class="full-intro">
       <!-- Preloader -->
       <section id="preloader">
-          <div class="loader" id="loader">
-              <p class="loader-caption color">#readmorelearnmore</p>
-          </div>
+         <div class="loader" id="loader">
+            <p class="loader-caption color">#readmorelearnmore</p>
+         </div>
       </section>
       <!-- End Preloader -->
-        <div class="wrapper">
-            <!-- Sidemenu -->
-<section id="navigation" class="overlay">
-    <div class="overlay-content">
-        <a href="https://of10.in/#home" onclick="toggleOverlay()">Home.</a>
-        <a href="https://of10.in/#apply" onclick="toggleOverlay()">Book a Tour.</a>
-        <a href="https://of10.in/partnerships/" onclick="toggleOverlay()">Partnerships.</a>
-        <a href="https://of10.in/events/" onclick="toggleOverlay()">Events.</a>
-        <a href="https://of10.in/press/" onclick="toggleOverlay()">Press and Media.</a>  
-        <a href="https://of10.in/learn/" onclick="toggleOverlay()">Of10 Ed.</a>
-        <a href="https://of10.in/blog/" onclick="toggleOverlay()">Blog.</a>
-        <a href="https://of10.in/contact/" onclick="toggleOverlay()">Reach Us.</a>
-        <a href="https://members.of10.in/" onclick="toggleOverlay()">Member Login.</a>
-    </div>
-</section>
-<!--End Sidemenu -->
-
-            <!-- HEADER -->
-<header class="header">
-    <div class="container">
-      <!-- logo -->
-      <div class="logo">
-          <a href="https://of10.in/">
-              <span>OF10</span>
-          </a>
+      <nav class="of10-nav" style="">
+   <div class="container">
+      <div class="navbar-header ">
+         <a href="" class="logo">Of10</a>
       </div>
-      <!--End logo-->
-        <!-- Navigation Menu -->
-        <div class="pull-right">
-            <a id="nav-toggle" onclick="toggleOverlay()" >
-        <div class="hamburger-btn">
-
-            <span>
-            </span>
+      <div class="pull-right">
+         <a href="" id="menu-toggle"  > 
+            <img src="/img/hamburger-icon.png" style="width: 30px; height: 30px;">
+         </a>
+      </div>
+   </div>
+</nav>
+      <div id="wrapper" style="padding-top: 60px;">
+         <div id="sidebar-wrapper">
+   <ul class="sidebar-nav">
+      <li class="sidebar-brand"></li>
+      <li class="hvr-underline-from-left ">
+         <a href="/" class="scroll" scrollDiv="#home">Home</a>
+      </li>
+      <li class="hvr-underline-from-left">
+         <a href="/#apply" class="scroll" scrollDiv="#apply">Book A Tour</a>
+      </li>
+      <li class="hvr-underline-from-left">
+         <a href="/partnerships/" >Partnerships</a>
+      </li>
+      <li class="hvr-underline-from-left">
+         <a href="/events/" >Events</a>
+      </li>
+      <li class="hvr-underline-from-left">
+         <a href="/press/" ">Press and Media</a>
+      </li>
+      <li class="hvr-underline-from-left">
+         <a href="/learn/" ">Of10 Ed</a>
+      </li>
+      <li class="hvr-underline-from-left">
+         <a href="/blog/" class="">Blog</a>
+      </li>
+      <li class="hvr-underline-from-left">
+         <a href="/contact/" class="">Reach Us</a>
+      </li>
+      <li class="hvr-underline-from-left">
+         <a href="https://members.of10.in" class="">Member Login</a>
+      </li>
+            </ul>
         </div>
-        </a> 
-        </div>
-        <!--End Navigation Menu -->
-    </div>
-</header>
-<!-- END HEADER -->
-
+         <div id="page-content-wrapper">
             <!-- Intro Section -->
 <section id="home" class="inner-intro bg-img8 light-color parallax parallax-header-blog">
     <div class="container">
@@ -112,7 +117,7 @@
 
             <!-- Blog Post Section -->
 <section class="ptb ptb-sm-80">
-    <div class="container">
+    <div class="container-fluid">
         <div class="row">
             <!-- Post Item -->
             <div class="col-md-8 col-md-offset-2 blog-post-hr">
@@ -268,7 +273,9 @@
 </footer>
 <!-- END FOOTER -->
 
-            <script src="/js/jquery-1.11.2.min.js" type="text/javascript"></script>
+         </div>
+      </div>
+      <script src="/js/jquery-1.11.2.min.js" type="text/javascript"></script>
 <script src="/js/plugin/jquery.easing.js" type="text/javascript"></script>
 <script src="/js/jquery-ui.min.js" type="text/javascript"></script>
 <script src="/js/bootstrap.min.js" type="text/javascript"></script>
@@ -302,7 +309,12 @@
 
 </script>
 
-              <script>if ("serviceWorker" in navigator) {navigator.serviceWorker.register("/sw.js").then(function(registration) {console.log("ServiceWorker registration successful with scope: ",    registration.scope);}).catch(function(err) {console.log("ServiceWorker registration failed: ", err);});}</script>
-        </div>
+      <script>if ("serviceWorker" in navigator) {navigator.serviceWorker.register("/sw.js").then(function(registration) {console.log("ServiceWorker registration successful with scope: ",    registration.scope);}).catch(function(err) {console.log("ServiceWorker registration failed: ", err);});}</script>
+      <script type="text/javascript">
+         $("#menu-toggle").click(function(e) {
+            e.preventDefault();
+            $("#wrapper").toggleClass("toggled");
+         });
+      </script>
     </body>
 </html>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
-    {% include contact/head_contact.html %}
-    <body class="full-intro">
+   {% include contact/head_contact.html %}
+   <body class="full-intro">
       <!-- Preloader -->
       <section id="preloader">
           <div class="loader" id="loader">
@@ -9,14 +9,22 @@
             <!-- <div class="loader-img"></div> -->
           </div>
       </section>
-      <!-- End Preloader -->
-        <div class="wrapper">
-            {% include overlay_menu.html %}
-            {% include community/community_nav.html %}
+      <!-- End Preloader --> 
+      {% include nav.html %}
+      <div id="wrapper" style="padding-top: 60px;">
+         {% include sidebar.html %}
+         <div id="page-content-wrapper">
             {% include contact/book.html %}
             {% include footer.html %}
-            {% include community/js.html %}
-              {% register_service_worker %}
-        </div>
+         </div>
+      </div>
+      {% include community/js.html %}
+      {% register_service_worker %}
+      <script type="text/javascript">
+         $("#menu-toggle").click(function(e) {
+            e.preventDefault();
+            $("#wrapper").toggleClass("toggled");
+         });
+      </script>
     </body>
 </html>

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
+   <head>
     <meta charset="utf-8" />
     <title>Coworking Office Space in Hiranandani, Powai, Mumbai - Of10</title>
     <meta name="description" content="Are you looking for coworking, event space/venue, community, startups, entrepreneurship, freelancers, workspace, virtual, workshop office space in Hiranandani." />
@@ -19,6 +19,7 @@
     <link rel="apple-touch-icon" href="/img/favicon.png">
     <!-- CSS -->
     <link href="/css/style.css" rel="stylesheet" type="text/css" />
+    <link href="/css/sidebar.css" rel="stylesheet" type="text/css" />
     <link href="/css/bootstrap.css" rel="stylesheet" type="text/css" />
     <link href="/css/font-awesome.css" rel="stylesheet" type="text/css" />
     <link href="/css/ionicons.css" rel="stylesheet" type="text/css" />
@@ -37,62 +38,65 @@
 
 <!-- meta tags -->
 
-    <body class="full-intro">
-        <!-- Preloader -->
-        <section id="preloader">
-            <div class="loader" id="loader">
-               <p class="loader-caption color">#workworkworkworkwork</p>
-            </div>
-        </section>
-        <!-- End Preloader -->
-        <div class="wrapper">
-        <!-- Sidemenu -->
-<section id="navigation" class="overlay">
-    <div class="overlay-content">
-        <a href="https://of10.in/#home" onclick="toggleOverlay()">Home.</a>
-        <a href="https://of10.in/#apply" onclick="toggleOverlay()">Book a Tour.</a>
-        <a href="https://of10.in/partnerships/" onclick="toggleOverlay()">Partnerships.</a>
-        <a href="https://of10.in/events/" onclick="toggleOverlay()">Events.</a>
-        <a href="https://of10.in/press/" onclick="toggleOverlay()">Press and Media.</a>  
-        <a href="https://of10.in/learn/" onclick="toggleOverlay()">Of10 Ed.</a>
-        <a href="https://of10.in/blog/" onclick="toggleOverlay()">Blog.</a>
-        <a href="https://of10.in/contact/" onclick="toggleOverlay()">Reach Us.</a>
-        <a href="https://members.of10.in/" onclick="toggleOverlay()">Member Login.</a>
-    </div>
-</section>
-<!--End Sidemenu -->
-
-        <!-- HEADER -->
-<header class="header">
-    <div class="container">
-        <!-- logo -->
-        <div class="logo">
-            <a href="https://of10.in/">
-                <span>OF10</span>
-            </a>
+   <body class="full-intro">
+      <!-- Preloader -->
+      <section id="preloader">
+         <div class="loader" id="loader">
+            <p class="loader-caption color">#workworkworkworkwork</p>
+         </div>
+      </section>
+      <!-- End Preloader -->
+      <nav class="of10-nav" style="">
+   <div class="container">
+      <div class="navbar-header ">
+         <a href="" class="logo">Of10</a>
+      </div>
+      <div class="pull-right">
+         <a href="" id="menu-toggle"  > 
+            <img src="/img/hamburger-icon.png" style="width: 30px; height: 30px;">
+         </a>
+      </div>
+   </div>
+</nav>
+      <div id="wrapper" style="padding-top: 60px;">
+         <div id="sidebar-wrapper">
+   <ul class="sidebar-nav">
+      <li class="sidebar-brand"></li>
+      <li class="hvr-underline-from-left ">
+         <a href="/" class="scroll" scrollDiv="#home">Home</a>
+      </li>
+      <li class="hvr-underline-from-left">
+         <a href="/#apply" class="scroll" scrollDiv="#apply">Book A Tour</a>
+      </li>
+      <li class="hvr-underline-from-left">
+         <a href="/partnerships/" >Partnerships</a>
+      </li>
+      <li class="hvr-underline-from-left">
+         <a href="/events/" >Events</a>
+      </li>
+      <li class="hvr-underline-from-left">
+         <a href="/press/" ">Press and Media</a>
+      </li>
+      <li class="hvr-underline-from-left">
+         <a href="/learn/" ">Of10 Ed</a>
+      </li>
+      <li class="hvr-underline-from-left">
+         <a href="/blog/" class="">Blog</a>
+      </li>
+      <li class="hvr-underline-from-left">
+         <a href="/contact/" class="">Reach Us</a>
+      </li>
+      <li class="hvr-underline-from-left">
+         <a href="https://members.of10.in" class="">Member Login</a>
+      </li>
+            </ul>
         </div>
-        <!--End logo-->
-
-        <!-- Navigation Menu -->
-        <div class="pull-right">
-            <a id="nav-toggle" onclick="toggleOverlay()" >
-        <div class="hamburger-btn">
-
-            <span>
-            </span>
-        </div>
-        </a> 
-        </div>
-        <!--End Navigation Menu -->
-    </div>
-</header>
-<!-- END HEADER -->
-
-         <!-- Intro Section -->
+         <div id="page-content-wrapper">
+             <!-- Intro Section -->
 <section id="home" class="full-screen-intro pt">
     <div class="full-cap-wraper">
         <div class="content-caption light-color parallax parallax-opacity">
-            <div class="container">
+            <div class="container-fluid">
                 <div class="row text-center">
                     <div class="col-md-12">
                       <a href="#explore">
@@ -120,7 +124,7 @@
     </div>
 </section>
 
-                <!-- Work Detail Section -->
+                    <!-- Work Detail Section -->
         <section id="explore" class="ptb ptb-sm-80">
             <div class="container">
                 <div>
@@ -256,9 +260,9 @@
             </div>
         </section>
 
-        <!--About Section-->
+            <!--About Section-->
 <section id="about" class="about wow fadeIn ptb ptb-sm-80">
-    <div class="container">
+    <div class="container-fluid">
         <div class="row text-center">
             <div class="col-md-8 col-md-offset-2">
                 <h2 class="h4 about-heading">What is Of10?</h2>
@@ -281,9 +285,9 @@
     </div>
 </section>
 
-        <!-- Service Section -->
+            <!-- Service Section -->
 <section id="amenities" class="ptb ptb-sm-80">
-    <div class="wow fadeInLeft container text-center">
+    <div class="wow fadeInLeft container-fluid text-center">
         <h3 class="h4 amenities-heading">Our Features</h3>
         <div class="spacer-60"></div>
         <div class="row editable">
@@ -344,8 +348,8 @@
 </section>
 <!-- End Service Section -->
 
-        <section id="clients" class="wow fadeIn ptb ptb-sm-80">
-    <div class="container">
+            <section id="clients" class="wow fadeIn ptb ptb-sm-80">
+    <div class="container-fluid">
         <div class="row">
             <div class="col-md-8 col-md-offset-2 text-center">
                 <h3 class="h4 clients-heading">Members at Of10</h3>
@@ -499,8 +503,8 @@
     </div>
 </section>
 
-        <section id="gallery" class="pt pt-sm-80">
-    <div class="container text-center">
+            <section id="gallery" class="pt pt-sm-80">
+    <div class="container-fluid text-center">
         <h3 class="gallery-heading">Inside Of10</h3>
         <div class="spacer-30"></div>
         <div class="row">
@@ -544,9 +548,9 @@
 
 </section>
 
-        <!-- Contact Section -->
+            <!-- Contact Section -->
 <section id="apply" class="ptb ptb-sm-80">
-    <div class="container">
+    <div class="container-fluid">
         <div class="row">
             <div class="col-md-8 col-md-offset-2 text-center">
                 <h3 class="apply-heading">Book a tour</h3>
@@ -656,7 +660,7 @@
 </section>
 <!-- Contact Section -->
 
-        <!-- Scroll Top -->
+            <!-- Scroll Top -->
 <a class="scroll-top">
     <i class="fa fa-angle-double-up"></i>
 </a>
@@ -701,7 +705,7 @@
 </footer>
 <!-- END FOOTER -->
 
-        <script type="application/ld+json">
+            <script type="application/ld+json">
 {
   "@context" : "http://schema.org",
   "@type" : "Organization",
@@ -727,7 +731,9 @@
 }
 </script>
 
-        <script src="https://www.gstatic.com/firebasejs/4.6.2/firebase.js"></script>
+         </div>
+      </div>
+      <script src="https://www.gstatic.com/firebasejs/4.6.2/firebase.js"></script>
 <script>
   // Initialize Firebase
   var config = {
@@ -810,7 +816,12 @@ src="https://www.facebook.com/tr?id=799394426865586&ev=PageView
   ga('send', 'pageview');
 </script>
 
-        <script>if ("serviceWorker" in navigator) {navigator.serviceWorker.register("/sw.js").then(function(registration) {console.log("ServiceWorker registration successful with scope: ",    registration.scope);}).catch(function(err) {console.log("ServiceWorker registration failed: ", err);});}</script>
-        </div>
-    </body>
+      <script>if ("serviceWorker" in navigator) {navigator.serviceWorker.register("/sw.js").then(function(registration) {console.log("ServiceWorker registration successful with scope: ",    registration.scope);}).catch(function(err) {console.log("ServiceWorker registration failed: ", err);});}</script>
+      <script type="text/javascript">
+         $("#menu-toggle").click(function(e) {
+            e.preventDefault();
+            $("#wrapper").toggleClass("toggled");
+         });
+      </script>
+   </body>
 </html>
