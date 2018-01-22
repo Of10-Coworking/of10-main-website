@@ -1,22 +1,30 @@
 <!DOCTYPE html>
 <html>
-    {% include blog/head-blog.html %}
-    <body class="full-intro">
+   {% include blog/head-blog.html %}
+   <body class="full-intro">
       <!-- Preloader -->
       <section id="preloader">
-          <div class="loader" id="loader">
-              <p class="loader-caption color">#readmorelearnmore</p>
-          </div>
+         <div class="loader" id="loader">
+            <p class="loader-caption color">#readmorelearnmore</p>
+         </div>
       </section>
       <!-- End Preloader -->
-        <div class="wrapper">
-            {% include overlay_menu.html %}
-            {% include blog/nav-blog.html %}
+      {% include nav.html %}
+      <div id="wrapper" style="padding-top: 60px;">
+         {% include sidebar.html %}
+         <div id="page-content-wrapper">
             {% include blog/blog-intro.html %}
             {% include blog/posts.html %}
             {% include blog/footer-blog.html %}
-            {% include blog/js-blog.html %}
-              {% register_service_worker %}
-        </div>
+         </div>
+      </div>
+      {% include blog/js-blog.html %}
+      {% register_service_worker %}
+      <script type="text/javascript">
+         $("#menu-toggle").click(function(e) {
+            e.preventDefault();
+            $("#wrapper").toggleClass("toggled");
+         });
+      </script>
     </body>
 </html>

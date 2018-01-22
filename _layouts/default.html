@@ -1,28 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
-    {% include head.html %}
-    <body class="full-intro">
-        <!-- Preloader -->
-        <section id="preloader">
-            <div class="loader" id="loader">
-               <p class="loader-caption color">#workworkworkworkwork</p>
-            </div>
-        </section>
-        <!-- End Preloader -->
-        <div class="wrapper">
-        {% include overlay_menu.html %}
-        {% include nav_custom.html %}
-        {% include home.html %}
-        {% include about_masonry.html %}
-        {% include about.html %}
-        {% include amenities.html %}
-        {% include clients.html %}
-        {% include slideshow.html %}
-        {% include apply.html %}
-        {% include footer.html %}
-        {% include structured_data.html %}
-        {% include js.html %}
-        {% register_service_worker %}
-        </div>
-    </body>
+   {% include head.html %}
+   <body class="full-intro">
+      <!-- Preloader -->
+      <section id="preloader">
+         <div class="loader" id="loader">
+            <p class="loader-caption color">#workworkworkworkwork</p>
+         </div>
+      </section>
+      <!-- End Preloader -->
+      {% include nav.html %}
+      <div id="wrapper" style="padding-top: 60px;">
+         {% include sidebar.html %}
+         <div id="page-content-wrapper">
+            {% include home.html %}
+            {% include about_masonry.html %}
+            {% include about.html %}
+            {% include amenities.html %}
+            {% include clients.html %}
+            {% include slideshow.html %}
+            {% include apply.html %}
+            {% include footer.html %}
+            {% include structured_data.html %}
+         </div>
+      </div>
+      {% include js.html %}
+      {% register_service_worker %}
+      <script type="text/javascript">
+         $("#menu-toggle").click(function(e) {
+            e.preventDefault();
+            $("#wrapper").toggleClass("toggled");
+         });
+      </script>
+   </body>
 </html>
