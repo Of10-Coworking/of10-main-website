@@ -32,7 +32,7 @@
             $("#wrapper").toggleClass("toggled");
          });
          $(window).scroll(function() {
-            $(this).scrollTop() > 25 ? ($("nav").css('display', 'block')) : ($("nav").css('display', 'none'))
+            $(this).scrollTop() > 25 ? ($("nav").css('display', 'block'), $("#wrapper").css('padding-top', '60px')) : ($("nav").css('display', 'none'),  $("#wrapper").css('padding-top', '0px').removeClass('toggled'))
          })
             
       </script>

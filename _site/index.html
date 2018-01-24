@@ -47,12 +47,12 @@
       </section>
       <!-- End Preloader -->
       <nav class="of10-nav" style="display: none;">
-   <div class="container">
+   <div class="containers">
       <div class="navbar-header ">
          <a href="" class="logo">Of10</a>
       </div>
-      <div class="pull-right">
-         <a href="" id="menu-toggle"  > 
+      <div class="pull-right right-btn">
+         <a href="javascript:void(0)" id="menu-toggle"  > 
             <img src="/img/hamburger-icon.png" style="width: 30px; height: 30px;">
          </a>
       </div>
@@ -823,7 +823,7 @@ src="https://www.facebook.com/tr?id=799394426865586&ev=PageView
             $("#wrapper").toggleClass("toggled");
          });
          $(window).scroll(function() {
-            $(this).scrollTop() > 25 ? ($("nav").css('display', 'block')) : ($("nav").css('display', 'none'))
+            $(this).scrollTop() > 25 ? ($("nav").css('display', 'block'), $("#wrapper").css('padding-top', '60px')) : ($("nav").css('display', 'none'),  $("#wrapper").css('padding-top', '0px').removeClass('toggled'))
          })
             
       </script>

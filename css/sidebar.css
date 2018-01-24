@@ -1,3 +1,6 @@
+.containers, .navbar-header, .right-btn {
+   height: 60px;
+}
 .of10-nav {
    background: rgba(220, 61, 142, .8)!important;
    border:0;
@@ -7,10 +10,17 @@
    z-index: 99999;
    width: 100%;
 }
-.of10-nav .container {
+/*.of10-nav .container {
    height: 60px;
    padding-top: 15px;
    padding-bottom: 15px;
+}*/
+.navbar-header {
+   padding: 15px 15px 15px 75px;
+}
+.right-btn {
+   padding: 15px;
+   background: #2BBBAD;
 }
 #wrapper {
    padding-left: 0;
@@ -69,16 +79,16 @@
    /*padding: 8px;*/
    text-align: left;
    text-indent: 20px;
-   line-height: 50px;
+   line-height: 45px;
 }
 
 .sidebar-nav li a {
    display: block;
    text-decoration: none;
-   color: #292b2c;
-   font-size: 23px;
-   font-weight: 600;
-   letter-spacing: 1px;
+   color: #fff;
+   font-size: 20px;
+   font-weight: 500;
+   letter-spacing: .4px;
 }
 
 .sidebar-nav li a:hover {
@@ -140,7 +150,7 @@
    content: "";
    position: absolute;
    z-index: -1;
-   left: 10%;
+   left: 5%;
    right: 100%;
    bottom: 0;
    background: #9E005D;
@@ -159,8 +169,15 @@
    right: 10%;
 }
 
+@media(min-width:768px) and (max-width: 991px) {
+   .navbar-header{
+     padding: 15px 15px 15px 45px;
+   }
+}
+
 @media(max-width:767px) {
    .navbar-header{
      display: inline-block;
+     padding: 15px 15px 15px 0px;
    }
 }
