@@ -337,3 +337,16 @@ function jqueryUi() {
         i()
     })
 }(jQuery), shortcodeElements(), accordion(), jqueryUi();
+
+// Testimonial Slider
+        $('.testimonial-carousel').owlCarousel({
+            autoPlay: true,
+            autoHeight: true,
+            stopOnHover: true,
+            singleItem: true,
+            slideSpeed: 350,
+            pagination: true,  // Show pagination buttons
+            navigation: false,  // Hide next and prev buttons
+            navigationText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"],
+            //  responsive: true
+        });

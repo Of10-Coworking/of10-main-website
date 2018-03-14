@@ -25,6 +25,13 @@
             e.preventDefault();
             $("#wrapper").toggleClass("toggled");
          });
+         $(document).delagate('onload', 'body' function(){
+          setTimeout(function() {
+          $(".directions-card").css('display', 'none');
+          console.log("enter");
+        }, 3000);
+         });
+         
       </script>
     </body>
 </html>
