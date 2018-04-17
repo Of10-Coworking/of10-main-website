@@ -47,7 +47,7 @@ authors:
     linkedin: apurba-mandal-07
 
 offline:
-  strategy: cache-first-network-fallback
+  strategy: network-first-cache-fallback
 
 # Build settings
 paginate: 3
