@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Of10 Weekly Email 2
+alt-title: of10-weekly-email-2
 author: team
 metatitle: Of10 Weekly Email - June 1st week
-alt-title: of10-weekly-email-2
+permalink: blog/of10-weekly-email-2
 description: Events and workshops happening at Of10 this week.
 header_image: sofia.jpg
 post_image: of10-member-Saurabh.jpg

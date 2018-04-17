@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Her Social Impact @ Of10
+alt-title: her-social-impact
 author: team
 metatitle: Her Social Impact @ Of10
-alt-title: her-social-impact
+permalink: blog/her-social-impact
 description: Her Social Impact showcases amazing women who work in the Social Impact space
 header_image: speakers-socialimpact.jpeg
 comments: true

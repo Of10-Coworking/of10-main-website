@@ -2,6 +2,7 @@
 layout: post
 title: For those who are uncomfortable being truly comfortable
 alt-title: for-those-who-are-uncomfortable-being-truly-comfortable
+permalink: blog/for-those-who-are-uncomfortable-being-truly-comfortable
 metatitle: Who are Uncomfortable Being Truly Comfortable - Zeux Innovation
 description: "A UI design expert, the youngest MD of a UI design firm and now, the co-founder of Zeux Innovation sitting out of Of10"
 author: team

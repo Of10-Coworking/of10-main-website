@@ -2,6 +2,7 @@
 layout: post
 title: Of10xCollision8 - We are in Singapore
 alt-title: work-from-singapore
+permalink: blog/work-from-singapore
 metatitle: OF10 Community - Work From Singapore
 description: Traveling to Singapore for work? Now OF10 members can work at Collision8 a co-working space in Singapore and gain an international footing for their business.
 author: team

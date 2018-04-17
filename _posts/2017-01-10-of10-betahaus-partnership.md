@@ -2,6 +2,7 @@
 layout: post
 title: Of10xBetahaus - Explore a New World
 alt-title: of10-betahaus-partnership
+permalink: blog/of10-betahaus-partnership
 author: team
 metatitle: Of10xBetahaus - Explore a New World in Europe
 description: Of10 members now have exclusive access to all Betahaus coworking locations through Europe.
