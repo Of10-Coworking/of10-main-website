@@ -2,6 +2,7 @@
 layout: post
 title:  Why I decided to work out of a coworking space
 alt-title: why-i-decided-to-work-out-of-a-coworking-space
+permalink: blog/why-i-decided-to-work-out-of-a-coworking-space
 author: apurba
 metatitle: Why I decided to work out of a coworking space
 description: Collaborative spaces offer the community and the networking which solopreneurs need.

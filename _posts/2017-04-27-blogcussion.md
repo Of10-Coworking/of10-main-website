@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Blogcussion
+alt-title: blogcussion
 author: team
 metatitle: Learn About Blogging From Experts in Industry
-alt-title: blogcussion
+permalink: blog/blogcussion
 description: Get a chance to upgrade your knowledge on blogging through the best bloggers in Mumbai.
 header_image: of10-shared-space-blog-blogging-blog-barticle.jpg
 post_image: of10-shared-space-blogging-blog-barticle.jpg
