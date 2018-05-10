@@ -3,7 +3,6 @@ layout: post
 title: Work independently, together
 alt-title: work-independently-together
 metatitle: Wanna Know How To Work Independently Together?
-permalink: blog/work-independently-together
 description: Coworking spaces are game-changing additions to the commercial real-estate market. A coworking space has flexible working time, networking events, mentors, ideas sharing sessions & good office space.
 author: apurba
 header_image: of10-shared-space-blog-of10-author.jpg

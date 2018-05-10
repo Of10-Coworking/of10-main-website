@@ -4,7 +4,6 @@ title: Of10 Weekly Email 3
 alt-title: of10-weekly-email-3
 author: team
 metatitle: Of10 Weekly Email - July 1st week - Covfefe
-permalink: blog/of10-weekly-email-3
 description: Events, workshops and fun happening at Of10 this week.
 header_image: covfefe.jpg
 post_image: pratik.jpg

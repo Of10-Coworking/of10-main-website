@@ -4,7 +4,6 @@ title:  Why Solopreneurs Need To Work From Collaborative Spaces
 alt-title: why-solopreneurs-need-to-work-from-collaborative-spaces
 author: team
 metatitle: Why Solopreneurs Need To Work From Collaborative Spaces
-permalink: blog/why-solopreneurs-need-to-work-from-collaborative-spaces
 description: Collaborative spaces offer the community and the networking which solopreneurs need.
 header_image: of10-shared-space-solopreneur.png
 post_image: of10-shared-space-blog-collaborative-spaces.jpg
