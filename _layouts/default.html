@@ -17,7 +17,6 @@
             {% include about_masonry.html %}
             {% include about.html %}
             {% include amenities.html %}
-            {% include clients.html %}
             {% include slideshow.html %}
             {% include apply.html %}
             {% include footer.html %}
@@ -34,7 +33,7 @@
          $(window).scroll(function() {
             $(this).scrollTop() > 25 ? ($("nav").css('display', 'block'), $("#wrapper").css('padding-top', '60px')) : ($("nav").css('display', 'none'),  $("#wrapper").css('padding-top', '0px').removeClass('toggled'))
          })
-            
+
       </script>
    </body>
 </html>
