@@ -243,7 +243,7 @@ p {
     color: #888;
 }
 
-.light-color h1, .light-color h2, .light-color h3, .light-color h4, .light-color h5, 
+.light-color h1, .light-color h2, .light-color h3, .light-color h4, .light-color h5,
 .light-color h6, .light-color p, .light-color, .light-color .container-icon {
     color: #fff!important;
 }
@@ -1714,7 +1714,7 @@ header.sticky .navigation a.current-ele {
     font-size: 15px;
     font-weight: 500;
     letter-spacing: 1px;
-}    
+}
 
 .footer .link a {
     font-size: 15px;
@@ -2997,7 +2997,7 @@ height:100%;
 
 .square-white {
    height: 383px;
-   width: 500px;
+   width: 383px;
    background-color: #ffffff
 }
 

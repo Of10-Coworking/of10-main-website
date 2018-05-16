@@ -9,7 +9,7 @@
             <!-- <div class="loader-img"></div> -->
           </div>
       </section>
-      <!-- End Preloader --> 
+      <!-- End Preloader -->
       {% include nav.html %}
       <div id="wrapper" style="padding-top: 60px;">
          {% include sidebar.html %}
@@ -25,13 +25,13 @@
             e.preventDefault();
             $("#wrapper").toggleClass("toggled");
          });
-         $(document).delagate('onload', 'body' function(){
-          setTimeout(function() {
-          $(".directions-card").css('display', 'none');
-          console.log("enter");
-        }, 3000);
-         });
-         
+         // $(document).delegate('onload', 'body', function(){
+         //    setTimeout(function() {
+         //    $(".directions-card").css('display', 'none');
+         //    console.log("enter");
+         //  }, 3000);
+         // });
+
       </script>
     </body>
 </html>
