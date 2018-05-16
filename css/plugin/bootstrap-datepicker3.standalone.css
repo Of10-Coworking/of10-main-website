@@ -698,7 +698,7 @@ fieldset[disabled] .datepicker table tr td span.active.disabled:hover.focus {
   -moz-background-clip: padding;
   background-clip: padding-box;
   color: #333333;
-  font-size: 13px;
+  font-size: 16px;
   line-height: 1.42857143;
 }
 .datepicker.dropdown-menu th,

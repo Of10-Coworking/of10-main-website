@@ -34,7 +34,7 @@
 .navigation {
     position: static;
     float: right;
-    font-size: 12px;
+    font-size: 16px;
     font-weight: 400;
     margin-left: 30px;
     padding-top: 0
@@ -62,7 +62,7 @@
 
 .navigation>ul>li>a {
     padding: 41px 16px;
-    font-size: 12px;
+    font-size: 16px;
     font-weight: 600;
     letter-spacing: 2px;
     text-decoration: none;
@@ -74,7 +74,7 @@
     color: #ffffff;
     letter-spacing: 1px;
     font-weight: 500;
-    font-size: 12px;
+    font-size: 16px;
     outline: 0
 }
 .navigation ul li:hover a,
@@ -150,7 +150,7 @@
         margin-right: auto
     }
     .navigation ul ul li a {
-        font-size: 12px;
+        font-size: 16px;
         background: 0 0
     }
     .header .navigation ul ul ul li a,
@@ -183,7 +183,7 @@
         margin-left: 15px;
         color: #000000;
         cursor: pointer;
-        font-size: 12px;
+        font-size: 16px;
         text-transform: uppercase;
         z-index: 2;
         float: left
