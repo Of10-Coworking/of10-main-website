@@ -45,7 +45,6 @@ authors:
     facebook: appy.aps
     linkedin: apurba-mandal-07
 
-
 # Build settings
 paginate: 3
 paginate_path: "/blog/page:num/"
