@@ -1499,13 +1499,19 @@ header.sticky .navigation a.current-ele {
 }
 
 .meetings{
-  padding-top: 10%;
+  padding-top: 25%;
 }
 
 .meetings-title {
   font-family: 'Gotham';
   font-size: 50px;
   line-height: 60px;
+}
+
+.meetings-title2 {
+  font-family: 'Gotham';
+  font-size: 30px;
+  line-height: 30px;
 }
 
 .meetings-subtitle {
