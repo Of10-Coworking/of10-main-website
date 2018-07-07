@@ -34,8 +34,8 @@ jobs:
 # note here is the FIREBASE_TOKEN env variable. See below.
     deploy:
           docker:
-            - image: my-image-version-tag
-          working_directory: /tmp/my-project
+            - image: circleci/node:7.10-browsers
+          working_directory: _site
           steps:
             - run:
                 name: Deploy Master to Firebase
