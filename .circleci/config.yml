@@ -35,7 +35,6 @@ jobs:
     deploy:
           docker:
             - image: circleci/node:7.10-browsers
-          working_directory: _site
           steps:
             - run:
                 name: Deploy Master to Firebase
