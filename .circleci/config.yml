@@ -6,32 +6,30 @@ version: 2
 
 jobs:
     build-job:
-      docker:
-        - image: circleci/node:6.11.4
-      steps:
-          - checkout
-          - run: JEKYLL_ENV=production bundle exec jekyll build --verbose
+          docker:
+            - image: circleci/node:6.11.4
+          steps:
+              - checkout
+              - run: JEKYLL_ENV=production bundle exec jekyll build --verbose
 
 # How you tell Circle to deploy to Firebase. The important thing to
 # note here is the FIREBASE_TOKEN env variable. See below.
     deploy-job:
-           docker:
-             - image: of10-main-website
-           working_directory: _site
-           steps:
-             - run:
-                 name: Deploy Master to Firebase
-                 command: ./node_modules/.bin/firebase deploy --token=$FIREBASE_DEPLOY_TOKEN
-
-    workflows:
-      version: 2
-
-      -deploy:
-        jobs:
-          - build-job
-          - deploy-job:
-              requires:
-                - build-job
-              filters:
-                branches:
-                  only: develop
+          docker:
+            - image: of10-main-website
+          working_directory: _site
+          steps:
+            - run:
+                name: Deploy Master to Firebase
+                command: ./node_modules/.bin/firebase deploy --token=$FIREBASE_DEPLOY_TOKEN
+workflows:
+    version: 2
+    build-and-deploy:
+    jobs:
+      - build
+      - deploy:
+          requires:
+            - build
+          filters:
+            branches:
+              only: develop
