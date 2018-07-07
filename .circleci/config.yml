@@ -1,8 +1,13 @@
 # The Firebase tools want a v6.x version of Node but Circle CI
 # defaults to v4.x. Set the latest LTS version.
-machine:
-  node:
-    version: 6.11.4
+#
+
+version: 2
+
+jobs:
+    build:
+      node:
+        version: 6.11.4
 
 # Need to install firebase-tools so that the deploy works
 dependencies:
@@ -12,7 +17,7 @@ dependencies:
 # Need to tell Circle CI how to build the site
 compile:
   override:
-    - bundle exec jekyll build --verbose
+    - JEKYLL_ENV=production bundle exec jekyll build --verbose
 
 # Circle CI expects some kind of testing to pass in order for the
 # build to be successful and deploy. Since you don't have tests
