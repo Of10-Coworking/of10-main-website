@@ -33,6 +33,9 @@ jobs:
                   paths:
                     - _site
               - run:
+                  name: Test
+                  command: bundle exec htmlproofer ./_site --check-html --disable-external
+              - run:
                   name: Deploy
                   command: firebase deploy --token=$FIREBASE_DEPLOY_TOKEN --non-interactive
 # How you tell Circle to deploy to Firebase. The important thing to
