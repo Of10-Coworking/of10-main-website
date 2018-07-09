@@ -6,6 +6,8 @@ author: team
 metatitle: Her Social Impact @ Of10
 description: Her Social Impact showcases amazing women who work in the Social Impact space
 header_image: speakers-socialimpact.jpeg
+post_image: speakers-socialimpact.jpeg
+post_image_alt: of10 coworking space
 comments: true
 ---
 
@@ -35,7 +37,7 @@ Maniti Modi the co-founder of the [ConnectFor](http://connectfor.org) project, w
 
 Insia Dariwala, an award-winning international filmmaker, and a Social Justice Advocate who effectively uses the creative medium to spotlight issues close to her heart. She has successfully managed to address causes like FGC/FGM, and Child Sexual Abuse, through her two organisations, [Sahiyo](https://www.facebook.com/SahiyoBohras/), and [The Hands of Hope Foundation-United Against Child Sexual Abuse](https://www.facebook.com/thehandsofhopefoundation/)
 
-![](https://cdn-images-1.medium.com/max/2160/1*FLqlMMtXziqmkcf_bacIQQ.jpeg)
+![Hands of Hope](https://cdn-images-1.medium.com/max/2160/1*FLqlMMtXziqmkcf_bacIQQ.jpeg)
 
 The conversation centred around changing the prevailing dialogue around social causes and social impact. These incredible women spoke about their journeys and the challenges they faced along the way. We also had some time to field questions from the audience, talking about career’s in the social space, overcoming obstacles, using technology to scale and finding funds.
 

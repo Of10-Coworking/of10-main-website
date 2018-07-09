@@ -14,7 +14,7 @@
                         <h4><a class="dark-color" href="{{ post.url }}">{{ post.title }}</a></h4>
                     </div>
                     <div class="post-entry">
-                        <p>{{ post.excerpt }}</p>
+                        {{ post.excerpt }}
                     </div>
                     <div class="post-tag pull-left">
                       {% for tag in post.tags %}
@@ -35,7 +35,7 @@
 
                         {% for page in (1..paginator.total_pages) %}
                         {% if page == paginator.page %}
-                          <li class="active"><a class="dark-color" href="#">{{ page }}</a></li>
+                          <li class="active"><a class="dark-color" href="">{{ page }}</a></li>
                         {% elsif page == 1 %}
                           <li><a class="dark-color" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
                         {% else %}

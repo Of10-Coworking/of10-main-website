@@ -6,12 +6,14 @@ author: team
 metatitle: The Rise of the Alternative Space
 description: The Rise of the Alternative Space
 header_image: fullview.jpg
+post_image: fullview.jpg
+post_image_alt: of10 coworking space
 comments: true
 ---
 
 ##### The workplace of the future integrates life and work. A place of work, ideas, collaboration, music, theatre and entertainment.
 
-![of10-workspace](https://cdn-images-1.medium.com/max/640/1*lwIcDYXf2YUOjDPT6D0MHA.jpeg){:class="center-block img-responsive"}
+![of10-workspace](https://cdn-images-1.medium.com/max/640/1*lwIcDYXf2YUOjDPT6D0MHA.jpeg){:class="center-block img-responsive" :alt="coworkingfuture"}
 {::options parse_block_html="true" /}
 <p style="text-align: center;">Of10 Coworking, Powai</p>
 
@@ -27,7 +29,7 @@ With the rise of the creative class, the traditional office environment is redun
 
 We believe the *Third Place* will ultimately become the #1 gathering grounds for cross-connecting people, cultures and organisations.
 
-![](https://cdn-images-1.medium.com/max/640/1*i21jNicnC3pkozFaJ_Zk-g.jpeg){:class="center-block img-responsive"}
+![Flexible Office Space](https://cdn-images-1.medium.com/max/640/1*i21jNicnC3pkozFaJ_Zk-g.jpeg){:class="center-block img-responsive" :alt="flexibleofficespace"}
 {::options parse_block_html="true" /}
 <p style="text-align: center;">Story Telling Conference</p>
 
@@ -43,7 +45,7 @@ Due to their access to diverse uses in one place, Third Places can contribute to
 
 This connection of communities can inspire innovative thinking and provide opportunities for collaboration and partnerships across traditional boundaries.
 
-![](https://cdn-images-1.medium.com/max/640/1*2Hpr2NDYD97JRGwysFlvUw.jpeg){:class="center-block img-responsive"}
+![Flexible Office Space](https://cdn-images-1.medium.com/max/640/1*2Hpr2NDYD97JRGwysFlvUw.jpeg){:class="center-block img-responsive" :alt="flexibleofficespace"}
 {::options parse_block_html="true" /}
 <p style="text-align: center;">Improv</p>
 
@@ -58,7 +60,7 @@ They have held
 
 Not only has this helped us create a vibrant community but it has also vitalised the neighbourhood.
 
-![](https://cdn-images-1.medium.com/max/640/1*zsjzzKGbxIQJcsDIMb4Kww.jpeg){:class="center-block img-responsive"}
+![Flexible Office Space](https://cdn-images-1.medium.com/max/640/1*zsjzzKGbxIQJcsDIMb4Kww.jpeg){:class="center-block img-responsive"}
 {::options parse_block_html="true" /}
 <p style="text-align: center;">Live Music</p>
 

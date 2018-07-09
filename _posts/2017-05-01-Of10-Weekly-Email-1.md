@@ -47,7 +47,6 @@ Check it out [here](https://in.bookmyshow.com/mumbai/events/hamster-comedy-open-
 #### Member of the week: ####
 
 Rishi Khaitan
-Work: India head at [Tour Radar](www.tourradar.com)
 Hobbies: Buying people drinks
 Favorite Drink: Bira White
 Claim to Fame: Making fantastic cocktails. Infact ask him about it and he will make you some this Friday
