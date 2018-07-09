@@ -40,7 +40,7 @@ jobs:
                   command: bundle exec htmlproofer ./_site --check-html --disable-external
               - run:
                   name: Add project
-                  command: firebase use --add of10-1313
+                  command: firebase use --add of10-1313 --token=$FIREBASE_DEPLOY_TOKEN
               - run:
                   name: Deploy
                   command: firebase deploy --token=$FIREBASE_DEPLOY_TOKEN --non-interactive
