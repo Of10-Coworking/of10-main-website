@@ -37,6 +37,9 @@ jobs:
             - image: circleci/node:7.10-browsers
           steps:
             - run:
+                name: npm Install
+                command: npm install
+            - run:
                 name: Deploy Master to Firebase
                 command: ./node_modules/.bin/firebase deploy --token=$FIREBASE_DEPLOY_TOKEN
 workflows:
