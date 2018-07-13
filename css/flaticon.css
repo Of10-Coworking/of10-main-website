@@ -22,7 +22,7 @@
 }
 
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
-[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {
   font-family: Flaticon;
         font-size: 40px;
 font-style: normal;
@@ -41,3 +41,7 @@ font-style: normal;
 .flaticon-school-desk:before { content: "\f109"; }
 .flaticon-three-men-conference:before { content: "\f10a"; }
 .flaticon-wifi:before { content: "\f10b"; }
+.flaticon-responsive:before { content: "\f10c"; }
+.flaticon-chef:before { content: "\f10d"; }
+.flaticon-shopping-list:before { content: "\f10e"; }
+.flaticon-success:before { content: "\f10f"; }
