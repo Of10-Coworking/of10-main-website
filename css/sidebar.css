@@ -16,6 +16,7 @@
    padding-bottom: 15px;
 }*/
 .navbar-header {
+   margin-top: 5px;
    padding: 15px 15px 15px 75px;
 }
 .right-btn {
@@ -163,8 +164,8 @@
    -webkit-transition-timing-function: ease-out;
    transition-timing-function: ease-out;
 }
-.hvr-underline-from-left:hover:before, 
-.hvr-underline-from-left:focus:before, 
+.hvr-underline-from-left:hover:before,
+.hvr-underline-from-left:focus:before,
 .hvr-underline-from-left:active:before {
    right: 10%;
 }

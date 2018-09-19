@@ -9,17 +9,35 @@
 <url>
   <loc>https://of10.in/</loc>
   <lastmod>2017-04-01T12:36:12+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <changefreq>yearly</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://of10.in/press/</loc>
+  <loc>https://of10.in/contact/</loc>
+  <lastmod>2017-04-01T12:36:12+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://of10.in/meetings/</loc>
+  <lastmod>2017-10-01T12:36:12+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://of10.in/events/</loc>
   <lastmod>2017-04-01T12:36:12+00:00</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://of10.in/events/</loc>
+  <loc>https://of10.in/partnerships/</loc>
+  <lastmod>2017-04-01T12:36:12+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://of10.in/press/</loc>
   <lastmod>2017-04-01T12:36:12+00:00</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.80</priority>
@@ -32,18 +50,6 @@
 </url>
 <url>
   <loc>https://of10.in/blog/</loc>
-  <lastmod>2017-04-01T12:36:12+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://of10.in/partnerships/</loc>
-  <lastmod>2017-04-01T12:36:12+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://of10.in/contact/</loc>
   <lastmod>2017-04-01T12:36:12+00:00</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.80</priority>

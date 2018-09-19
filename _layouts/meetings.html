@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
    {% include meetings/head.html %}
    <body class="full-intro">
       <!-- Preloader -->
@@ -8,15 +8,17 @@
             <p class="loader-caption color">#GatherAssembleRally</p>
          </div>
       </section>
-      <div id="wrapper">
-         {% include sidebar.html %}
-         {% include meetings/home.html %}
-         {% include meetings/amenities.html %}
-         {% include meetings/clients.html %}
-         {% include meetings/book.html %}
-         <div id="page-content-wrapper">
-            {% include footer.html %}
-         </div>
+      <!-- End Preloader -->
+      {% include nav.html %}
+      <div id="wrapper" style="padding-top: 60px;">
+        {% include sidebar.html %}
+        <div id="page-content-wrapper">
+           {% include meetings/home.html %}
+           {% include meetings/amenities.html %}
+           {% include meetings/clients.html %}
+           {% include meetings/book.html %}
+           {% include footer.html %}
+        </div>
       </div>
       {% include js.html %}
       <script type="text/javascript">
