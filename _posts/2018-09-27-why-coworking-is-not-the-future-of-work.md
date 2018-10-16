@@ -41,7 +41,7 @@ This is even more so common in India where copycat coworking spaces, focused on 
 
 While the standard bearers for coworking space design remain Wework. Few come close to matching their office design. Innovation has come to the standstill with major players waiting on Wework to show them the way. In fact, I implore you to help me differentiate between the ‘cabin’ spaces of the top 5 coworking operators in India. It will make for a very challenging game of ‘spot the difference’
 
-![](https://cdn-images-1.medium.com/max/2160/0*vWNPW9d-d25V8fNW.jpg)
+![](https://cdn-images-1.medium.com/max/2160/0*vWNPW9d-d25V8fNW.jpg){:alt="flexibleofficespace"}
 
 ## The Way Forward
 

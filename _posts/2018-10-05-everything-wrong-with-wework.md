@@ -29,7 +29,7 @@ This is certainly NOT coworking. So the question remains, what is co-working and
 
 Co-working was founded as a breeding ground for innovation. Built for entrepreneurs and SME’s with diverse backgrounds to come together and grow their businesses. The idea was for co-working to cater to smaller teams and looking to grow rapidly iterating and innovating, through collaboration, while keeping their costs low. However, once an inflection point is reached they re-locate to their own private office spaces as they add on dedicated departments and build their own company culture.
 
-![](https://cdn-images-1.medium.com/max/10944/1*itpAdE6O7ldkLqBqvW2ZTA.jpeg)
+![](https://cdn-images-1.medium.com/max/10944/1*itpAdE6O7ldkLqBqvW2ZTA.jpeg){:alt="flexibleofficespace"}
 
 As fully formed teams with diverse company cultures enter a coworking space, they are beginning to function as essentially smaller versions of commercial buildings, with little personality and differentiation.
 
