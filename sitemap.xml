@@ -6,136 +6,202 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
 <url>
   <loc>https://of10.in/</loc>
-  <lastmod>2017-04-01T12:36:12+00:00</lastmod>
-  <changefreq>yearly</changefreq>
+  <lastmod>2018-11-21T07:15:14+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://of10.in/contact/</loc>
-  <lastmod>2017-04-01T12:36:12+00:00</lastmod>
-  <changefreq>yearly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://of10.in/meetings/</loc>
-  <lastmod>2017-10-01T12:36:12+00:00</lastmod>
-  <changefreq>yearly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://of10.in/events/</loc>
-  <lastmod>2017-04-01T12:36:12+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <loc>https://of10.in/pay/</loc>
+  <lastmod>2018-11-21T07:15:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://of10.in/partnerships/</loc>
-  <lastmod>2017-04-01T12:36:12+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <lastmod>2018-11-21T07:15:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://of10.in/events/</loc>
+  <lastmod>2018-11-21T07:15:34+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://of10.in/press/</loc>
-  <lastmod>2017-04-01T12:36:12+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://of10.in/learn/</loc>
-  <lastmod>2017-04-01T12:36:12+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <lastmod>2018-11-21T07:15:38+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://of10.in/blog/</loc>
-  <lastmod>2017-04-01T12:36:12+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <lastmod>2018-11-21T07:15:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://of10.in/contact/</loc>
+  <lastmod>2018-11-21T07:15:12+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://of10.in/community/</loc>
-  <lastmod>2017-04-01T12:36:12+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <lastmod>2018-11-21T07:15:23+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://of10.in/2017/05/11/trendy-trends-of-coworking-spaces/</loc>
-  <lastmod>2017-05-13T12:36:12+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://of10.in/2017/05/02/empire-state-of-mind/</loc>
-  <lastmod>2017-05-13T12:36:12+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://of10.in/2017/04/27/blogcussion/</loc>
-  <lastmod>2017-04-28T12:36:12+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://of10.in/2017/04/18/work-independently-together/</loc>
-  <lastmod>2017-04-20T12:36:12+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://of10.in/2017/04/04/share-office-space-share-ideas/</loc>
-  <lastmod>2017-04-20T12:36:12+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://of10.in/2017/03/15/for-those-who-are-uncomfortable-being-truly-comfortable/</loc>
-  <lastmod>2017-04-01T12:36:12+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <loc>https://of10.in/2016/12/14/in-the-loving-memory-of/</loc>
+  <lastmod>2018-11-21T07:15:14+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://of10.in/2017/02/27/of10-work-from-singapore/</loc>
-  <lastmod>2017-04-01T12:36:12+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <lastmod>2018-11-21T07:15:12+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://of10.in/blog/page2/</loc>
-  <lastmod>2017-04-01T12:36:12+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://of10.in/blog/page3/</loc>
-  <lastmod>2017-04-01T12:36:12+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://of10.in/2016/12/14/in-the-loving-memory-of/</loc>
-  <lastmod>2017-04-01T12:36:12+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <loc>https://of10.in/2017/05/02/empire-state-of-mind/</loc>
+  <lastmod>2018-11-21T07:15:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://of10.in/2017/01/10/of10-betahaus-partnership/</loc>
-  <lastmod>2017-04-01T12:36:12+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <lastmod>2018-11-21T07:15:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://of10.in/img/logos/of10.psd</loc>
+  <lastmod>2018-11-21T07:15:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://of10.in/img/logos/of10-white.psd</loc>
+  <lastmod>2018-11-21T07:15:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://of10.in/2018/10/05/everything-wrong-with-wework/</loc>
+  <lastmod>2018-11-21T07:15:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://of10.in/2018/09/27/why-coworking-is-not-the-future-of-work/</loc>
+  <lastmod>2018-11-21T07:15:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://of10.in/2018/05/01/change-the-way-you-network-celebrate-and-honour/</loc>
+  <lastmod>2018-11-21T07:15:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://of10.in/blog/page2/</loc>
+  <lastmod>2018-11-21T07:15:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://of10.in/blog/page3/</loc>
+  <lastmod>2018-11-21T07:15:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://of10.in/blog/page4/</loc>
+  <lastmod>2018-11-21T07:15:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://of10.in/blog/page5/</loc>
+  <lastmod>2018-11-21T07:15:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://of10.in/blog/page6/</loc>
+  <lastmod>2018-11-21T07:15:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://of10.in/blog/page7/</loc>
+  <lastmod>2018-11-21T07:15:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://of10.in/blog/page8/</loc>
+  <lastmod>2018-11-21T07:15:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://of10.in/2016/11/07/think-solutions/</loc>
-  <lastmod>2017-04-01T12:36:12+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <lastmod>2018-11-21T07:16:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://of10.in/2017/03/15/For-those-who-are-uncomfortable-being-truly-comfortable/</loc>
+  <lastmod>2018-11-21T07:15:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://of10.in/2017/05/01/Of10-Weekly-Email-1/</loc>
+  <lastmod>2018-11-21T07:15:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://of10.in/2017/05/11/trendy-trends-of-coworking-spaces/</loc>
+  <lastmod>2018-11-21T07:15:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://of10.in/2018/04/29/office-space-goes-virtual/</loc>
+  <lastmod>2018-11-21T07:15:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://of10.in/2018/04/01/her-social-impact/</loc>
+  <lastmod>2018-11-21T07:15:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://of10.in/2017/12/28/the-rise-of-the-alternative-space/</loc>
+  <lastmod>2018-11-21T07:15:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://of10.in/2017/07/01/Of10-Weekly-Email-3/</loc>
+  <lastmod>2018-11-21T07:15:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://of10.in/2017/06/22/why-i-decided-to-work-out-of-a-coworking-space/</loc>
+  <lastmod>2018-11-21T07:15:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://of10.in/2017/06/13/why-solopreneurs-need-to-work-from-collaborative-spaces/</loc>
+  <lastmod>2018-11-21T07:15:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://of10.in/2017/06/01/Of10-Weekly-Email-2/</loc>
+  <lastmod>2018-11-21T07:15:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://of10.in/2017/04/27/blogcussion/</loc>
+  <lastmod>2018-11-21T07:15:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://of10.in/2017/04/18/work-independently-together/</loc>
+  <lastmod>2018-11-21T07:15:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://of10.in/2017/04/04/share-office-space-share-ideas/</loc>
+  <lastmod>2018-11-21T07:15:10+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://of10.in/2016/11/05/welcome-to-of10/</loc>
-  <lastmod>2017-04-01T12:36:12+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <lastmod>2018-11-21T07:15:11+00:00</lastmod>
   <priority>0.51</priority>
 </url>
+
+
 </urlset>

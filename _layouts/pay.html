@@ -1,11 +1,87 @@
 <!DOCTYPE html>
 <html>
-<head>
-   <title></title>
-</head>
-<body>
-  <script>
-    window.location.href = 'https://www.instamojo.com/@of10/';
-  </script>
-</body>
+  {% include head.html %}
+  <head>
+    <title></title>
+  </head>
+  <body class="full-intro">
+    <!-- Preloader -->
+    <section id="preloader">
+      <div class="loader" id="loader">
+        <p class="loader-caption color">#dowhatyouloveanddoitof10</p>
+        <!-- <div class="loader-img"></div> -->
+      </div>
+    </section>
+    <!-- End Preloader -->
+    {% include nav.html %}
+    <div id="wrapper" style="padding-top: 60px;">
+      {% include sidebar.html %}
+      <div id="page-content-wrapper">
+        <section id="pay" class=" ptb-sm-80">
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col-md-2"></div>
+              <div class="col-md-8 text-center">
+                <h1 class="color h4">Make a Payment</h1>
+              </div>
+              <div class="col-md-2"></div>
+            </div>
+            <div class="spacer-60"></div>
+            <div class="row">
+              <div class="col-md-8 col-md-offset-2 text-center">
+                <div class="form-field-wrapper">
+                  <input
+                    class="amount input-sm form-full"
+                    id="amount"
+                    type="text"
+                    name="amount"
+                    placeholder="Enter Amount (Default INR 1)"
+                    required
+                    autocomplete="Amount"
+                  />
+                </div>
+                <!-- Note that the amount is in paise = 50 INR -->
+                <button
+                  id="rzp-button1"
+                  class="btn btn-md btn-color-a form-full"
+                >
+                  Pay
+                </button>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+    <div class="spacer-60"></div>
+    {% include footer.html %} {% include community/js.html %}
+    <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
+    <script type="text/javascript">
+      $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#wrapper").toggleClass("toggled");
+      });
+
+      document.getElementById("rzp-button1").onclick = function(e) {
+        let amount = $("#amount").val();
+        console.log(amount);
+        const options = {
+          key: "rzp_live_hSyUBFWUh0WQjm",
+          amount: $("#amount").val() * 100 || 100, // 2000 paise = INR 20
+          name: "Of10",
+          description: "Pay us an amount",
+          image: "",
+          handler: function(response) {
+            console.log(response);
+          },
+          theme: {
+            color: "#EC0089"
+          }
+        };
+        var rzp1 = new Razorpay(options);
+        rzp1.open();
+        e.preventDefault();
+      };
+    </script>
+  </body>
 </html>
