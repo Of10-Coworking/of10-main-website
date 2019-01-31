@@ -2,6 +2,12 @@ user-agent: *
 Allow: /
 Disallow: /cdn-cgi/l/email-protection
 
+user-agent: *
+Disallow: /img/logos/of10.psd
+
+user-agent: *
+Disallow: /img/logos/of10-white.psd
+
 User-agent: Scrapy
 Disallow: /
 
