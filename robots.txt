@@ -2,10 +2,10 @@ user-agent: *
 Allow: /
 Disallow: /cdn-cgi/l/email-protection
 
-user-agent: *
+user-agent: Googlebot
 Disallow: /img/logos/of10.psd
 
-user-agent: *
+user-agent: Googlebot
 Disallow: /img/logos/of10-white.psd
 
 User-agent: Scrapy
