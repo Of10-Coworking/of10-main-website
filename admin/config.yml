@@ -15,11 +15,12 @@ collections:
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'text' }
+      - { label: 'Header Image', name: 'header_image', widget: 'image' }
+      - { label: 'Author', name: 'team', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-      - { label: 'Header Image', name: 'header_image', widget: 'image' }
       - { label: 'Post Image', name: 'post_image', widget: 'image' }
-      - { label: 'Post Image Caption', name: 'image_caption', widget: 'string' }
-      - { label: 'Author', name: 'team', widget: 'string' }
-      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Post Image Caption', name: 'image_caption', widget: 'text' }
+      
       
