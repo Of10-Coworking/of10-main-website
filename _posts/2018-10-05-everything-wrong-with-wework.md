@@ -4,7 +4,7 @@ title:  Everything wrong with WeWork's brand of coworking
 alt-title: everything-wrong-with-wework
 metatitle: Everything wrong with WeWork
 description: How coworking spaces should actually foster collaboration and enable innovation
-author: team
+author: umang
 header_image: wework.png
 comments: true
 ---

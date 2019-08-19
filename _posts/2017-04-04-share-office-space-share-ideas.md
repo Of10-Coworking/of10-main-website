@@ -4,7 +4,7 @@ title: Share Office Space, Share Ideas
 alt-title: share-office-space-share-ideas
 metatitle: Share Ideas in Shared Office Space - OF10
 description: Share Office Space, Share Ideas - Networking Opportunities That Come With Coworking in Mumbai
-author: team
+author: umang
 header_image: events1.jpg
 post_image: of10-shared-space-blog-share-office-space-share-ideas.jpg
 post_image_alt: exhange-of-services

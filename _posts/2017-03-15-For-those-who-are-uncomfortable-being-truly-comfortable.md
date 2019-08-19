@@ -4,7 +4,7 @@ title: For those who are uncomfortable being truly comfortable
 alt-title: for-those-who-are-uncomfortable-being-truly-comfortable
 metatitle: Who are Uncomfortable Being Truly Comfortable - Zeux Innovation
 description: "A UI design expert, the youngest MD of a UI design firm and now, the co-founder of Zeux Innovation sitting out of Of10"
-author: team
+author: umang
 tags: [Workspaces, Offices, Of10 Insider ]
 header_image: zeux.jpg
 post_image: of10-shared-space-blog-for-those-who-are-uncomfortable-being-truly-comfortable.jpg

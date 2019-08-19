@@ -4,7 +4,7 @@ title:  Office Space goes Virtual
 alt-title: office-space-goes-virtual
 metatitle: Office Space goes Virtual
 description: Get a Virtual Office in Powai, Mumbai
-author: team
+author: umang
 header_image: pineapple.jpeg
 comments: true
 ---

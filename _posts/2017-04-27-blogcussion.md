@@ -2,7 +2,7 @@
 layout: post
 title: Blogcussion
 alt-title: blogcussion
-author: team
+author: umang
 metatitle: Learn About Blogging From Experts in Industry
 description: Get a chance to upgrade your knowledge on blogging through the best bloggers in Mumbai.
 header_image: of10-shared-space-blog-blogging-blog-barticle.jpg

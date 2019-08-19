@@ -4,7 +4,7 @@ title:  Why coworking is NOT the future of work
 alt-title: why-coworking-is-not-the-future-of-work
 metatitle: Why coworking is NOT the future of work
 description: The future of coworking spaces in India
-author: team
+author: umang
 header_image: coworking.png
 comments: true
 ---

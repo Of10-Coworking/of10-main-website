@@ -35,6 +35,7 @@
     <link href="/css/plugin/owl.carousel.css" rel="stylesheet" type="text/css" >
     <link href="/css/plugin/colorbox.css" rel="stylesheet" type="text/css" />
     <link href="/css/plugin/jquery.fs.tipper.css" rel="stylesheet" type="text/css" >
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     
 </head>
 
@@ -749,5 +750,16 @@
          })
 
       </script>
+      <script>
+         if (window.netlifyIdentity) {
+           window.netlifyIdentity.on("init", user => {
+             if (!user) {
+               window.netlifyIdentity.on("login", () => {
+                 document.location.href = "/admin/";
+               });
+             }
+           });
+         }
+       </script>
    </body>
 </html>

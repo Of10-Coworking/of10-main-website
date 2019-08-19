@@ -2,7 +2,7 @@
 layout: post
 title: Of10 Weekly Email 1
 alt-title: of10-weekly-email-1
-author: team
+author: umang
 metatitle: Of10 Weekly Email - May 1st week
 description: Events, workshops and fun happening at Of10 this week.
 header_image: ninja.jpg

@@ -4,7 +4,7 @@ title:  Change the way you Network, Celebrate and Honour
 alt-title: change-the-way-you-Network
 metatitle: Change the way you Network, Celebrate and Honour
 description: Hire Of10 for your offsites, conferences and meetups
-author: team
+author: umang
 header_image: hotel_conf.jpeg
 comments: true
 ---

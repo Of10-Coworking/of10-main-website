@@ -2,7 +2,7 @@
 layout: post
 title: The Rise of the Alternative Space
 alt-title: the-rise-of-the-alternative-space
-author: team
+author: umang
 metatitle: The Rise of the Alternative Space
 description: The Rise of the Alternative Space
 header_image: fullview.jpg

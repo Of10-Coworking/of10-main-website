@@ -2,7 +2,7 @@
 layout: post
 title: Her Social Impact @ Of10
 alt-title: her-social-impact
-author: team
+author: umang
 metatitle: Her Social Impact @ Of10
 description: Her Social Impact showcases amazing women who work in the Social Impact space
 header_image: speakers-socialimpact.jpeg

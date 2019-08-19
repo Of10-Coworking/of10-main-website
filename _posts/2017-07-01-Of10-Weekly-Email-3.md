@@ -2,7 +2,7 @@
 layout: post
 title: Of10 Weekly Email 3
 alt-title: of10-weekly-email-3
-author: team
+author: umang
 metatitle: Of10 Weekly Email - July 1st week - Covfefe
 description: Events, workshops and fun happening at Of10 this week.
 header_image: covfefe.jpg
