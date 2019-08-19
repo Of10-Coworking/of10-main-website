@@ -1,1 +1,7 @@
-http://members.of10.in/* https://members.of10.in/:splat 301!
+# These rules will change if you change your site’s custom domains or HTTPS settings
+
+# Redirect domain aliases to primary domain
+https://members.of10.in/* https://www.of10.in/members:splat 301!
+
+# Optional: Redirect default Netlify subdomain to primary domain
+https://of10coworking.netlify.com/* https://www.of10.in/:splat 301!
