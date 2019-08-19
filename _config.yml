@@ -7,7 +7,8 @@ keywords: "coworking space in mumbai, event space, desk space, office space, off
 # Footer settings
 footer: Of10
 author: Of10
-include: [_redirects]
+include:
+  - _redirects
 
 collections:
   authors:
