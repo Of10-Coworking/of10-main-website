@@ -1,5 +1,5 @@
 ---
 short_name: anam
-name: Anam Khan
+display_name: Anam Khan
 position: Head of Community
 ---

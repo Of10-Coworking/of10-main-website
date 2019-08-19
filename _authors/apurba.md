@@ -1,5 +1,5 @@
 ---
 short_name: apurba
-name: Apurba Mandal
+display_name: Apurba Mandal
 position: Content Contributer
 ---
