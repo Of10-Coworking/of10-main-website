@@ -8,6 +8,9 @@ keywords: "coworking space in mumbai, event space, desk space, office space, off
 footer: Of10
 author: Of10
 
+collections:
+  authors:
+
 # authors:
 #   umang:
 #     display_name: Umang Sood

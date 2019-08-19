@@ -1,0 +1,13 @@
+---
+layout: team
+title: Of10 Team
+---
+<ul>
+  {% for author in site.authors %}
+    <li>
+      <h2>{{ author.display_name }}</h2>
+      <h3>{{ author.position }}</h3>
+      <p>{{ author.content | markdownify }}</p>
+    </li>
+  {% endfor %}
+</ul>

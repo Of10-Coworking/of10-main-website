@@ -1,15 +1,16 @@
 ---
 layout: post
+author: anam
 title: Conscious Real Estate for a suffocating planet
 description: >
   Of10 is committed to building a product that is not only better for the
   planet, but also better for the people living on it.
 header_image: /img/4th-wheel.jpeg
-team: Of10 Co-working
 date: 2019-08-19T05:43:41.871Z
-post_image: /img/26757999_1469730863124467_2383413188839218563_o.jpg
-image_caption: Building a better business world
+meta-title: Building a better business world
 ---
+Of10 is committed to building a product that is not only better for the planet, but also better for the people living on it.
+
 **Our Offices**
 
 Real Estate in Mumbai is notoriously unavailable and extremely expensive. We think building more Real Estate is NOT the answer.
