@@ -1,6 +1,7 @@
 # These rules will change if you change your site’s custom domains or HTTPS settings
 
 # Redirect domain aliases to primary domain
+http://members.of10.in/* https://www.of10.in/members:splat 301!
 https://members.of10.in/* https://www.of10.in/members:splat 301!
 
 # Optional: Redirect default Netlify subdomain to primary domain
