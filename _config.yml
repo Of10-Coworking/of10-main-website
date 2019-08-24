@@ -12,44 +12,6 @@ include: ["_redirects"]
 collections:
   authors:
 
-# authors:
-#   umang:
-#     display_name: Umang Sood
-#     email: umangsood@of10.in
-#     pic: umang.jpg
-#     web: http://www.umangsood.com/
-#     facebook: umangsood
-#     twitter: umangsood
-#   kaveri:
-#     display_name: Kaveri Tikmani
-#     email: kaveri@writesideup.com
-#     pic: kaveri.jpg
-#     web: http://www.writesideup.com/
-#     facebook: kaveri
-#     twitter: kaveritikmani
-#   upahar:
-#     display_name: Upahar Sood
-#     email: upaharsood@of10.in
-#     pic: upahar.jpg
-#     web: http://www.upaharsood.com/
-#     twitter: upaharsood
-#     facebook: upahar.sood
-#     github: usood
-#   team:
-#     display_name: Of10 Team
-#     email: work@of10.in
-#     pic: of10.png
-#     web: http://www.of10.in/
-#     twitter: workof10
-#     facebook: workof10
-#   apurba:
-#     display_name: Apurba Mandal
-#     email: apurba@of10.in
-#     pic: apurba.jpg
-#     twitter: workof10
-#     facebook: appy.aps
-#     linkedin: apurba-mandal-07
-
 offline:
   strategy: network-first-cache-fallback
 
