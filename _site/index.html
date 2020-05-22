@@ -104,15 +104,6 @@
     <li class="hvr-underline-from-left">
       <a title="of10-contact" href="/contact/" class="">Reach Us</a>
     </li>
-    <li class="hvr-underline-from-left">
-      <a
-        title="of0-member login"
-        target="/blanck"
-        href="https://members.of10.in"
-        class=""
-        >Member Login</a
-      >
-    </li>
   </ul>
 </div>
 
@@ -428,7 +419,7 @@
         <div class="spacer-75"></div>
         <div class="row">
             <div class="col-md-6 mb-45">
-                     <form id="contactform" action="/thanks" netlify-honeypot="bot-field" name="apply_for_an_office" data-netlify="true">
+                     <form id="contactform" method="POST" name="apply_for_an_office" data-netlify="true">
                     <h6 class="successContent">
                         <i class="fa fa-check left"></i>Your message has been sent successfully.
                     </h6>
@@ -455,10 +446,8 @@
                         <textarea class="form-full" id="form-message" rows="7" name="form-message" placeholder="Your requirements in terms of number of seats, number of days per week and intended time of use of the space" required></textarea>
                     </div>
 
-                    <p style="display:none;">
-                        <label>Don’t fill this out: <input name="bot-field"></label>
-                    </p>
-                    <button class="btn btn-md btn-color-a form-full" type="submit" name="submit">Send</button>
+                    <input type="text" name="_gotcha" style="display:none" />
+                    <button class="btn btn-md btn-color-a form-full" type="submit" id="form-submit" name="submit">Send</button>
                 </form>
                 <!-- END Contact FORM -->
 
@@ -515,7 +504,10 @@
             </div>
         </div>
     </div>
-
+    <script>
+        var contactform =  document.getElementById('contactform');
+        contactform.setAttribute('action', '//formspree.io/' + 'work' + '@' + 'of10' + '.' + 'in');
+    </script>
 </section>
 <!-- Contact Section -->
 
