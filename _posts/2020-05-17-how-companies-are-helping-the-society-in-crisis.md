@@ -35,10 +35,8 @@ Google did what it does best! It rolled out a special India specific website for
 
 Pepsi co foundation, the philanthropy wing of the food and beverage giant has committed to provide 2500 Covid-19 kits and 5 million meals to those in need under the ‘Give Meal, Give Hope’ global program. It has partnered with the NGO [Akshay Patra Foundation](https://www.akshayapatra.org/) for distributing cooked meals and with [Smile Foundation](https://medium.com/of10-a-coworking-space/www.smilefoundationindia.org) for distributing food ration to families who cannot step out to buy necessities because of the outbreak. Pepsi has launched a double matching gift program. Under this program the employees are encouraged to generate funds for the affected communities. That’s not it! Pepsi Foundation will double the amount collected by the employees and give it to the NGO partners. Don’t we all just love the Pepsi Swag!
 
-
-
 Thank you, from [of10](https://www.of1o.in/) to you!
 
 ## [Of10 : A Coworking Space](https://of10.in/)
 
-#### Of10 is a curated workspace located in Powai that provides the ultimate in insider access, allowing global jet setters and local tastemakers to be connected to the pulse of What’s New and Next
+#### Of10 is a curated [workspace located in Powai](https://www.of10.in/) that provides the ultimate in insider access, allowing global jet setters and local tastemakers to be connected to the pulse of What’s New and Next
