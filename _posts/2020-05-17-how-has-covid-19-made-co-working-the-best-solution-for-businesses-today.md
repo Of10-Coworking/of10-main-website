@@ -15,7 +15,7 @@ It’s as if Desmond Tutu was referring to the world today when he said those wo
 
 For business brawling to get through the consequences of the worldwide lock down, it’s time to make some bold decisions and find the best possible solutions that makes your business resilient.
 
-One easy to adapt option is moving in to a shared office space. Co-working as a business solution has never made more sense than it does today. The perks being offered by such places are exactly what we need today. Let me Explain.
+One easy to adapt option is moving in to a [shared office space](https://www.of10.in/). Co-working as a business solution has never made more sense than it does today. The perks being offered by such places are exactly what we need today. Let me Explain.
 
 A 30 day lock down implies a loss of nearly $240 billion for the country and a loss of many jobs for its people. With no revenue being generated, it is important to manage the cash flow and keep the outflows at bare minimum. Fixed costs like rent, salaries, maintenance, utilities etc form a chunk of your cash outflows, especially in a place like Mumbai. A co working space helps you get rid of all the unnecessary fixed costs like rents, utilities and maintenance.
 
