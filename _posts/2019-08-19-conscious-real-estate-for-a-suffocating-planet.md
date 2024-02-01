@@ -1,11 +1,12 @@
 ---
 layout: post
-author: anam
 title: Conscious Real Estate for a suffocating planet
+image_caption: Conscious Real Estate for a suffocating planet
 description: >
   Of10 is committed to building a product that is not only better for the
   planet, but also better for the people living on it.
 header_image: /img/4th-wheel.jpeg
+author: anam
 date: 2019-08-19T05:43:41.871Z
 meta-title: Building a better business world
 ---
@@ -17,7 +18,7 @@ Real Estate in Mumbai is notoriously unavailable and extremely expensive. We thi
 
 Of10 believes in better utilising the current Real Estate in Mumbai. We convert previously un-utilised or defunct spaces (dead spaces) to community centres cum co-working spaces for small businesses.
 
-For example, our current office space in Powai used to be a defunct gym lying vacant for over 2 years. We came in and transformed the space into a state of the art, profit generating, co-working and events space.
+For example, our current [office space in Powai](https://www.of10.in/) used to be a defunct gym lying vacant for over 2 years. We came in and transformed the space into a state of the art, profit generating, co-working and events space.
 
 There are millions of square feet of dead spaces around the city whose potential is waiting to be unlocked.
 
