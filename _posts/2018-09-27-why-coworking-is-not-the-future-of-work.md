@@ -1,19 +1,20 @@
 ---
 layout: post
-title:  Why coworking is NOT the future of work
-alt-title: why-coworking-is-not-the-future-of-work
-metatitle: Why coworking is NOT the future of work
+title: Why coworking is NOT the future of work
+image_caption: Why coworking is NOT the future of work
 description: The future of coworking spaces in India
-author: umang
 header_image: coworking.png
+author: umang
+date: 2024-02-02T05:06:44.998Z
+metatitle: Why coworking is NOT the future of work
+alt-title: why-coworking-is-not-the-future-of-work
 comments: true
 ---
-
 As coworking gets more press, we discover that coworking is really not what it’s cut out to be:
 
 ![Every coworking space ever.](https://cdn-images-1.medium.com/max/2048/0*nsrA5S5qEA2U76PH.jpg)*Every coworking space ever.*
 
-As I look through the newspaper today I see yet another well-funded coworking brand sign another 60,000 sq. ft space in Mumbai. Alarmingly this is the 4th independent coworking brand to infiltrate this 2 sq. km area in the past 6 months. All this while the existing coworking spaces in the area struggle to match occupancy expectations.
+As I look through the newspaper today I see yet another well-funded coworking brand sign another 60,000 sq. ft space in Mumbai. Alarmingly this is the 4th independent coworking brand to infiltrate this 2 sq. km area in the past 6 months. All this while the existing [coworking spaces](https://www.of10.in/) in the area struggle to match occupancy expectations.
 
 Coworking has long been touted as the future of work. Initially originating as compact, economical spaces for innovative small businesses to network, collaborate and grow, coworking spaces, have evolved to service enterprise clients exclusively. While everyone tries to jump on the coworking bandwagon, this industry with shaky foundations is beginning to creak.
 
@@ -50,9 +51,6 @@ The only thing the coworking space movement has taught us is that the way we wor
 In subsequent blog posts I will be covering the following:
 
 1. [Everything wrong with WeWorks brand of co-working and how to fix it](https://medium.com/@usood12/everything-wrong-with-weworks-brand-of-coworking-and-how-to-fix-it-809cb1b41c08)
-
-1. How do you build a coworking brand that lasts
-
-1. Building a profitable coworking space
-
-1. The future of Commercial Real Estate
+2. How do you build a coworking brand that lasts
+3. Building a profitable coworking space
+4. The future of Commercial Real Estate
