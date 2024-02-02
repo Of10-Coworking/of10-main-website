@@ -1,14 +1,15 @@
 ---
 layout: post
-title:  Everything wrong with WeWork's brand of coworking
-alt-title: everything-wrong-with-wework
-metatitle: Everything wrong with WeWork
+title: Everything wrong with WeWork's brand of coworking
+image_caption: Everything wrong with WeWork's brand of coworking
 description: How coworking spaces should actually foster collaboration and enable innovation
-author: umang
 header_image: wework.png
+author: umang
+date: 2024-02-02T05:05:28.992Z
+metatitle: Everything wrong with WeWork
+alt-title: everything-wrong-with-wework
 comments: true
 ---
-
 I explore the current problems of co-working as I delve deeper into making a successful co-working brand.
 
 ![What qualifies as co-working today](https://cdn-images-1.medium.com/max/4530/1*tUjWIX5-r9sCod3qxqvUJw.jpeg)*What qualifies as co-working today*
@@ -27,20 +28,20 @@ This is certainly NOT coworking. So the question remains, what is co-working and
 
 ## Innovation
 
-Co-working was founded as a breeding ground for innovation. Built for entrepreneurs and SME’s with diverse backgrounds to come together and grow their businesses. The idea was for co-working to cater to smaller teams and looking to grow rapidly iterating and innovating, through collaboration, while keeping their costs low. However, once an inflection point is reached they re-locate to their own private office spaces as they add on dedicated departments and build their own company culture.
+Co-working was founded as a breeding ground for innovation. Built for entrepreneurs and SME’s with diverse backgrounds to come together and grow their businesses. The idea was for co-working to cater to smaller teams and looking to grow rapidly iterating and innovating, through collaboration, while keeping their costs low. However, once an inflection point is reached they re-locate to their own [private office spaces](https://www.of10.in/) as they add on dedicated departments and build their own company culture.
 
 ![](https://cdn-images-1.medium.com/max/10944/1*itpAdE6O7ldkLqBqvW2ZTA.jpeg){:alt="flexibleofficespace"}
 
 As fully formed teams with diverse company cultures enter a coworking space, they are beginning to function as essentially smaller versions of commercial buildings, with little personality and differentiation.
 
 ## Member Quality
+
 > Imagine two classrooms with similar teachers. One has fifteen students, the other, thirty-two. Which group gets a better education?
 
 Co-working spaces are designed to nurture entrepreneurs and SME’s. However, most co-working spaces are large with more than 500 to 1000 seats. The focus of operators then moves to try to fill a large number of seats in the shortest duration of time rather than work with the companies within the space. This has two adverse effects.
 
 1. **Focus on quantity over quality:** *Each co-working space is only as good as its members*. But in a quest to reach occupancy levels quality is dropped in favor of any company that can fill the most number of seats.
-
-1. **Priorities Mixed Up:** The quest for occupancy results in the coworking space operators trying to appease and support their largest clients rather than the small, high growth entrepreneurs and SME’s that need their support the most.
+2. **Priorities Mixed Up:** The quest for occupancy results in the coworking space operators trying to appease and support their largest clients rather than the small, high growth entrepreneurs and SME’s that need their support the most.
 
 ## Community & Support
 
