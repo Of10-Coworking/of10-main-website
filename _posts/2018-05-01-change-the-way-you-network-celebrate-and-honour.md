@@ -1,21 +1,22 @@
 ---
 layout: post
-title:  Change the way you Network, Celebrate and Honour
-alt-title: change-the-way-you-Network
-metatitle: Change the way you Network, Celebrate and Honour
+title: Change the way you Network, Celebrate and Honour
+image_caption: Change the way you Network, Celebrate and Honour
 description: Hire Of10 for your offsites, conferences and meetups
-author: umang
 header_image: hotel_conf.jpeg
+author: umang
+date: 2024-02-02T05:14:11.406Z
+metatitle: Change the way you Network, Celebrate and Honour
+alt-title: change-the-way-you-Network
 comments: true
 ---
-
 Ever thought how you can take your event to the next level? We at Of10 are re-defining the traditional event space experience.
 
 The Banquet Hall, the sorry, curtain clad, red carpeted, musty carpeted home to our joyous occasions need to be put to rest. For far too long we have had to make do with these soul-less abodes for spaces that are empty dis-functional and quiet frankly relics of a less joyous times.
 
 ![How can we keep paying top dollar for this?](https://cdn-images-1.medium.com/max/9216/1*Nc9D3FcrE0kYW5YL6GDSJg.jpeg)*How can we keep paying top dollar for this?*
 
-The Hotel Banquet hall, while maybe great for a wedding reception has done little to re-invent itself to an office offsite, conference or meeting space. It has no incentive to do so either, because most of us have never experienced anything better and are blinkered by the tired and the age old. Where is the delight? where is the hospitality? This is a template approach for an occassion that deserves curation, care and most importantly, an element of fun!
+The Hotel Banquet hall, while maybe great for a wedding reception has done little to re-invent itself to an office offsite, conference or [meeting space](https://www.of10.in/). It has no incentive to do so either, because most of us have never experienced anything better and are blinkered by the tired and the age old. Where is the delight? where is the hospitality? This is a template approach for an occassion that deserves curation, care and most importantly, an element of fun!
 
 Enter Of10. We have taken it upon ourselves to re-imagine the traditional event experience. Gone are the days in which we would expect to do all the heavy lifting while the hotel served up its tired buffet and monitors. Welcome the age of the curated event experience
 
