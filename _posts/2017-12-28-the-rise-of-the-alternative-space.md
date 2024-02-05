@@ -1,20 +1,22 @@
 ---
+image_caption: The Rise of the Alternative Space
+post_image_alt: of10 coworking space
 layout: post
 title: The Rise of the Alternative Space
-alt-title: the-rise-of-the-alternative-space
-author: umang
-metatitle: The Rise of the Alternative Space
 description: The Rise of the Alternative Space
 header_image: fullview.jpg
-post_image: fullview.jpg
-post_image_alt: of10 coworking space
+author: umang
+date: 2024-02-05T11:20:36.047Z
+metatitle: The Rise of the Alternative Space
+alt-title: the-rise-of-the-alternative-space
 comments: true
+post_image: fullview.jpg
 ---
-
 ##### The workplace of the future integrates life and work. A place of work, ideas, collaboration, music, theatre and entertainment.
 
 ![of10-workspace](https://cdn-images-1.medium.com/max/640/1*lwIcDYXf2YUOjDPT6D0MHA.jpeg){:class="center-block img-responsive" :alt="coworkingfuture"}
 {::options parse_block_html="true" /}
+
 <p style="text-align: center;">Of10 Coworking, Powai</p>
 
 Where do you go to get things done?
@@ -25,12 +27,13 @@ According to the Staples Second Annual 2016 Workplace Index, 64% of respondents 
 
 Now these are harrowing statistics.
 
-With the rise of the creative class, the traditional office environment is redundant. We want flexibility, we want freedom and we need our own space. At Of10 we call this the "*Third Place"* --- community gathering spaces that are not work or home, such as coffee shops and co-working spaces.
+With the rise of the creative class, the traditional office environment is redundant. We want flexibility, we want freedom and we need our own space. At Of10 we call this the "*Third Place"* --- community gathering spaces that are not work or home, such as coffee shops and [co-working spaces](https://www.of10.in/).
 
 We believe the *Third Place* will ultimately become the #1 gathering grounds for cross-connecting people, cultures and organisations.
 
 ![Flexible Office Space](https://cdn-images-1.medium.com/max/640/1*i21jNicnC3pkozFaJ_Zk-g.jpeg){:class="center-block img-responsive" :alt="flexibleofficespace"}
 {::options parse_block_html="true" /}
+
 <p style="text-align: center;">Story Telling Conference</p>
 
 Let me give you an example to illustrate.
@@ -47,21 +50,23 @@ This connection of communities can inspire innovative thinking and provide oppor
 
 ![Flexible Office Space](https://cdn-images-1.medium.com/max/640/1*2Hpr2NDYD97JRGwysFlvUw.jpeg){:class="center-block img-responsive" :alt="flexibleofficespace"}
 {::options parse_block_html="true" /}
+
 <p style="text-align: center;">Improv</p>
 
 [Of10](http://www.of10.in) over the period of its existence has been a thriving co-working space, housing 15 diverse companies ranging from a [Social Impact Assessment](http://the4thwheel.com) company to a leading [Design Studio](http://zeuxinnovation.com).
 
 They have held
 
-1.  [Plays](https://www.facebook.com/events/494278954281115/)
-2.  [Improv nights](https://www.facebook.com/events/2018587701751833/)
-3.  [Conferences](https://www.facebook.com/events/306721846459325/), and
-4.  [Indie music gigs](https://www.facebook.com/events/174086289830085/).
+1. [Plays](https://www.facebook.com/events/494278954281115/)
+2. [Improv nights](https://www.facebook.com/events/2018587701751833/)
+3. [Conferences](https://www.facebook.com/events/306721846459325/), and
+4. [Indie music gigs](https://www.facebook.com/events/174086289830085/).
 
 Not only has this helped us create a vibrant community but it has also vitalised the neighbourhood.
 
 ![Flexible Office Space](https://cdn-images-1.medium.com/max/640/1*zsjzzKGbxIQJcsDIMb4Kww.jpeg){:class="center-block img-responsive"}
 {::options parse_block_html="true" /}
+
 <p style="text-align: center;">Live Music</p>
 
 The suburb of Powai which had never had access to high quality workshops, music and community events was now teaming with comedy gigs, live music, experimental theatre while becoming a cultural hub for all things creative.
