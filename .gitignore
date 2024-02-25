@@ -3,6 +3,7 @@ node_modules
 google*.html
 _site
 .idea
-
+purgecss.config.js
+/output-css
 # Local Netlify folder
 .netlify

@@ -6,48 +6,6 @@
 @import url("./plugin/jquery.fs.tipper.css");
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900);
 
-/*
-* BASIC STYLE
-  - General Style
-  - Headings Style
-  - Button Style
-  - Form Style
-  - Spacer Style
-
-* HEADER
-  - Header Style
-  - Navigation Menu
-  - Right Side Menu Button (Search, Cart, Bar, etc)
-
-* FOOTER
-
-* ELEMENTS
-  - Team Box
-  - Skills Bar
-  - Accordion Tab
-  - Counter
-  - Service Box
-  - Pricing
-  - Testimonials
-  - Client Logo
-  - Icon
-  - Table
-
-* GLOBAL STYLES
-  - Push Menu Style (Top, Bottom, Left, right)
-  - Contents (Body, Container, Section, etc)
-  - Contants (Portfolio, Blog, Shop etc)
-  - Parallax
-  - Slider
-  - Preloader
-  - Additional
-*/
-
-
-/*-------------------------------------------------------------------------------------------*/
-/* BASIC STYLE    ||---------------------------- */
-/*-------------------------------------------------------------------------------------------*/
-
 ::-moz-selection {
     background-color: #DC3D8E;
     color: #FFF;
@@ -59,7 +17,6 @@
 }
 
 
-/*  General Style   ||-----------*/
 
 body, html {
     height: 100%;
@@ -273,9 +230,6 @@ p {
         color: #323232;
     }
 
-
-/*Headings Style   ||-----------*/
-
 .separator {
     height: 1px;
     width: 32px;
@@ -396,7 +350,6 @@ h4.h5{
     line-height: 23px;
     font-weight: 600;
 }
-/*Button Style   ||-----------*/
 .btn:focus {
     outline: none;
 }
@@ -474,7 +427,6 @@ button {
 
     .btn-black:hover {
         color: #fff;
-        /*background: #e6ae49;*/
         background: rgba(50,50,50,0.85);
     }
 
@@ -491,8 +443,6 @@ button {
 
     .btn-color-b:hover {
         color: #fff;
-        /*color: #e6ae49;
-        background: #fff;*/
         background: rgba(230,174,73,0.85);
     }
 
@@ -503,8 +453,6 @@ button {
 }
 
     .btn-white:hover {
-        /*color: #fff;
-        background: #e6ae49;*/
         background: #DC3D8E;
         color: #323232;
     }
@@ -613,7 +561,6 @@ button {
     }
 }
 
-/*Form Style   ||-----------*/
 
 button {
     outline: none;
@@ -739,7 +686,6 @@ form label.error {
     text-transform: uppercase;
     color: #323232;font-family: 'Raleway',sans-serif;
 }
-/* Spacer Style   ||-----------*/
 
 .spacer-15 {
     width: 100%;
@@ -1213,11 +1159,7 @@ form label.error {
     vertical-align: middle;
 }
 
-/*-------------------------------------------------------------------------------------------*/
-/* HEADER         ||---------------------------- */
-/*-------------------------------------------------------------------------------------------*/
 
-/* Header Style */
 .wrapper {
     position: relative;
     width: 100%;
@@ -1231,15 +1173,14 @@ form label.error {
 .header .container {
     position: relative;
 }
-
+.bg-none{
+    background: transparent;
+}
 .header {
     background-color: #fff;
-    /*border-bottom: 1px solid #eee;*/
     color: #323232;
-    /*padding:25px 0px;*/
     padding: 0px;
     position: relative;
-    /*top: 0;*/
     transition: all 0.25s ease 0s;
     -webkit-transition-: all 0.25s ease 0s;
     -webkit-transition: all 0.25s ease 0s;
@@ -1279,7 +1220,6 @@ form label.error {
     -o-box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
     color: #323232;
     position: fixed;
-    /*border-bottom: 1px solid #eee;*/
 }
 
 .background--dark .header, .background--dark .header a,
@@ -1293,7 +1233,6 @@ form label.error {
 .header.sticky .side-menu-btn ul li a.right-icon, .header .mobile-menu-icon, .header.sticky .mobile-menu-icon {
     color: #FFF;
 }
-    /*#menu-button.menu-opened .bar-icon,*/
     .header .side-menu-btn ul li a.right-icon:hover, .header.sticky .side-menu-btn ul li a.right-icon:hover, .header .mobile-menu-icon:hover,
     .background--dark .header .navigation a:hover {
         color: #FFF;
@@ -1308,7 +1247,6 @@ form label.error {
     padding: 0;
 }
 
-/* logo Style */
 .header .logo a img.l-white, .header .logo a img.l-color, .header.sticky .logo a img.l-white, .header.sticky .logo a img.l-black,
 .full-intro .header.sticky .logo a img.l-white,
 .background--dark .header .logo a img.l-color, .background--dark .header .logo a img.l-black,
@@ -1362,7 +1300,6 @@ form label.error {
     display: block;
 }
 
-/* Navigation Menu Style*/
 .mobile-menu-icon-wraper {
     display: none;
     position: relative;
@@ -1400,7 +1337,6 @@ header.sticky .navigation a.current-ele {
     color:#DC3D8E !important;
 }
 
-/* Right Side Menu Button Style*/
 .header .side-menu-btn {
     float: right;
     position: relative;
@@ -1544,8 +1480,7 @@ header.sticky .navigation a.current-ele {
     position: relative;
     width: 100%;
     height: 850px;
-    /*background-attachment: fixed;*/
-}
+    }
 
 @font-face {
     font-family: 'Raleway';
@@ -1599,8 +1534,7 @@ header.sticky .navigation a.current-ele {
     .logo-insider{
         color: #EC008C;
         float: right;
-        left: -50%; /* or right 50% */
-        text-align: left;
+        left: -50%;         text-align: left;
         opacity:1;
     }
     .full-intro .header {
@@ -1621,8 +1555,7 @@ header.sticky .navigation a.current-ele {
     .logo-insider{
         color: #EC008C;
         float: right;
-        left: -50%; /* or right 50% */
-        text-align: left;
+        left: -50%;         text-align: left;
         opacity:1;
     }
     .full-intro .header {
@@ -1640,23 +1573,14 @@ header.sticky .navigation a.current-ele {
 .overlay{
     height: 0%;
     width: 100%;
-    position: fixed; /* Stay in place */
-    z-index: 100; /* Sit on top */
-    left: 0;
+    position: fixed;     z-index: 100;     left: 0;
     top: 0;
-    /*background: rgba(227, 100, 165, 0.95);*/
-    background-image: url("../img/garage_background.png");
-    overflow-x: hidden; /* Disable horizontal scroll */
-    transition: 0.5s; /* 0.5 second transition effect to slide in or slide down the overlay (height or width, depending on reveal) */
-}
+        background-image: url("../img/garage_background.png");
+    overflow-x: hidden;     transition: 0.5s; }
 
 .overlay-content {
     position: relative;
-    top: 10%; /* 25% from the top */
-    width: 100%; /* 100% width */
-    text-align: center; /* Centered text/links */
-    margin-top: 30px; /* 30px top margin to avoid conflict with the close button on smaller screens */
-}
+    top: 10%;     width: 100%;     text-align: center;     margin-top: 30px; }
 
 .overlay a {
     padding: 40px;
@@ -1664,9 +1588,7 @@ header.sticky .navigation a.current-ele {
     font-size: 60px;
     font-weight: 600;
     color: #fff;
-    display: block; /* Display block instead of inline */
-    transition: 0.3s; /* Transition effects on hover (color) */
-}
+    display: block;     transition: 0.3s; }
 
 .overlay a:hover {
     background: #fff;
@@ -1700,18 +1622,10 @@ header.sticky .navigation a.current-ele {
         color: #323232;
     }
 
-    /*.full-intro .header {*/
-        /*background-color: rgba(255, 255, 255, 0.95);*/
-        /*!*box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);*/
-        /*-moz-box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);*/
-        /*-webkit-box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);*/
-        /*-o-box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);*!*/
-    /*}*/
-}
+                                                }
 
 @media (max-width: 991px) {
-    /* HEADER STYLE ------------ */
-    .header .side-menu-btn, .header .mobile-menu-icon-wraper {
+        .header .side-menu-btn, .header .mobile-menu-icon-wraper {
         padding: 19px 0 20px;
     }
 
@@ -1724,8 +1638,7 @@ header.sticky .navigation a.current-ele {
         margin-top: 15px;
         width: 95px;
     }
-    /* END HEADER STYLE ------------------ */
-}
+    }
 
 
 @media (min-width: 768px) {
@@ -1738,9 +1651,6 @@ header.sticky .navigation a.current-ele {
 }
 
 
-/*==============================================================================================*/
-/* FOOTER         ||---------------------------- */
-/*==============================================================================================*/
 
 .footer {
     background-color: #000;
@@ -1791,8 +1701,7 @@ header.sticky .navigation a.current-ele {
 .footer .link a {
     font-size: 16px;
     font-weight: 500;
-    /*text-transform: uppercase;*/
-    letter-spacing: 2px;
+        letter-spacing: 2px;
     color: #fff;
 }
 
@@ -1835,13 +1744,7 @@ header.sticky .navigation a.current-ele {
         text-align: center;
     }
 }
-/*================================================================================================*/
-/* ELEMENTS          ||---------------------------- */
-/*================================================================================================*/
 
-/*-------------------------------------------------------------------------------------------*/
-/*  Team Box         ||---------------------------- */
-/*-------------------------------------------------------------------------------------------*/
 .team-item {
 }
 
@@ -1907,9 +1810,6 @@ header.sticky .navigation a.current-ele {
         margin-bottom: 0px;
     }
 
-/*-------------------------------------------------------------------------------------------*/
-/*  Skills Bar      ||---------------------------- */
-/*-------------------------------------------------------------------------------------------*/
 .skillbar {
     position: relative;
     display: block;
@@ -1955,9 +1855,6 @@ header.sticky .navigation a.current-ele {
 }
 
 
-/*-------------------------------------------------------------------------------------------*/
-/*  Accordion Tab    ||---------------------------- */
-/*-------------------------------------------------------------------------------------------*/
 .accordion-section {
     border-top: 1px solid #f1f1f1;
     border-left: 1px solid #f1f1f1;
@@ -1977,8 +1874,7 @@ header.sticky .navigation a.current-ele {
 }
 
     .accordion-title.active {
-        /*background: #fafafa;*/
-        color: #e6ae49;
+                color: #e6ae49;
     }
 
     .accordion-title:before {
@@ -2008,17 +1904,11 @@ header.sticky .navigation a.current-ele {
 .accordion-content p a:hover , p.para-insider a:hover,p.lead a{
     color:#DC3D8E;
 }
-/*-------------------------------------------------------------------------------------------*/
-/*  Counter          ||---------------------------- */
-/*-------------------------------------------------------------------------------------------*/
 .counter {
     font-size: 50px;
     margin-bottom: 20px;
     display: inline-table;
 }
-/*-------------------------------------------------------------------------------------------*/
-/*  Service Box      ||---------------------------- */
-/*-------------------------------------------------------------------------------------------*/
 .features-box-left, .features-box-right {
     position: relative;
     display: inline-block;
@@ -2104,9 +1994,6 @@ header.sticky .navigation a.current-ele {
         right: auto;
     }
 }
-/*-------------------------------------------------------------------------------------------*/
-/*  Pricing       ||---------------------------- */
-/*-------------------------------------------------------------------------------------------*/
 
 .Pricing-box {
     background: #f9f9f9;
@@ -2166,9 +2053,6 @@ header.sticky .navigation a.current-ele {
         }
 
 
-/*-------------------------------------------------------------------------------------------*/
-/*  Testimonials     ||---------------------------- */
-/*-------------------------------------------------------------------------------------------*/
 
 .container-icon {
     font-size: 25px;
@@ -2190,9 +2074,6 @@ header.sticky .navigation a.current-ele {
         font-weight: 400;
     }
 
-/*-------------------------------------------------------------------------------------------*/
-/* Client Logo       ||---------------------------- */
-/*-------------------------------------------------------------------------------------------*/
 .client-logo {
     height: 100px;
     text-align: center;
@@ -2217,9 +2098,6 @@ header.sticky .navigation a.current-ele {
       width: 150px;
     }
 
-/*-------------------------------------------------------------------------------------------*/
-/* Icon          ||---------------------------- */
-/*-------------------------------------------------------------------------------------------*/
 .page-icon-top {
     font-size: 50px;
     line-height: 50px;
@@ -2242,9 +2120,6 @@ header.sticky .navigation a.current-ele {
     color: #fff;
 }
 
-/*-------------------------------------------------------------------------------------------*/
-/* Table          ||---------------------------- */
-/*-------------------------------------------------------------------------------------------*/
 
 
 .table.table-border {
@@ -2285,13 +2160,6 @@ header.sticky .navigation a.current-ele {
 }
 
 
-/*================================================================================================*/
-/* GLOBAL STYLES       ||---------------------------- */
-/*================================================================================================*/
-/*-------------------------------------------------------------------------------------------*/
-/* Push Menu Style (Top Seachbar Menu, Right Sidebar Menu) --------------- */
-/*-------------------------------------------------------------------------------------------*/
-/* Sidebar Menu */
 .side-menu {
     background: #323232;
     z-index: 2005;
@@ -2308,15 +2176,13 @@ header.sticky .navigation a.current-ele {
         right: 30px;
         top: 30px;
         display: inline-block;
-        /*background: url("../img/close-white.png") no-repeat center center;*/
-        color: #fff;
+                color: #fff;
         font-size: 18px;
         line-height: 0;
     }
 
         .side-menu .menu-close:hover {
-            /*background: url("../img/close-color.png");*/
-            color: #DC3D8E;
+                        color: #DC3D8E;
         }
 
     .side-menu a {
@@ -2345,16 +2211,11 @@ header.sticky .navigation a.current-ele {
     }
 
     .side-menu input[type="text"], .side-menu input[type="email"], .side-menu input[type="tel"], .side-menu input[type="number"], .side-menu input[type="password"], .side-menu input[type="radio"], .side-menu input[type="checkbox"], .side-menu textarea, .side-menu select {
-        /*border: 1px solid #1d1d1d;
-        background: #1d1d1d;
-        color: #fff;*/
-        border: none;
+                border: none;
     }
 
         .side-menu input[type="text"]:focus, .side-menu input[type="email"]:focus, .side-menu input[type="tel"]:focus, .side-menu input[type="number"]:focus, .side-menu input[type="radio"]:focus, .side-menu input[type="checkbox"]:focus, .side-menu input[type="password"]:focus, .side-menu textarea:focus, .side-menu select:focus {
-            /*border-color: #e6ae49;
-            color: #fff;*/
-        }
+                    }
 
     .side-menu .sign-in {
         padding-bottom: 30px;
@@ -2391,7 +2252,6 @@ header.sticky .navigation a.current-ele {
             .side-menu .social li a {
                  font-size:16px;
             }
-/* Top Searchbar Menu */
 .top-search-bar {
     background: #444444;
     z-index: 2002;
@@ -2421,8 +2281,7 @@ header.sticky .navigation a.current-ele {
         position: absolute;
         top: 10px;
         color: #fff;
-        /*background-image: url("../img/sidemenu-icon-light.png");*/
-        background-repeat: no-repeat;
+                background-repeat: no-repeat;
         display: block;
         font-size: 20px;
     }
@@ -2438,9 +2297,6 @@ header.sticky .navigation a.current-ele {
         background-position: left center;
     }
 
-/* --------------------------------------------------------------------------------------- */
-/* Contents (Body, Container, Section, etc) -------------- */
-/* --------------------------------------------------------------------------------------- */
 .wrapper {
     position: relative;
     width: 100%;
@@ -2597,14 +2453,12 @@ height:100%;
     position: relative;
     width: 100%;
     height: 1000px;
-    /*background-attachment: fixed;*/
-}
+    }
 
 .bg-fixed {
     background-attachment: fixed;
 }
 
-/*backround images*/
 .bg-img {
     background-position: top center;
     background-repeat: no-repeat;
@@ -2681,23 +2535,8 @@ height:100%;
     }
 
 
-    /*.inner-intro .container .title h2 {
-            float: none;
-        }
+    }
 
-        .inner-intro .container .title p {
-            float: none;
-            margin-top: 0px;
-        }
-        .inner-intro .container .title .separator {
-            margin-left:auto;
-            margin-right:auto;
-        }*/
-}
-
-/* ===================================================================================================== */
-/* Contants (Portfolio, Blog, Shop, etc) -------------------  */
-/* ===================================================================================================== */
 
 .container.nf-container1 {
     padding-left: 15px;
@@ -2705,15 +2544,12 @@ height:100%;
 }
 
 .container.nf-container2 {
-    /*padding-left: 25px;
-    padding-right: 25px;*/
-}
+    }
 
 .nf-row1 {
     margin-left: -15px;
     margin-right: -15px;
-    /*overflow: hidden;*/
-}
+    }
 
 .nf-col-padding {
     padding-left: 25px;
@@ -2721,9 +2557,7 @@ height:100%;
 }
 
 .nf-row2 {
-    /*margin-left: -25px;
-    margin-right: -25px;*/
-}
+    }
 
     .nf-row1:before, .nf-row1:after, .nf-row2:before, .nf-row2:after {
         display: table;
@@ -2884,9 +2718,6 @@ height:100%;
         width: 100%;
     }
 }
-/* ----------------------------------------------------------------------*/
-/* Sidebar Widget   ---------------------------------------------------- */
-/* ----------------------------------------------------------------------*/
 
 .sidebar-widget {
     margin-bottom: 50px;
@@ -3015,9 +2846,6 @@ height:100%;
         .sidebar-widget .widget-post .widget-post-info p {
             margin: 0px;
         }
-/* ----------------------------------------------------------------------*/
-/* Pagination Navigation   --------------------------------------------- */
-/* ----------------------------------------------------------------------*/
 .pagination-nav {
     width: 100%;
     display: block;
@@ -3054,8 +2882,7 @@ height:100%;
 .youtube-player {
     position: relative;
     padding-bottom: 56.23%;
-    /* Use 75% for 4:3 videos */
-    height: 0;
+        height: 0;
     overflow: hidden;
     max-width: 100%;
     background: #000;
@@ -3103,9 +2930,6 @@ height:100%;
     background: url("//i.imgur.com/TxzC70f.png") no-repeat;
     cursor: pointer;
 }
-/* ----------------------------------------------------------------------*/
-/* Portfolio   --------------------------------------------------------- */
-/* ----------------------------------------------------------------------*/
 .container-filter {
     margin-top: 0;
     margin-right: 0;
@@ -3162,9 +2986,6 @@ height:100%;
   border-radius: 50%;
 }
 
-/*.square-white:hover {
-  background-color: #ec0089;
-}*/
 
 .center-box{
   padding-top: 150px;
@@ -3224,10 +3045,7 @@ height:100%;
         }
 
     .item-box:hover .item-container {
-        /*transform: scale(1.3);
-        transition: all 0.4s cubic-bezier(0.23, 1, 0.32, 1) 0s;
-        width: 100%;*/
-    }
+            }
 
 .item-box-location {
     position: relative;
@@ -3456,8 +3274,7 @@ ul.project-detail-block, .project-detail-block ul {
 
         .item-nav .item-prev:hover .prev-btn, .item-nav .item-next:hover .next-btn {
             background: #f7f7f7;
-            /*color: #fff;*/
-        }
+                    }
 
     .item-nav .item-prev {
         text-align: left;
@@ -3516,12 +3333,6 @@ ul.project-detail-block, .project-detail-block ul {
             padding-top: 8px;
         }
 
-/* ----------------------------------------------------------------------*/
-/* Blog   --------------------------------------------------------- */
-/* ----------------------------------------------------------------------*/
-/*.blog-post {
-    position: relative;
-}*/
 .blog-post {
     display: inline-block;
     width: 100%;
@@ -3757,9 +3568,6 @@ ul.project-detail-block, .project-detail-block ul {
     content: "";
     color:transparent;
 }
-/* ----------------------------------------------------------------------*/
-/* Shop   --------------------------------------------------------- */
-/* ----------------------------------------------------------------------*/
 .shop-item {
     position: relative;
     overflow: hidden;
@@ -3815,7 +3623,6 @@ ul.project-detail-block, .project-detail-block ul {
     display: inline-table;
     width: 100%;
 }
-/* Shop Detail*/
 .shop-detail-item {
     position: relative;
 }
@@ -3838,9 +3645,6 @@ ul.project-detail-block, .project-detail-block ul {
     font-size: 18px;
 }
 
-/* =============================================================================================================================*/
-/* Parallax ------------------- */
-/* =============================================================================================================================*/
 .parallax {
     position: relative;
 }
@@ -3879,9 +3683,6 @@ ul.project-detail-block, .project-detail-block ul {
   background-image: url("/img/feet_on_table.jpg");
   background-size: cover;
 }
-/* -------------------------------------*/
-/* Full Screen slider---------*/
-/* -------------------------------------*/
 .hero {
     overflow: hidden;
     position: relative;
@@ -3935,7 +3736,6 @@ ul.project-detail-block, .project-detail-block ul {
     margin-bottom: 15px;
 }
 
-/* Full Width Slider */
 .fullwidth-slider {
     position:relative;
     overflow:hidden;
@@ -3948,7 +3748,6 @@ ul.project-detail-block, .project-detail-block ul {
 }
 
 
-/* Fullscreen Slider Next Prev Arrow*/
 
 
 .fullscreen-carousel .flex-direction-nav a {
@@ -4007,8 +3806,7 @@ ul.project-detail-block, .project-detail-block ul {
 
 @media (max-width: 991px) {
 
-    /* Fullscreen Slider */
-    .fullscreen-carousel .slides li img {
+        .fullscreen-carousel .slides li img {
         width: 100%;
         height: 100%;
     }
@@ -4025,8 +3823,7 @@ ul.project-detail-block, .project-detail-block ul {
 
 @media (max-width: 767px) {
 
-    /* Fullscreen Slider */
-    .fullscreen-carousel .caption-hero h1 {
+        .fullscreen-carousel .caption-hero h1 {
         font-size: 20px;
         margin: 0;
     }
@@ -4065,9 +3862,6 @@ ul.project-detail-block, .project-detail-block ul {
     }
 }
 
-/* -------------------------------------*/
-/* Carousel-Theme (Slider Elements - Bullets, Pagination, etc..) ---------*/
-/* -------------------------------------*/
 .owl-buttons {
     position: static;
 }
@@ -4131,8 +3925,7 @@ ul.project-detail-block, .project-detail-block ul {
         .fullwidth-slider .owl-controls .owl-buttons .owl-next:hover,
         .nf-carousel-theme .owl-controls .owl-buttons .owl-prev:hover,
         .nf-carousel-theme .owl-controls .owl-buttons .owl-next:hover {
-            /*background: #fff;*/
-            color: #DC3D8E;
+                        color: #DC3D8E;
         }
 
     .content-carousel .owl-controls .owl-buttons .owl-next,
@@ -4168,9 +3961,6 @@ ul.project-detail-block, .project-detail-block ul {
     }
 
 
-/* -------------------------------------*/
-/* Singel Item slider (Images & Contant Slider) ---------*/
-/* -------------------------------------*/
 .content-carousel .owl-controls .owl-pagination,
 .image-slider .owl-controls .owl-pagination,
 .fullwidth-slider .owl-controls .owl-pagination,
@@ -4213,9 +4003,6 @@ ul.project-detail-block, .project-detail-block ul {
     opacity: 0;
 }
 
-/*===========================================================================================*/
-/* Preloader ------------------------- */
-/*===========================================================================================*/
 
 #preloader {
     position: fixed;
@@ -4280,7 +4067,7 @@ ul.project-detail-block, .project-detail-block ul {
               display: block;
               font-size: medium;
 
-        }
+        }}
         @media (max-width: 350px) {
           #preloader .loader .loader-caption{
               font-weight: 600;
@@ -4288,15 +4075,9 @@ ul.project-detail-block, .project-detail-block ul {
               font-size: 16px;
 
 
-        }
+        }}
 
-/*===========================================================================================*/
-/* Additional */
-/*===========================================================================================*/
 
-/* ----------------------------------*/
-/* Scroll Down Animated Arrow */
-/* ----------------------------------*/
 .intro-scroll-down {
     position: absolute;
     z-index: 1;
@@ -4410,9 +4191,6 @@ ul.project-detail-block, .project-detail-block ul {
     }
 }
 
-/* ----------------------------------*/
-/* Scroll Top Arrow */
-/* ----------------------------------*/
 .scroll-top {
     width: 40px;
     height: 40px;

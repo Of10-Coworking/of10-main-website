@@ -5,7 +5,7 @@
             <div class="container-fluid">
                 <div class="row text-center">
                     <div class="col-md-12">
-                      <a href="#explore">
+                      <a href="#explore" aria-label="Learn more about of10">
                         <div id="of10-video">
                           <video width="95%" height="95%" autoplay loop>
                             <source type="video/mp4" src="https://res.cloudinary.com/of10/image/upload/v1496831451/of10-old_cmauar.mp4">
@@ -14,14 +14,19 @@
                           </video>
                         </div>
                         <div id="of10-gif" style="display:none;">
-                          <img alt="Coworking Office Space" src="/img/of10-smaller.gif" class="responsive">
+                          <video width="95%" height="95%" autoplay muted loop>
+                            <source type="video/mp4" src="/img/of10-smaller.webm">
+                            <source type="video/webm" src="/img/of10-smaller.mp4">
+                            <p>Video is not visible, most likely your browser does not support HTML5 video</p>
+                          </video>
+                          <!-- <img loading="lazy" alt="Coworking Office Space" src="/img/of10-smaller.gif" class="responsive"> -->
                         </div>
                         </a>
                       <div class="spacer-60"></div>
                       <div>
                         <a href="#apply" class="btn btn-md btn-color-a homebutton">Join Us</a>
                         <span class="btn-space-10"></span>
-                        <a href="#explore" class="btn btn-md btn-color-line homebutton">Learn More</a>
+                        <a href="#explore" aria-label="Learn more about of10" class="btn btn-md btn-color-line homebutton">Learn More</a>
                       </div>
                     </div>
                 </div>
