@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  {% include sitemap/head.html %}
+  <body class="full-intro">
+    <section id="preloader">
+      <div class="loader" id="loader">
+        <p class="loader-caption color">#goplaces</p>
+      </div>
+    </section>
+    {% include nav.html %}
+    <div id="wrapper" style="padding-top: 60px">
+      {% include sidebar.html %}
+      <div id="page-content-wrapper">
+        {% include sitemap/main.html %} {% include footer.html %}
+      </div>
+    </div>
+    {% include community/js.html %}
+    <script>
+      $(".expand_items").click(function (e) {
+        e.preventDefault();
+        console.log("dd");
+        $(".collapsed_item").toggle();
+      });
+    </script>
+    <script type="text/javascript">
+      $("#menu-toggle").click(function (e) {
+        e.preventDefault();
+        $("#wrapper").toggleClass("toggled");
+      });
+    </script>
+  </body>
+</html>
