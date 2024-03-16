@@ -33,24 +33,27 @@
     })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
 </script> -->
 <!-- Start of HubSpot Embed Code -->
-  <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/4722064.js"></script>
+<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/4722064.js"></script>
 <!-- End of HubSpot Embed Code -->
 <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
-  ga('create', 'UA-64567607-1', 'auto');
-  ga('send', 'pageview');
+    ga('create', 'UA-64567607-1', 'auto');
+    ga('send', 'pageview');
 </script>
 <script>
     /* Light YouTube Embeds by @labnol */
     /* Web: http://labnol.org/?p=27941 */
     document.addEventListener("DOMContentLoaded",
-        function() {
+        function () {
             var div, n,
                 v = document.getElementsByClassName("youtube-player");
+
             for (n = 0; n < v.length; n++) {
                 div = document.createElement("div");
                 div.setAttribute("data-id", v[n].dataset.id);
@@ -61,14 +64,15 @@
         });
 
     function labnolThumb(id) {
-        var thumb = '<img loading="lazy" alt="what is of10" src="https://i.ytimg.com/vi/ID/hqdefault.jpg">',
+        var thumb = '<img loading="lazy" alt="what is of10" src="img/gallery/new-office/OF10_Pictures_6.png">',
             play = '<div class="play"></div>';
         return thumb.replace("ID", id) + play;
     }
 
     function labnolIframe() {
         var iframe = document.createElement("iframe");
-        var embed = "https://www.youtube.com/embed/ID?enablejsapi=1&origin=https://of10.in";
+        // var embed = "https://www.youtube.com/embed/ID?enablejsapi=1&origin=https://of10.in";
+        var embed = "https://www.youtube.com/embed/tPwVHLiQfys?si=5KNo5hbG83uSXgqB";
         iframe.setAttribute("src", embed.replace("ID", this.dataset.id));
         iframe.setAttribute("frameborder", "0");
         iframe.setAttribute("allowfullscreen", "1");
@@ -79,9 +83,9 @@
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-N53W4RSQFQ"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
 
-  gtag('config', 'G-N53W4RSQFQ');
+    gtag('config', 'G-N53W4RSQFQ');
 </script>
